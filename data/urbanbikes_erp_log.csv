@@ -1,0 +1,1649 @@
+Bestellnummer,Aktivitaet,Timestamp,User
+ORD-10001,Bestellung eingegangen,2025-10-04 09:10:00,System
+ORD-10001,Bonitätsprüfung automatisch,2025-10-04 09:18:00,System
+ORD-10001,Übermittlung an Lager,2025-10-04 09:27:00,System Interface
+ORD-10002,Bestellung eingegangen,2025-09-11 13:56:00,System
+ORD-10002,Bonitätsprüfung automatisch,2025-09-11 14:06:00,System
+ORD-10002,Übermittlung an Lager,2025-09-11 14:52:00,System Interface
+ORD-10003,Bestellung eingegangen,2025-10-04 13:12:00,System
+ORD-10003,Bonitätsprüfung automatisch,2025-10-04 13:17:00,System
+ORD-10003,Übermittlung an Lager,2025-10-04 13:45:00,System Interface
+ORD-10004,Bestellung eingegangen,2025-10-15 14:47:00,System
+ORD-10004,Bonitätsprüfung automatisch,2025-10-15 14:54:00,System
+ORD-10004,Übermittlung an Lager,2025-10-15 15:14:00,System Interface
+ORD-10005,Bestellung eingegangen,2025-10-14 10:29:00,System
+ORD-10005,Bonitätsprüfung automatisch,2025-10-14 10:37:00,System
+ORD-10005,Übermittlung an Lager,2025-10-14 10:47:00,System Interface
+ORD-10006,Bestellung eingegangen,2025-09-15 12:46:00,System
+ORD-10006,Bonitätsprüfung automatisch,2025-09-15 12:55:00,System
+ORD-10006,Übermittlung an Lager,2025-09-15 13:55:00,System Interface
+ORD-10007,Bestellung eingegangen,2025-09-27 17:22:00,System
+ORD-10007,Bonitätsprüfung automatisch,2025-09-27 17:29:00,System
+ORD-10007,Übermittlung an Lager,2025-09-27 18:29:00,System Interface
+ORD-10008,Bestellung eingegangen,2025-09-18 13:20:00,System
+ORD-10008,Bonitätsprüfung automatisch,2025-09-18 13:21:00,System
+ORD-10008,Übermittlung an Lager,2025-09-18 14:07:00,System Interface
+ORD-10009,Bestellung eingegangen,2025-10-19 18:00:00,System
+ORD-10009,Bonitätsprüfung automatisch,2025-10-19 18:09:00,System
+ORD-10009,Übermittlung an Lager,2025-10-19 18:40:00,System Interface
+ORD-10010,Bestellung eingegangen,2025-09-20 09:18:00,System
+ORD-10010,Bonitätsprüfung automatisch,2025-09-20 09:22:00,System
+ORD-10010,Übermittlung an Lager,2025-09-20 10:04:00,System Interface
+ORD-10011,Bestellung eingegangen,2025-10-24 11:58:00,System
+ORD-10011,Bonitätsprüfung automatisch,2025-10-24 12:02:00,System
+ORD-10011,Übermittlung an Lager,2025-10-24 12:35:00,System Interface
+ORD-10012,Bestellung eingegangen,2025-10-01 13:28:00,System
+ORD-10012,Bonitätsprüfung automatisch,2025-10-01 13:36:00,System
+ORD-10012,Übermittlung an Lager,2025-10-01 13:59:00,System Interface
+ORD-10013,Bestellung eingegangen,2025-09-29 18:01:00,System
+ORD-10013,Bonitätsprüfung automatisch,2025-09-29 18:05:00,System
+ORD-10013,Übermittlung an Lager,2025-09-29 18:20:00,System Interface
+ORD-10014,Bestellung eingegangen,2025-09-18 13:37:00,System
+ORD-10014,Bonitätsprüfung automatisch,2025-09-18 13:39:00,System
+ORD-10014,Übermittlung an Lager,2025-09-18 13:47:00,System Interface
+ORD-10015,Bestellung eingegangen,2025-09-24 16:04:00,System
+ORD-10015,Bonitätsprüfung automatisch,2025-09-24 16:08:00,System
+ORD-10015,Übermittlung an Lager,2025-09-24 16:51:00,System Interface
+ORD-10016,Bestellung eingegangen,2025-09-14 16:47:00,System
+ORD-10016,Bonitätsprüfung automatisch,2025-09-14 16:52:00,System
+ORD-10016,Übermittlung an Lager,2025-09-14 17:11:00,System Interface
+ORD-10017,Bestellung eingegangen,2025-10-12 08:54:00,System
+ORD-10017,Bonitätsprüfung automatisch,2025-10-12 09:02:00,System
+ORD-10017,Übermittlung an Lager,2025-10-12 09:20:00,System Interface
+ORD-10018,Bestellung eingegangen,2025-09-12 17:35:00,System
+ORD-10018,Bonitätsprüfung automatisch,2025-09-12 17:45:00,System
+ORD-10018,Übermittlung an Lager,2025-09-12 18:33:00,System Interface
+ORD-10019,Bestellung eingegangen,2025-10-28 16:04:00,System
+ORD-10019,Bonitätsprüfung automatisch,2025-10-28 16:06:00,System
+ORD-10019,Übermittlung an Lager,2025-10-28 17:03:00,System Interface
+ORD-10020,Bestellung eingegangen,2025-09-26 08:58:00,System
+ORD-10020,Bonitätsprüfung automatisch,2025-09-26 09:08:00,System
+ORD-10020,Übermittlung an Lager,2025-09-26 10:05:00,System Interface
+ORD-10021,Bestellung eingegangen,2025-10-04 14:43:00,System
+ORD-10021,Bonitätsprüfung automatisch,2025-10-04 14:47:00,System
+ORD-10021,Übermittlung an Lager,2025-10-04 15:36:00,System Interface
+ORD-10022,Bestellung eingegangen,2025-09-22 16:17:00,System
+ORD-10022,Bonitätsprüfung automatisch,2025-09-22 16:22:00,System
+ORD-10022,Übermittlung an Lager,2025-09-22 17:21:00,System Interface
+ORD-10023,Bestellung eingegangen,2025-09-04 10:48:00,System
+ORD-10023,Bonitätsprüfung automatisch,2025-09-04 10:53:00,System
+ORD-10023,Bonitätsprüfung manuell,2025-09-04 12:53:00,Mitarbeiter_FiBu
+ORD-10023,Bestellung freigegeben,2025-09-04 13:20:00,Mitarbeiter_FiBu
+ORD-10023,Übermittlung an Lager,2025-09-04 13:42:00,System Interface
+ORD-10024,Bestellung eingegangen,2025-09-16 10:37:00,System
+ORD-10024,Bonitätsprüfung automatisch,2025-09-16 10:42:00,System
+ORD-10024,Übermittlung an Lager,2025-09-16 11:33:00,System Interface
+ORD-10025,Bestellung eingegangen,2025-09-21 17:50:00,System
+ORD-10025,Bonitätsprüfung automatisch,2025-09-21 18:00:00,System
+ORD-10025,Übermittlung an Lager,2025-09-21 18:21:00,System Interface
+ORD-10026,Bestellung eingegangen,2025-09-23 15:26:00,System
+ORD-10026,Bonitätsprüfung automatisch,2025-09-23 15:32:00,System
+ORD-10026,Bonitätsprüfung manuell,2025-09-24 12:32:00,Mitarbeiter_FiBu
+ORD-10026,Bestellung freigegeben,2025-09-24 13:02:00,Mitarbeiter_FiBu
+ORD-10026,Übermittlung an Lager,2025-09-24 13:51:00,System Interface
+ORD-10027,Bestellung eingegangen,2025-10-05 10:24:00,System
+ORD-10027,Bonitätsprüfung automatisch,2025-10-05 10:30:00,System
+ORD-10027,Übermittlung an Lager,2025-10-05 11:08:00,System Interface
+ORD-10028,Bestellung eingegangen,2025-09-15 18:22:00,System
+ORD-10028,Bonitätsprüfung automatisch,2025-09-15 18:30:00,System
+ORD-10028,Übermittlung an Lager,2025-09-15 19:13:00,System Interface
+ORD-10029,Bestellung eingegangen,2025-10-09 13:50:00,System
+ORD-10029,Bonitätsprüfung automatisch,2025-10-09 13:51:00,System
+ORD-10029,Übermittlung an Lager,2025-10-09 14:03:00,System Interface
+ORD-10030,Bestellung eingegangen,2025-10-14 10:32:00,System
+ORD-10030,Bonitätsprüfung automatisch,2025-10-14 10:38:00,System
+ORD-10030,Übermittlung an Lager,2025-10-14 11:18:00,System Interface
+ORD-10031,Bestellung eingegangen,2025-09-28 09:03:00,System
+ORD-10031,Bonitätsprüfung automatisch,2025-09-28 09:08:00,System
+ORD-10031,Übermittlung an Lager,2025-09-28 10:04:00,System Interface
+ORD-10032,Bestellung eingegangen,2025-10-30 18:57:00,System
+ORD-10032,Bonitätsprüfung automatisch,2025-10-30 19:05:00,System
+ORD-10032,Übermittlung an Lager,2025-10-30 19:17:00,System Interface
+ORD-10033,Bestellung eingegangen,2025-10-14 13:52:00,System
+ORD-10033,Bonitätsprüfung automatisch,2025-10-14 13:54:00,System
+ORD-10033,Bonitätsprüfung manuell,2025-10-15 02:54:00,Mitarbeiter_FiBu
+ORD-10033,Bestellung freigegeben,2025-10-15 03:23:00,Mitarbeiter_FiBu
+ORD-10033,Übermittlung an Lager,2025-10-15 04:18:00,System Interface
+ORD-10034,Bestellung eingegangen,2025-10-13 17:45:00,System
+ORD-10034,Bonitätsprüfung automatisch,2025-10-13 17:53:00,System
+ORD-10034,Übermittlung an Lager,2025-10-13 18:15:00,System Interface
+ORD-10035,Bestellung eingegangen,2025-10-15 18:45:00,System
+ORD-10035,Bonitätsprüfung automatisch,2025-10-15 18:52:00,System
+ORD-10035,Übermittlung an Lager,2025-10-15 19:05:00,System Interface
+ORD-10036,Bestellung eingegangen,2025-10-15 08:18:00,System
+ORD-10036,Bonitätsprüfung automatisch,2025-10-15 08:19:00,System
+ORD-10036,Übermittlung an Lager,2025-10-15 08:35:00,System Interface
+ORD-10037,Bestellung eingegangen,2025-10-30 18:55:00,System
+ORD-10037,Bonitätsprüfung automatisch,2025-10-30 18:57:00,System
+ORD-10037,Übermittlung an Lager,2025-10-30 19:40:00,System Interface
+ORD-10038,Bestellung eingegangen,2025-10-30 11:33:00,System
+ORD-10038,Bonitätsprüfung automatisch,2025-10-30 11:43:00,System
+ORD-10038,Übermittlung an Lager,2025-10-30 12:26:00,System Interface
+ORD-10039,Bestellung eingegangen,2025-10-10 11:10:00,System
+ORD-10039,Bonitätsprüfung automatisch,2025-10-10 11:15:00,System
+ORD-10039,Übermittlung an Lager,2025-10-10 12:02:00,System Interface
+ORD-10040,Bestellung eingegangen,2025-09-08 11:00:00,System
+ORD-10040,Bonitätsprüfung automatisch,2025-09-08 11:05:00,System
+ORD-10040,Übermittlung an Lager,2025-09-08 11:29:00,System Interface
+ORD-10041,Bestellung eingegangen,2025-09-14 10:02:00,System
+ORD-10041,Bonitätsprüfung automatisch,2025-09-14 10:08:00,System
+ORD-10041,Bonitätsprüfung manuell,2025-09-14 14:08:00,Mitarbeiter_FiBu
+ORD-10041,Bestellung freigegeben,2025-09-14 14:25:00,Mitarbeiter_FiBu
+ORD-10041,Übermittlung an Lager,2025-09-14 14:51:00,System Interface
+ORD-10042,Bestellung eingegangen,2025-09-06 15:09:00,System
+ORD-10042,Bonitätsprüfung automatisch,2025-09-06 15:13:00,System
+ORD-10042,Übermittlung an Lager,2025-09-06 15:25:00,System Interface
+ORD-10043,Bestellung eingegangen,2025-10-08 13:29:00,System
+ORD-10043,Bonitätsprüfung automatisch,2025-10-08 13:39:00,System
+ORD-10043,Übermittlung an Lager,2025-10-08 13:51:00,System Interface
+ORD-10044,Bestellung eingegangen,2025-09-21 15:51:00,System
+ORD-10044,Bonitätsprüfung automatisch,2025-09-21 15:55:00,System
+ORD-10044,Übermittlung an Lager,2025-09-21 16:35:00,System Interface
+ORD-10045,Bestellung eingegangen,2025-10-06 13:18:00,System
+ORD-10045,Bonitätsprüfung automatisch,2025-10-06 13:22:00,System
+ORD-10045,Bonitätsprüfung manuell,2025-10-07 09:22:00,Mitarbeiter_FiBu
+ORD-10045,Bestellung freigegeben,2025-10-07 09:40:00,Mitarbeiter_FiBu
+ORD-10045,Übermittlung an Lager,2025-10-07 09:47:00,System Interface
+ORD-10046,Bestellung eingegangen,2025-10-30 10:48:00,System
+ORD-10046,Bonitätsprüfung automatisch,2025-10-30 10:54:00,System
+ORD-10046,Übermittlung an Lager,2025-10-30 11:25:00,System Interface
+ORD-10047,Bestellung eingegangen,2025-09-27 09:01:00,System
+ORD-10047,Bonitätsprüfung automatisch,2025-09-27 09:02:00,System
+ORD-10047,Übermittlung an Lager,2025-09-27 09:45:00,System Interface
+ORD-10048,Bestellung eingegangen,2025-10-13 13:07:00,System
+ORD-10048,Bonitätsprüfung automatisch,2025-10-13 13:12:00,System
+ORD-10048,Übermittlung an Lager,2025-10-13 13:26:00,System Interface
+ORD-10049,Bestellung eingegangen,2025-10-22 11:37:00,System
+ORD-10049,Bonitätsprüfung automatisch,2025-10-22 11:47:00,System
+ORD-10049,Übermittlung an Lager,2025-10-22 12:23:00,System Interface
+ORD-10050,Bestellung eingegangen,2025-09-27 16:29:00,System
+ORD-10050,Bonitätsprüfung automatisch,2025-09-27 16:37:00,System
+ORD-10050,Übermittlung an Lager,2025-09-27 17:36:00,System Interface
+ORD-10051,Bestellung eingegangen,2025-10-11 12:19:00,System
+ORD-10051,Bonitätsprüfung automatisch,2025-10-11 12:29:00,System
+ORD-10051,Übermittlung an Lager,2025-10-11 12:34:00,System Interface
+ORD-10052,Bestellung eingegangen,2025-10-31 09:53:00,System
+ORD-10052,Bonitätsprüfung automatisch,2025-10-31 09:57:00,System
+ORD-10052,Übermittlung an Lager,2025-10-31 10:04:00,System Interface
+ORD-10053,Bestellung eingegangen,2025-09-14 11:32:00,System
+ORD-10053,Bonitätsprüfung automatisch,2025-09-14 11:42:00,System
+ORD-10053,Bonitätsprüfung manuell,2025-09-14 18:42:00,Mitarbeiter_FiBu
+ORD-10053,Bestellung freigegeben,2025-09-14 18:56:00,Mitarbeiter_FiBu
+ORD-10053,Übermittlung an Lager,2025-09-14 19:01:00,System Interface
+ORD-10054,Bestellung eingegangen,2025-09-26 10:56:00,System
+ORD-10054,Bonitätsprüfung automatisch,2025-09-26 11:00:00,System
+ORD-10054,Übermittlung an Lager,2025-09-26 11:33:00,System Interface
+ORD-10055,Bestellung eingegangen,2025-10-05 18:37:00,System
+ORD-10055,Bonitätsprüfung automatisch,2025-10-05 18:44:00,System
+ORD-10055,Übermittlung an Lager,2025-10-05 19:34:00,System Interface
+ORD-10056,Bestellung eingegangen,2025-09-20 11:42:00,System
+ORD-10056,Bonitätsprüfung automatisch,2025-09-20 11:48:00,System
+ORD-10056,Bonitätsprüfung manuell,2025-09-20 21:48:00,Mitarbeiter_FiBu
+ORD-10056,Bestellung freigegeben,2025-09-20 22:07:00,Mitarbeiter_FiBu
+ORD-10056,Übermittlung an Lager,2025-09-20 22:44:00,System Interface
+ORD-10057,Bestellung eingegangen,2025-10-02 17:22:00,System
+ORD-10057,Bonitätsprüfung automatisch,2025-10-02 17:24:00,System
+ORD-10057,Übermittlung an Lager,2025-10-02 17:55:00,System Interface
+ORD-10058,Bestellung eingegangen,2025-09-26 18:44:00,System
+ORD-10058,Bonitätsprüfung automatisch,2025-09-26 18:45:00,System
+ORD-10058,Übermittlung an Lager,2025-09-26 19:08:00,System Interface
+ORD-10059,Bestellung eingegangen,2025-10-25 14:57:00,System
+ORD-10059,Bonitätsprüfung automatisch,2025-10-25 14:59:00,System
+ORD-10059,Übermittlung an Lager,2025-10-25 15:28:00,System Interface
+ORD-10060,Bestellung eingegangen,2025-10-03 12:34:00,System
+ORD-10060,Bonitätsprüfung automatisch,2025-10-03 12:36:00,System
+ORD-10060,Übermittlung an Lager,2025-10-03 12:51:00,System Interface
+ORD-10061,Bestellung eingegangen,2025-10-18 18:22:00,System
+ORD-10061,Bonitätsprüfung automatisch,2025-10-18 18:27:00,System
+ORD-10061,Übermittlung an Lager,2025-10-18 19:21:00,System Interface
+ORD-10062,Bestellung eingegangen,2025-09-30 09:44:00,System
+ORD-10062,Bonitätsprüfung automatisch,2025-09-30 09:54:00,System
+ORD-10062,Übermittlung an Lager,2025-09-30 10:51:00,System Interface
+ORD-10063,Bestellung eingegangen,2025-09-06 18:43:00,System
+ORD-10063,Bonitätsprüfung automatisch,2025-09-06 18:46:00,System
+ORD-10063,Übermittlung an Lager,2025-09-06 19:03:00,System Interface
+ORD-10064,Bestellung eingegangen,2025-09-20 10:50:00,System
+ORD-10064,Bonitätsprüfung automatisch,2025-09-20 10:58:00,System
+ORD-10064,Bonitätsprüfung manuell,2025-09-20 15:58:00,Mitarbeiter_FiBu
+ORD-10064,Bestellung freigegeben,2025-09-20 16:12:00,Mitarbeiter_FiBu
+ORD-10064,Übermittlung an Lager,2025-09-20 16:36:00,System Interface
+ORD-10065,Bestellung eingegangen,2025-10-31 15:00:00,System
+ORD-10065,Bonitätsprüfung automatisch,2025-10-31 15:06:00,System
+ORD-10065,Übermittlung an Lager,2025-10-31 15:28:00,System Interface
+ORD-10066,Bestellung eingegangen,2025-09-22 15:25:00,System
+ORD-10066,Bonitätsprüfung automatisch,2025-09-22 15:34:00,System
+ORD-10066,Übermittlung an Lager,2025-09-22 16:06:00,System Interface
+ORD-10067,Bestellung eingegangen,2025-10-14 08:30:00,System
+ORD-10067,Bonitätsprüfung automatisch,2025-10-14 08:33:00,System
+ORD-10067,Übermittlung an Lager,2025-10-14 08:52:00,System Interface
+ORD-10068,Bestellung eingegangen,2025-10-12 10:16:00,System
+ORD-10068,Bonitätsprüfung automatisch,2025-10-12 10:25:00,System
+ORD-10068,Übermittlung an Lager,2025-10-12 11:05:00,System Interface
+ORD-10069,Bestellung eingegangen,2025-09-12 12:55:00,System
+ORD-10069,Bonitätsprüfung automatisch,2025-09-12 12:58:00,System
+ORD-10069,Übermittlung an Lager,2025-09-12 13:33:00,System Interface
+ORD-10070,Bestellung eingegangen,2025-10-21 18:19:00,System
+ORD-10070,Bonitätsprüfung automatisch,2025-10-21 18:23:00,System
+ORD-10070,Übermittlung an Lager,2025-10-21 18:43:00,System Interface
+ORD-10071,Bestellung eingegangen,2025-10-28 10:44:00,System
+ORD-10071,Bonitätsprüfung automatisch,2025-10-28 10:51:00,System
+ORD-10071,Bonitätsprüfung manuell,2025-10-29 04:51:00,Mitarbeiter_FiBu
+ORD-10071,Bestellung freigegeben,2025-10-29 05:05:00,Mitarbeiter_FiBu
+ORD-10071,Übermittlung an Lager,2025-10-29 05:24:00,System Interface
+ORD-10072,Bestellung eingegangen,2025-09-17 13:57:00,System
+ORD-10072,Bonitätsprüfung automatisch,2025-09-17 14:04:00,System
+ORD-10072,Übermittlung an Lager,2025-09-17 14:15:00,System Interface
+ORD-10073,Bestellung eingegangen,2025-09-08 18:49:00,System
+ORD-10073,Bonitätsprüfung automatisch,2025-09-08 18:56:00,System
+ORD-10073,Bonitätsprüfung manuell,2025-09-09 06:56:00,Mitarbeiter_FiBu
+ORD-10073,Bestellung freigegeben,2025-09-09 07:08:00,Mitarbeiter_FiBu
+ORD-10073,Übermittlung an Lager,2025-09-09 07:53:00,System Interface
+ORD-10074,Bestellung eingegangen,2025-09-25 12:48:00,System
+ORD-10074,Bonitätsprüfung automatisch,2025-09-25 12:50:00,System
+ORD-10074,Übermittlung an Lager,2025-09-25 12:59:00,System Interface
+ORD-10075,Bestellung eingegangen,2025-10-09 17:04:00,System
+ORD-10075,Bonitätsprüfung automatisch,2025-10-09 17:14:00,System
+ORD-10075,Übermittlung an Lager,2025-10-09 17:42:00,System Interface
+ORD-10076,Bestellung eingegangen,2025-10-29 13:16:00,System
+ORD-10076,Bonitätsprüfung automatisch,2025-10-29 13:23:00,System
+ORD-10076,Übermittlung an Lager,2025-10-29 13:58:00,System Interface
+ORD-10077,Bestellung eingegangen,2025-09-24 12:21:00,System
+ORD-10077,Bonitätsprüfung automatisch,2025-09-24 12:27:00,System
+ORD-10077,Übermittlung an Lager,2025-09-24 12:35:00,System Interface
+ORD-10078,Bestellung eingegangen,2025-09-23 16:30:00,System
+ORD-10078,Bonitätsprüfung automatisch,2025-09-23 16:35:00,System
+ORD-10078,Übermittlung an Lager,2025-09-23 16:52:00,System Interface
+ORD-10079,Bestellung eingegangen,2025-10-01 18:55:00,System
+ORD-10079,Bonitätsprüfung automatisch,2025-10-01 19:03:00,System
+ORD-10079,Übermittlung an Lager,2025-10-01 19:38:00,System Interface
+ORD-10080,Bestellung eingegangen,2025-10-01 08:25:00,System
+ORD-10080,Bonitätsprüfung automatisch,2025-10-01 08:30:00,System
+ORD-10080,Übermittlung an Lager,2025-10-01 09:18:00,System Interface
+ORD-10081,Bestellung eingegangen,2025-10-03 18:08:00,System
+ORD-10081,Bonitätsprüfung automatisch,2025-10-03 18:15:00,System
+ORD-10081,Übermittlung an Lager,2025-10-03 19:02:00,System Interface
+ORD-10082,Bestellung eingegangen,2025-10-07 17:13:00,System
+ORD-10082,Bonitätsprüfung automatisch,2025-10-07 17:23:00,System
+ORD-10082,Übermittlung an Lager,2025-10-07 17:55:00,System Interface
+ORD-10083,Bestellung eingegangen,2025-09-14 13:25:00,System
+ORD-10083,Bonitätsprüfung automatisch,2025-09-14 13:30:00,System
+ORD-10083,Übermittlung an Lager,2025-09-14 13:52:00,System Interface
+ORD-10084,Bestellung eingegangen,2025-10-11 13:48:00,System
+ORD-10084,Bonitätsprüfung automatisch,2025-10-11 13:53:00,System
+ORD-10084,Übermittlung an Lager,2025-10-11 14:00:00,System Interface
+ORD-10085,Bestellung eingegangen,2025-10-17 09:39:00,System
+ORD-10085,Bonitätsprüfung automatisch,2025-10-17 09:49:00,System
+ORD-10085,Übermittlung an Lager,2025-10-17 10:09:00,System Interface
+ORD-10086,Bestellung eingegangen,2025-09-27 15:36:00,System
+ORD-10086,Bonitätsprüfung automatisch,2025-09-27 15:37:00,System
+ORD-10086,Übermittlung an Lager,2025-09-27 15:57:00,System Interface
+ORD-10087,Bestellung eingegangen,2025-09-09 09:28:00,System
+ORD-10087,Bonitätsprüfung automatisch,2025-09-09 09:32:00,System
+ORD-10087,Übermittlung an Lager,2025-09-09 10:23:00,System Interface
+ORD-10088,Bestellung eingegangen,2025-10-11 15:32:00,System
+ORD-10088,Bonitätsprüfung automatisch,2025-10-11 15:40:00,System
+ORD-10088,Übermittlung an Lager,2025-10-11 15:47:00,System Interface
+ORD-10089,Bestellung eingegangen,2025-09-11 13:15:00,System
+ORD-10089,Bonitätsprüfung automatisch,2025-09-11 13:18:00,System
+ORD-10089,Übermittlung an Lager,2025-09-11 13:27:00,System Interface
+ORD-10090,Bestellung eingegangen,2025-10-06 17:56:00,System
+ORD-10090,Bonitätsprüfung automatisch,2025-10-06 18:03:00,System
+ORD-10090,Übermittlung an Lager,2025-10-06 18:44:00,System Interface
+ORD-10091,Bestellung eingegangen,2025-10-18 09:39:00,System
+ORD-10091,Bonitätsprüfung automatisch,2025-10-18 09:45:00,System
+ORD-10091,Bonitätsprüfung manuell,2025-10-18 21:45:00,Mitarbeiter_FiBu
+ORD-10091,Bestellung freigegeben,2025-10-18 22:09:00,Mitarbeiter_FiBu
+ORD-10091,Übermittlung an Lager,2025-10-18 22:53:00,System Interface
+ORD-10092,Bestellung eingegangen,2025-10-30 11:04:00,System
+ORD-10092,Bonitätsprüfung automatisch,2025-10-30 11:13:00,System
+ORD-10092,Übermittlung an Lager,2025-10-30 12:05:00,System Interface
+ORD-10093,Bestellung eingegangen,2025-10-01 12:37:00,System
+ORD-10093,Bonitätsprüfung automatisch,2025-10-01 12:45:00,System
+ORD-10093,Übermittlung an Lager,2025-10-01 13:28:00,System Interface
+ORD-10094,Bestellung eingegangen,2025-09-08 16:33:00,System
+ORD-10094,Bonitätsprüfung automatisch,2025-09-08 16:42:00,System
+ORD-10094,Übermittlung an Lager,2025-09-08 17:18:00,System Interface
+ORD-10095,Bestellung eingegangen,2025-10-15 15:01:00,System
+ORD-10095,Bonitätsprüfung automatisch,2025-10-15 15:03:00,System
+ORD-10095,Übermittlung an Lager,2025-10-15 16:00:00,System Interface
+ORD-10096,Bestellung eingegangen,2025-10-28 13:51:00,System
+ORD-10096,Bonitätsprüfung automatisch,2025-10-28 14:00:00,System
+ORD-10096,Übermittlung an Lager,2025-10-28 14:22:00,System Interface
+ORD-10097,Bestellung eingegangen,2025-09-08 11:59:00,System
+ORD-10097,Bonitätsprüfung automatisch,2025-09-08 12:05:00,System
+ORD-10097,Übermittlung an Lager,2025-09-08 12:46:00,System Interface
+ORD-10098,Bestellung eingegangen,2025-09-26 13:34:00,System
+ORD-10098,Bonitätsprüfung automatisch,2025-09-26 13:39:00,System
+ORD-10098,Übermittlung an Lager,2025-09-26 14:01:00,System Interface
+ORD-10099,Bestellung eingegangen,2025-10-13 10:41:00,System
+ORD-10099,Bonitätsprüfung automatisch,2025-10-13 10:42:00,System
+ORD-10099,Übermittlung an Lager,2025-10-13 11:00:00,System Interface
+ORD-10100,Bestellung eingegangen,2025-09-23 11:12:00,System
+ORD-10100,Bonitätsprüfung automatisch,2025-09-23 11:21:00,System
+ORD-10100,Übermittlung an Lager,2025-09-23 11:47:00,System Interface
+ORD-10101,Bestellung eingegangen,2025-10-04 13:32:00,System
+ORD-10101,Bonitätsprüfung automatisch,2025-10-04 13:33:00,System
+ORD-10101,Übermittlung an Lager,2025-10-04 14:11:00,System Interface
+ORD-10102,Bestellung eingegangen,2025-09-23 17:11:00,System
+ORD-10102,Bonitätsprüfung automatisch,2025-09-23 17:17:00,System
+ORD-10102,Bonitätsprüfung manuell,2025-09-24 17:17:00,Mitarbeiter_FiBu
+ORD-10102,Bestellung freigegeben,2025-09-24 17:32:00,Mitarbeiter_FiBu
+ORD-10102,Übermittlung an Lager,2025-09-24 17:37:00,System Interface
+ORD-10103,Bestellung eingegangen,2025-10-19 08:51:00,System
+ORD-10103,Bonitätsprüfung automatisch,2025-10-19 08:59:00,System
+ORD-10103,Übermittlung an Lager,2025-10-19 09:14:00,System Interface
+ORD-10104,Bestellung eingegangen,2025-10-16 17:25:00,System
+ORD-10104,Bonitätsprüfung automatisch,2025-10-16 17:31:00,System
+ORD-10104,Übermittlung an Lager,2025-10-16 17:56:00,System Interface
+ORD-10105,Bestellung eingegangen,2025-10-12 16:41:00,System
+ORD-10105,Bonitätsprüfung automatisch,2025-10-12 16:44:00,System
+ORD-10105,Bonitätsprüfung manuell,2025-10-12 19:44:00,Mitarbeiter_FiBu
+ORD-10105,Bestellung freigegeben,2025-10-12 19:59:00,Mitarbeiter_FiBu
+ORD-10105,Übermittlung an Lager,2025-10-12 20:40:00,System Interface
+ORD-10106,Bestellung eingegangen,2025-10-14 18:01:00,System
+ORD-10106,Bonitätsprüfung automatisch,2025-10-14 18:02:00,System
+ORD-10106,Übermittlung an Lager,2025-10-14 18:45:00,System Interface
+ORD-10107,Bestellung eingegangen,2025-10-14 16:14:00,System
+ORD-10107,Bonitätsprüfung automatisch,2025-10-14 16:17:00,System
+ORD-10107,Übermittlung an Lager,2025-10-14 17:13:00,System Interface
+ORD-10108,Bestellung eingegangen,2025-10-08 09:56:00,System
+ORD-10108,Bonitätsprüfung automatisch,2025-10-08 09:57:00,System
+ORD-10108,Übermittlung an Lager,2025-10-08 10:22:00,System Interface
+ORD-10109,Bestellung eingegangen,2025-09-08 13:32:00,System
+ORD-10109,Bonitätsprüfung automatisch,2025-09-08 13:37:00,System
+ORD-10109,Übermittlung an Lager,2025-09-08 14:02:00,System Interface
+ORD-10110,Bestellung eingegangen,2025-09-10 08:03:00,System
+ORD-10110,Bonitätsprüfung automatisch,2025-09-10 08:10:00,System
+ORD-10110,Bonitätsprüfung manuell,2025-09-11 04:10:00,Mitarbeiter_FiBu
+ORD-10110,Bestellung freigegeben,2025-09-11 04:23:00,Mitarbeiter_FiBu
+ORD-10110,Übermittlung an Lager,2025-09-11 05:04:00,System Interface
+ORD-10111,Bestellung eingegangen,2025-09-09 18:09:00,System
+ORD-10111,Bonitätsprüfung automatisch,2025-09-09 18:15:00,System
+ORD-10111,Bonitätsprüfung manuell,2025-09-09 23:15:00,Mitarbeiter_FiBu
+ORD-10111,Bestellung freigegeben,2025-09-09 23:38:00,Mitarbeiter_FiBu
+ORD-10111,Übermittlung an Lager,2025-09-09 23:50:00,System Interface
+ORD-10112,Bestellung eingegangen,2025-09-30 12:40:00,System
+ORD-10112,Bonitätsprüfung automatisch,2025-09-30 12:49:00,System
+ORD-10112,Übermittlung an Lager,2025-09-30 13:07:00,System Interface
+ORD-10113,Bestellung eingegangen,2025-10-20 15:59:00,System
+ORD-10113,Bonitätsprüfung automatisch,2025-10-20 16:03:00,System
+ORD-10113,Übermittlung an Lager,2025-10-20 16:37:00,System Interface
+ORD-10114,Bestellung eingegangen,2025-10-25 11:03:00,System
+ORD-10114,Bonitätsprüfung automatisch,2025-10-25 11:08:00,System
+ORD-10114,Übermittlung an Lager,2025-10-25 11:52:00,System Interface
+ORD-10115,Bestellung eingegangen,2025-10-03 18:16:00,System
+ORD-10115,Bonitätsprüfung automatisch,2025-10-03 18:18:00,System
+ORD-10115,Übermittlung an Lager,2025-10-03 18:43:00,System Interface
+ORD-10116,Bestellung eingegangen,2025-09-13 13:00:00,System
+ORD-10116,Bonitätsprüfung automatisch,2025-09-13 13:04:00,System
+ORD-10116,Übermittlung an Lager,2025-09-13 13:28:00,System Interface
+ORD-10117,Bestellung eingegangen,2025-10-24 08:21:00,System
+ORD-10117,Bonitätsprüfung automatisch,2025-10-24 08:27:00,System
+ORD-10117,Übermittlung an Lager,2025-10-24 09:11:00,System Interface
+ORD-10118,Bestellung eingegangen,2025-09-18 13:32:00,System
+ORD-10118,Bonitätsprüfung automatisch,2025-09-18 13:38:00,System
+ORD-10118,Übermittlung an Lager,2025-09-18 13:55:00,System Interface
+ORD-10119,Bestellung eingegangen,2025-09-12 12:00:00,System
+ORD-10119,Bonitätsprüfung automatisch,2025-09-12 12:02:00,System
+ORD-10119,Übermittlung an Lager,2025-09-12 12:23:00,System Interface
+ORD-10120,Bestellung eingegangen,2025-10-11 12:40:00,System
+ORD-10120,Bonitätsprüfung automatisch,2025-10-11 12:44:00,System
+ORD-10120,Übermittlung an Lager,2025-10-11 12:49:00,System Interface
+ORD-10121,Bestellung eingegangen,2025-10-16 17:32:00,System
+ORD-10121,Bonitätsprüfung automatisch,2025-10-16 17:36:00,System
+ORD-10121,Übermittlung an Lager,2025-10-16 18:04:00,System Interface
+ORD-10122,Bestellung eingegangen,2025-09-14 15:24:00,System
+ORD-10122,Bonitätsprüfung automatisch,2025-09-14 15:33:00,System
+ORD-10122,Übermittlung an Lager,2025-09-14 15:40:00,System Interface
+ORD-10123,Bestellung eingegangen,2025-10-13 17:42:00,System
+ORD-10123,Bonitätsprüfung automatisch,2025-10-13 17:45:00,System
+ORD-10123,Bonitätsprüfung manuell,2025-10-14 16:45:00,Mitarbeiter_FiBu
+ORD-10123,Bestellung freigegeben,2025-10-14 17:05:00,Mitarbeiter_FiBu
+ORD-10123,Übermittlung an Lager,2025-10-14 17:48:00,System Interface
+ORD-10124,Bestellung eingegangen,2025-10-07 14:30:00,System
+ORD-10124,Bonitätsprüfung automatisch,2025-10-07 14:33:00,System
+ORD-10124,Übermittlung an Lager,2025-10-07 15:04:00,System Interface
+ORD-10125,Bestellung eingegangen,2025-09-28 14:33:00,System
+ORD-10125,Bonitätsprüfung automatisch,2025-09-28 14:41:00,System
+ORD-10125,Bonitätsprüfung manuell,2025-09-29 05:41:00,Mitarbeiter_FiBu
+ORD-10125,Bestellung freigegeben,2025-09-29 05:55:00,Mitarbeiter_FiBu
+ORD-10125,Übermittlung an Lager,2025-09-29 06:47:00,System Interface
+ORD-10126,Bestellung eingegangen,2025-10-28 18:01:00,System
+ORD-10126,Bonitätsprüfung automatisch,2025-10-28 18:07:00,System
+ORD-10126,Bonitätsprüfung manuell,2025-10-29 01:07:00,Mitarbeiter_FiBu
+ORD-10126,Bestellung freigegeben,2025-10-29 01:30:00,Mitarbeiter_FiBu
+ORD-10126,Übermittlung an Lager,2025-10-29 01:54:00,System Interface
+ORD-10127,Bestellung eingegangen,2025-10-06 16:20:00,System
+ORD-10127,Bonitätsprüfung automatisch,2025-10-06 16:27:00,System
+ORD-10127,Übermittlung an Lager,2025-10-06 16:46:00,System Interface
+ORD-10128,Bestellung eingegangen,2025-09-08 14:39:00,System
+ORD-10128,Bonitätsprüfung automatisch,2025-09-08 14:45:00,System
+ORD-10128,Übermittlung an Lager,2025-09-08 15:07:00,System Interface
+ORD-10129,Bestellung eingegangen,2025-10-15 15:04:00,System
+ORD-10129,Bonitätsprüfung automatisch,2025-10-15 15:12:00,System
+ORD-10129,Übermittlung an Lager,2025-10-15 15:18:00,System Interface
+ORD-10130,Bestellung eingegangen,2025-10-01 09:01:00,System
+ORD-10130,Bonitätsprüfung automatisch,2025-10-01 09:07:00,System
+ORD-10130,Bonitätsprüfung manuell,2025-10-02 09:07:00,Mitarbeiter_FiBu
+ORD-10130,Bestellung freigegeben,2025-10-02 09:35:00,Mitarbeiter_FiBu
+ORD-10130,Übermittlung an Lager,2025-10-02 09:46:00,System Interface
+ORD-10131,Bestellung eingegangen,2025-09-04 18:08:00,System
+ORD-10131,Bonitätsprüfung automatisch,2025-09-04 18:10:00,System
+ORD-10131,Übermittlung an Lager,2025-09-04 18:40:00,System Interface
+ORD-10132,Bestellung eingegangen,2025-10-22 08:54:00,System
+ORD-10132,Bonitätsprüfung automatisch,2025-10-22 08:55:00,System
+ORD-10132,Bonitätsprüfung manuell,2025-10-23 08:55:00,Mitarbeiter_FiBu
+ORD-10132,Bestellung freigegeben,2025-10-23 09:25:00,Mitarbeiter_FiBu
+ORD-10132,Übermittlung an Lager,2025-10-23 10:05:00,System Interface
+ORD-10133,Bestellung eingegangen,2025-10-22 18:00:00,System
+ORD-10133,Bonitätsprüfung automatisch,2025-10-22 18:06:00,System
+ORD-10133,Übermittlung an Lager,2025-10-22 19:02:00,System Interface
+ORD-10134,Bestellung eingegangen,2025-09-06 18:47:00,System
+ORD-10134,Bonitätsprüfung automatisch,2025-09-06 18:56:00,System
+ORD-10134,Übermittlung an Lager,2025-09-06 19:23:00,System Interface
+ORD-10135,Bestellung eingegangen,2025-10-18 16:49:00,System
+ORD-10135,Bonitätsprüfung automatisch,2025-10-18 16:58:00,System
+ORD-10135,Übermittlung an Lager,2025-10-18 17:12:00,System Interface
+ORD-10136,Bestellung eingegangen,2025-10-06 09:36:00,System
+ORD-10136,Bonitätsprüfung automatisch,2025-10-06 09:46:00,System
+ORD-10136,Übermittlung an Lager,2025-10-06 10:21:00,System Interface
+ORD-10137,Bestellung eingegangen,2025-10-28 11:43:00,System
+ORD-10137,Bonitätsprüfung automatisch,2025-10-28 11:48:00,System
+ORD-10137,Übermittlung an Lager,2025-10-28 12:26:00,System Interface
+ORD-10138,Bestellung eingegangen,2025-09-12 11:55:00,System
+ORD-10138,Bonitätsprüfung automatisch,2025-09-12 11:56:00,System
+ORD-10138,Übermittlung an Lager,2025-09-12 12:41:00,System Interface
+ORD-10139,Bestellung eingegangen,2025-09-22 10:21:00,System
+ORD-10139,Bonitätsprüfung automatisch,2025-09-22 10:28:00,System
+ORD-10139,Übermittlung an Lager,2025-09-22 11:13:00,System Interface
+ORD-10140,Bestellung eingegangen,2025-09-06 13:35:00,System
+ORD-10140,Bonitätsprüfung automatisch,2025-09-06 13:43:00,System
+ORD-10140,Bonitätsprüfung manuell,2025-09-07 04:43:00,Mitarbeiter_FiBu
+ORD-10140,Bestellung freigegeben,2025-09-07 05:02:00,Mitarbeiter_FiBu
+ORD-10140,Übermittlung an Lager,2025-09-07 05:53:00,System Interface
+ORD-10141,Bestellung eingegangen,2025-10-20 08:10:00,System
+ORD-10141,Bonitätsprüfung automatisch,2025-10-20 08:13:00,System
+ORD-10141,Übermittlung an Lager,2025-10-20 09:12:00,System Interface
+ORD-10142,Bestellung eingegangen,2025-09-10 18:08:00,System
+ORD-10142,Bonitätsprüfung automatisch,2025-09-10 18:11:00,System
+ORD-10142,Übermittlung an Lager,2025-09-10 18:44:00,System Interface
+ORD-10143,Bestellung eingegangen,2025-09-17 15:06:00,System
+ORD-10143,Bonitätsprüfung automatisch,2025-09-17 15:09:00,System
+ORD-10143,Übermittlung an Lager,2025-09-17 16:04:00,System Interface
+ORD-10144,Bestellung eingegangen,2025-09-30 11:34:00,System
+ORD-10144,Bonitätsprüfung automatisch,2025-09-30 11:36:00,System
+ORD-10144,Übermittlung an Lager,2025-09-30 11:59:00,System Interface
+ORD-10145,Bestellung eingegangen,2025-09-15 10:19:00,System
+ORD-10145,Bonitätsprüfung automatisch,2025-09-15 10:25:00,System
+ORD-10145,Übermittlung an Lager,2025-09-15 11:10:00,System Interface
+ORD-10146,Bestellung eingegangen,2025-10-24 14:58:00,System
+ORD-10146,Bonitätsprüfung automatisch,2025-10-24 15:04:00,System
+ORD-10146,Übermittlung an Lager,2025-10-24 15:32:00,System Interface
+ORD-10147,Bestellung eingegangen,2025-10-12 13:39:00,System
+ORD-10147,Bonitätsprüfung automatisch,2025-10-12 13:49:00,System
+ORD-10147,Übermittlung an Lager,2025-10-12 14:16:00,System Interface
+ORD-10148,Bestellung eingegangen,2025-10-15 10:21:00,System
+ORD-10148,Bonitätsprüfung automatisch,2025-10-15 10:25:00,System
+ORD-10148,Übermittlung an Lager,2025-10-15 11:18:00,System Interface
+ORD-10149,Bestellung eingegangen,2025-09-13 11:54:00,System
+ORD-10149,Bonitätsprüfung automatisch,2025-09-13 11:56:00,System
+ORD-10149,Übermittlung an Lager,2025-09-13 12:08:00,System Interface
+ORD-10150,Bestellung eingegangen,2025-10-05 11:33:00,System
+ORD-10150,Bonitätsprüfung automatisch,2025-10-05 11:35:00,System
+ORD-10150,Bonitätsprüfung manuell,2025-10-06 08:35:00,Mitarbeiter_FiBu
+ORD-10150,Bestellung freigegeben,2025-10-06 08:50:00,Mitarbeiter_FiBu
+ORD-10150,Übermittlung an Lager,2025-10-06 09:37:00,System Interface
+ORD-10151,Bestellung eingegangen,2025-10-25 13:26:00,System
+ORD-10151,Bonitätsprüfung automatisch,2025-10-25 13:29:00,System
+ORD-10151,Übermittlung an Lager,2025-10-25 14:10:00,System Interface
+ORD-10152,Bestellung eingegangen,2025-10-27 08:04:00,System
+ORD-10152,Bonitätsprüfung automatisch,2025-10-27 08:06:00,System
+ORD-10152,Übermittlung an Lager,2025-10-27 08:22:00,System Interface
+ORD-10153,Bestellung eingegangen,2025-10-06 17:17:00,System
+ORD-10153,Bonitätsprüfung automatisch,2025-10-06 17:27:00,System
+ORD-10153,Übermittlung an Lager,2025-10-06 18:18:00,System Interface
+ORD-10154,Bestellung eingegangen,2025-09-10 17:28:00,System
+ORD-10154,Bonitätsprüfung automatisch,2025-09-10 17:31:00,System
+ORD-10154,Übermittlung an Lager,2025-09-10 18:05:00,System Interface
+ORD-10155,Bestellung eingegangen,2025-10-20 15:00:00,System
+ORD-10155,Bonitätsprüfung automatisch,2025-10-20 15:10:00,System
+ORD-10155,Übermittlung an Lager,2025-10-20 15:40:00,System Interface
+ORD-10156,Bestellung eingegangen,2025-09-09 14:27:00,System
+ORD-10156,Bonitätsprüfung automatisch,2025-09-09 14:37:00,System
+ORD-10156,Übermittlung an Lager,2025-09-09 14:57:00,System Interface
+ORD-10157,Bestellung eingegangen,2025-10-01 14:47:00,System
+ORD-10157,Bonitätsprüfung automatisch,2025-10-01 14:53:00,System
+ORD-10157,Übermittlung an Lager,2025-10-01 15:49:00,System Interface
+ORD-10158,Bestellung eingegangen,2025-09-26 17:36:00,System
+ORD-10158,Bonitätsprüfung automatisch,2025-09-26 17:44:00,System
+ORD-10158,Übermittlung an Lager,2025-09-26 18:14:00,System Interface
+ORD-10159,Bestellung eingegangen,2025-10-07 08:36:00,System
+ORD-10159,Bonitätsprüfung automatisch,2025-10-07 08:43:00,System
+ORD-10159,Übermittlung an Lager,2025-10-07 08:50:00,System Interface
+ORD-10160,Bestellung eingegangen,2025-10-24 10:20:00,System
+ORD-10160,Bonitätsprüfung automatisch,2025-10-24 10:23:00,System
+ORD-10160,Übermittlung an Lager,2025-10-24 10:34:00,System Interface
+ORD-10161,Bestellung eingegangen,2025-10-11 14:38:00,System
+ORD-10161,Bonitätsprüfung automatisch,2025-10-11 14:42:00,System
+ORD-10161,Bonitätsprüfung manuell,2025-10-12 04:42:00,Mitarbeiter_FiBu
+ORD-10161,Bestellung freigegeben,2025-10-12 05:03:00,Mitarbeiter_FiBu
+ORD-10161,Übermittlung an Lager,2025-10-12 05:48:00,System Interface
+ORD-10162,Bestellung eingegangen,2025-09-15 14:13:00,System
+ORD-10162,Bonitätsprüfung automatisch,2025-09-15 14:20:00,System
+ORD-10162,Übermittlung an Lager,2025-09-15 15:04:00,System Interface
+ORD-10163,Bestellung eingegangen,2025-09-03 13:17:00,System
+ORD-10163,Bonitätsprüfung automatisch,2025-09-03 13:18:00,System
+ORD-10163,Bonitätsprüfung manuell,2025-09-04 11:18:00,Mitarbeiter_FiBu
+ORD-10163,Bestellung freigegeben,2025-09-04 11:30:00,Mitarbeiter_FiBu
+ORD-10163,Übermittlung an Lager,2025-09-04 11:35:00,System Interface
+ORD-10164,Bestellung eingegangen,2025-10-27 14:03:00,System
+ORD-10164,Bonitätsprüfung automatisch,2025-10-27 14:09:00,System
+ORD-10164,Übermittlung an Lager,2025-10-27 14:51:00,System Interface
+ORD-10165,Bestellung eingegangen,2025-09-20 17:34:00,System
+ORD-10165,Bonitätsprüfung automatisch,2025-09-20 17:35:00,System
+ORD-10165,Übermittlung an Lager,2025-09-20 18:02:00,System Interface
+ORD-10166,Bestellung eingegangen,2025-09-01 09:18:00,System
+ORD-10166,Bonitätsprüfung automatisch,2025-09-01 09:27:00,System
+ORD-10166,Übermittlung an Lager,2025-09-01 10:20:00,System Interface
+ORD-10167,Bestellung eingegangen,2025-09-30 16:38:00,System
+ORD-10167,Bonitätsprüfung automatisch,2025-09-30 16:45:00,System
+ORD-10167,Übermittlung an Lager,2025-09-30 17:36:00,System Interface
+ORD-10168,Bestellung eingegangen,2025-10-21 13:18:00,System
+ORD-10168,Bonitätsprüfung automatisch,2025-10-21 13:22:00,System
+ORD-10168,Übermittlung an Lager,2025-10-21 14:15:00,System Interface
+ORD-10169,Bestellung eingegangen,2025-10-27 10:58:00,System
+ORD-10169,Bonitätsprüfung automatisch,2025-10-27 11:01:00,System
+ORD-10169,Übermittlung an Lager,2025-10-27 11:06:00,System Interface
+ORD-10170,Bestellung eingegangen,2025-09-11 17:34:00,System
+ORD-10170,Bonitätsprüfung automatisch,2025-09-11 17:44:00,System
+ORD-10170,Übermittlung an Lager,2025-09-11 18:44:00,System Interface
+ORD-10171,Bestellung eingegangen,2025-09-05 12:50:00,System
+ORD-10171,Bonitätsprüfung automatisch,2025-09-05 12:53:00,System
+ORD-10171,Übermittlung an Lager,2025-09-05 13:16:00,System Interface
+ORD-10172,Bestellung eingegangen,2025-10-27 15:03:00,System
+ORD-10172,Bonitätsprüfung automatisch,2025-10-27 15:10:00,System
+ORD-10172,Übermittlung an Lager,2025-10-27 15:24:00,System Interface
+ORD-10173,Bestellung eingegangen,2025-09-14 16:21:00,System
+ORD-10173,Bonitätsprüfung automatisch,2025-09-14 16:27:00,System
+ORD-10173,Übermittlung an Lager,2025-09-14 17:25:00,System Interface
+ORD-10174,Bestellung eingegangen,2025-09-08 09:06:00,System
+ORD-10174,Bonitätsprüfung automatisch,2025-09-08 09:07:00,System
+ORD-10174,Übermittlung an Lager,2025-09-08 09:23:00,System Interface
+ORD-10175,Bestellung eingegangen,2025-10-02 17:57:00,System
+ORD-10175,Bonitätsprüfung automatisch,2025-10-02 18:04:00,System
+ORD-10175,Bonitätsprüfung manuell,2025-10-03 13:04:00,Mitarbeiter_FiBu
+ORD-10175,Bestellung freigegeben,2025-10-03 13:24:00,Mitarbeiter_FiBu
+ORD-10175,Übermittlung an Lager,2025-10-03 14:12:00,System Interface
+ORD-10176,Bestellung eingegangen,2025-09-26 15:01:00,System
+ORD-10176,Bonitätsprüfung automatisch,2025-09-26 15:04:00,System
+ORD-10176,Übermittlung an Lager,2025-09-26 15:27:00,System Interface
+ORD-10177,Bestellung eingegangen,2025-09-21 15:36:00,System
+ORD-10177,Bonitätsprüfung automatisch,2025-09-21 15:41:00,System
+ORD-10177,Übermittlung an Lager,2025-09-21 16:25:00,System Interface
+ORD-10178,Bestellung eingegangen,2025-10-24 18:37:00,System
+ORD-10178,Bonitätsprüfung automatisch,2025-10-24 18:43:00,System
+ORD-10178,Bonitätsprüfung manuell,2025-10-25 03:43:00,Mitarbeiter_FiBu
+ORD-10178,Bestellung freigegeben,2025-10-25 03:55:00,Mitarbeiter_FiBu
+ORD-10178,Übermittlung an Lager,2025-10-25 04:06:00,System Interface
+ORD-10179,Bestellung eingegangen,2025-09-22 12:15:00,System
+ORD-10179,Bonitätsprüfung automatisch,2025-09-22 12:17:00,System
+ORD-10179,Übermittlung an Lager,2025-09-22 12:44:00,System Interface
+ORD-10180,Bestellung eingegangen,2025-10-03 09:08:00,System
+ORD-10180,Bonitätsprüfung automatisch,2025-10-03 09:17:00,System
+ORD-10180,Bonitätsprüfung manuell,2025-10-04 08:17:00,Mitarbeiter_FiBu
+ORD-10180,Bestellung freigegeben,2025-10-04 08:32:00,Mitarbeiter_FiBu
+ORD-10180,Übermittlung an Lager,2025-10-04 09:04:00,System Interface
+ORD-10181,Bestellung eingegangen,2025-10-16 08:04:00,System
+ORD-10181,Bonitätsprüfung automatisch,2025-10-16 08:11:00,System
+ORD-10181,Übermittlung an Lager,2025-10-16 08:23:00,System Interface
+ORD-10182,Bestellung eingegangen,2025-10-04 14:30:00,System
+ORD-10182,Bonitätsprüfung automatisch,2025-10-04 14:36:00,System
+ORD-10182,Übermittlung an Lager,2025-10-04 14:56:00,System Interface
+ORD-10183,Bestellung eingegangen,2025-10-11 15:13:00,System
+ORD-10183,Bonitätsprüfung automatisch,2025-10-11 15:17:00,System
+ORD-10183,Übermittlung an Lager,2025-10-11 15:38:00,System Interface
+ORD-10184,Bestellung eingegangen,2025-09-14 16:31:00,System
+ORD-10184,Bonitätsprüfung automatisch,2025-09-14 16:36:00,System
+ORD-10184,Übermittlung an Lager,2025-09-14 17:20:00,System Interface
+ORD-10185,Bestellung eingegangen,2025-09-10 17:31:00,System
+ORD-10185,Bonitätsprüfung automatisch,2025-09-10 17:40:00,System
+ORD-10185,Übermittlung an Lager,2025-09-10 18:00:00,System Interface
+ORD-10186,Bestellung eingegangen,2025-09-06 08:14:00,System
+ORD-10186,Bonitätsprüfung automatisch,2025-09-06 08:21:00,System
+ORD-10186,Bonitätsprüfung manuell,2025-09-06 23:21:00,Mitarbeiter_FiBu
+ORD-10186,Bestellung freigegeben,2025-09-06 23:31:00,Mitarbeiter_FiBu
+ORD-10186,Übermittlung an Lager,2025-09-06 23:57:00,System Interface
+ORD-10187,Bestellung eingegangen,2025-09-05 09:02:00,System
+ORD-10187,Bonitätsprüfung automatisch,2025-09-05 09:11:00,System
+ORD-10187,Übermittlung an Lager,2025-09-05 09:18:00,System Interface
+ORD-10188,Bestellung eingegangen,2025-09-03 13:45:00,System
+ORD-10188,Bonitätsprüfung automatisch,2025-09-03 13:51:00,System
+ORD-10188,Übermittlung an Lager,2025-09-03 14:16:00,System Interface
+ORD-10189,Bestellung eingegangen,2025-10-06 11:08:00,System
+ORD-10189,Bonitätsprüfung automatisch,2025-10-06 11:10:00,System
+ORD-10189,Bonitätsprüfung manuell,2025-10-06 17:10:00,Mitarbeiter_FiBu
+ORD-10189,Bestellung freigegeben,2025-10-06 17:32:00,Mitarbeiter_FiBu
+ORD-10189,Übermittlung an Lager,2025-10-06 18:15:00,System Interface
+ORD-10190,Bestellung eingegangen,2025-09-30 09:11:00,System
+ORD-10190,Bonitätsprüfung automatisch,2025-09-30 09:21:00,System
+ORD-10190,Übermittlung an Lager,2025-09-30 09:27:00,System Interface
+ORD-10191,Bestellung eingegangen,2025-09-20 13:00:00,System
+ORD-10191,Bonitätsprüfung automatisch,2025-09-20 13:04:00,System
+ORD-10191,Übermittlung an Lager,2025-09-20 13:37:00,System Interface
+ORD-10192,Bestellung eingegangen,2025-09-28 16:53:00,System
+ORD-10192,Bonitätsprüfung automatisch,2025-09-28 16:55:00,System
+ORD-10192,Übermittlung an Lager,2025-09-28 17:04:00,System Interface
+ORD-10193,Bestellung eingegangen,2025-10-16 14:21:00,System
+ORD-10193,Bonitätsprüfung automatisch,2025-10-16 14:30:00,System
+ORD-10193,Übermittlung an Lager,2025-10-16 14:58:00,System Interface
+ORD-10194,Bestellung eingegangen,2025-10-28 13:29:00,System
+ORD-10194,Bonitätsprüfung automatisch,2025-10-28 13:34:00,System
+ORD-10194,Übermittlung an Lager,2025-10-28 14:11:00,System Interface
+ORD-10195,Bestellung eingegangen,2025-09-20 14:52:00,System
+ORD-10195,Bonitätsprüfung automatisch,2025-09-20 14:58:00,System
+ORD-10195,Bonitätsprüfung manuell,2025-09-20 21:58:00,Mitarbeiter_FiBu
+ORD-10195,Bestellung freigegeben,2025-09-20 22:27:00,Mitarbeiter_FiBu
+ORD-10195,Übermittlung an Lager,2025-09-20 22:38:00,System Interface
+ORD-10196,Bestellung eingegangen,2025-09-28 08:58:00,System
+ORD-10196,Bonitätsprüfung automatisch,2025-09-28 09:02:00,System
+ORD-10196,Übermittlung an Lager,2025-09-28 09:42:00,System Interface
+ORD-10197,Bestellung eingegangen,2025-10-05 16:07:00,System
+ORD-10197,Bonitätsprüfung automatisch,2025-10-05 16:10:00,System
+ORD-10197,Bonitätsprüfung manuell,2025-10-06 03:10:00,Mitarbeiter_FiBu
+ORD-10197,Bestellung freigegeben,2025-10-06 03:27:00,Mitarbeiter_FiBu
+ORD-10197,Übermittlung an Lager,2025-10-06 03:46:00,System Interface
+ORD-10198,Bestellung eingegangen,2025-09-19 12:59:00,System
+ORD-10198,Bonitätsprüfung automatisch,2025-09-19 13:07:00,System
+ORD-10198,Übermittlung an Lager,2025-09-19 13:56:00,System Interface
+ORD-10199,Bestellung eingegangen,2025-10-05 09:35:00,System
+ORD-10199,Bonitätsprüfung automatisch,2025-10-05 09:38:00,System
+ORD-10199,Übermittlung an Lager,2025-10-05 10:31:00,System Interface
+ORD-10200,Bestellung eingegangen,2025-09-24 11:17:00,System
+ORD-10200,Bonitätsprüfung automatisch,2025-09-24 11:25:00,System
+ORD-10200,Übermittlung an Lager,2025-09-24 12:21:00,System Interface
+ORD-10201,Bestellung eingegangen,2025-09-01 16:07:00,System
+ORD-10201,Bonitätsprüfung automatisch,2025-09-01 16:12:00,System
+ORD-10201,Bonitätsprüfung manuell,2025-09-01 21:12:00,Mitarbeiter_FiBu
+ORD-10201,Bestellung freigegeben,2025-09-01 21:42:00,Mitarbeiter_FiBu
+ORD-10201,Übermittlung an Lager,2025-09-01 22:00:00,System Interface
+ORD-10202,Bestellung eingegangen,2025-09-26 13:13:00,System
+ORD-10202,Bonitätsprüfung automatisch,2025-09-26 13:19:00,System
+ORD-10202,Übermittlung an Lager,2025-09-26 13:38:00,System Interface
+ORD-10203,Bestellung eingegangen,2025-09-09 15:41:00,System
+ORD-10203,Bonitätsprüfung automatisch,2025-09-09 15:47:00,System
+ORD-10203,Übermittlung an Lager,2025-09-09 16:28:00,System Interface
+ORD-10204,Bestellung eingegangen,2025-09-24 09:02:00,System
+ORD-10204,Bonitätsprüfung automatisch,2025-09-24 09:04:00,System
+ORD-10204,Übermittlung an Lager,2025-09-24 09:16:00,System Interface
+ORD-10205,Bestellung eingegangen,2025-10-16 14:12:00,System
+ORD-10205,Bonitätsprüfung automatisch,2025-10-16 14:18:00,System
+ORD-10205,Übermittlung an Lager,2025-10-16 14:48:00,System Interface
+ORD-10206,Bestellung eingegangen,2025-09-02 13:26:00,System
+ORD-10206,Bonitätsprüfung automatisch,2025-09-02 13:35:00,System
+ORD-10206,Übermittlung an Lager,2025-09-02 14:11:00,System Interface
+ORD-10207,Bestellung eingegangen,2025-09-20 09:35:00,System
+ORD-10207,Bonitätsprüfung automatisch,2025-09-20 09:44:00,System
+ORD-10207,Übermittlung an Lager,2025-09-20 10:18:00,System Interface
+ORD-10208,Bestellung eingegangen,2025-09-21 09:25:00,System
+ORD-10208,Bonitätsprüfung automatisch,2025-09-21 09:35:00,System
+ORD-10208,Übermittlung an Lager,2025-09-21 10:20:00,System Interface
+ORD-10209,Bestellung eingegangen,2025-10-01 08:12:00,System
+ORD-10209,Bonitätsprüfung automatisch,2025-10-01 08:13:00,System
+ORD-10209,Bonitätsprüfung manuell,2025-10-02 03:13:00,Mitarbeiter_FiBu
+ORD-10209,Bestellung freigegeben,2025-10-02 03:33:00,Mitarbeiter_FiBu
+ORD-10209,Übermittlung an Lager,2025-10-02 03:40:00,System Interface
+ORD-10210,Bestellung eingegangen,2025-09-06 15:14:00,System
+ORD-10210,Bonitätsprüfung automatisch,2025-09-06 15:18:00,System
+ORD-10210,Übermittlung an Lager,2025-09-06 15:44:00,System Interface
+ORD-10211,Bestellung eingegangen,2025-10-24 13:55:00,System
+ORD-10211,Bonitätsprüfung automatisch,2025-10-24 13:58:00,System
+ORD-10211,Übermittlung an Lager,2025-10-24 14:05:00,System Interface
+ORD-10212,Bestellung eingegangen,2025-10-30 13:57:00,System
+ORD-10212,Bonitätsprüfung automatisch,2025-10-30 14:00:00,System
+ORD-10212,Übermittlung an Lager,2025-10-30 14:43:00,System Interface
+ORD-10213,Bestellung eingegangen,2025-10-17 17:48:00,System
+ORD-10213,Bonitätsprüfung automatisch,2025-10-17 17:53:00,System
+ORD-10213,Übermittlung an Lager,2025-10-17 18:45:00,System Interface
+ORD-10214,Bestellung eingegangen,2025-10-15 14:28:00,System
+ORD-10214,Bonitätsprüfung automatisch,2025-10-15 14:37:00,System
+ORD-10214,Übermittlung an Lager,2025-10-15 15:31:00,System Interface
+ORD-10215,Bestellung eingegangen,2025-09-15 08:59:00,System
+ORD-10215,Bonitätsprüfung automatisch,2025-09-15 09:01:00,System
+ORD-10215,Übermittlung an Lager,2025-09-15 09:08:00,System Interface
+ORD-10216,Bestellung eingegangen,2025-10-22 17:07:00,System
+ORD-10216,Bonitätsprüfung automatisch,2025-10-22 17:16:00,System
+ORD-10216,Übermittlung an Lager,2025-10-22 17:25:00,System Interface
+ORD-10217,Bestellung eingegangen,2025-09-22 18:19:00,System
+ORD-10217,Bonitätsprüfung automatisch,2025-09-22 18:25:00,System
+ORD-10217,Übermittlung an Lager,2025-09-22 19:04:00,System Interface
+ORD-10218,Bestellung eingegangen,2025-10-22 08:48:00,System
+ORD-10218,Bonitätsprüfung automatisch,2025-10-22 08:54:00,System
+ORD-10218,Übermittlung an Lager,2025-10-22 09:20:00,System Interface
+ORD-10219,Bestellung eingegangen,2025-10-23 08:37:00,System
+ORD-10219,Bonitätsprüfung automatisch,2025-10-23 08:41:00,System
+ORD-10219,Übermittlung an Lager,2025-10-23 09:00:00,System Interface
+ORD-10220,Bestellung eingegangen,2025-10-29 09:40:00,System
+ORD-10220,Bonitätsprüfung automatisch,2025-10-29 09:49:00,System
+ORD-10220,Übermittlung an Lager,2025-10-29 10:33:00,System Interface
+ORD-10221,Bestellung eingegangen,2025-09-26 08:38:00,System
+ORD-10221,Bonitätsprüfung automatisch,2025-09-26 08:41:00,System
+ORD-10221,Übermittlung an Lager,2025-09-26 08:59:00,System Interface
+ORD-10222,Bestellung eingegangen,2025-09-29 08:59:00,System
+ORD-10222,Bonitätsprüfung automatisch,2025-09-29 09:04:00,System
+ORD-10222,Übermittlung an Lager,2025-09-29 09:33:00,System Interface
+ORD-10223,Bestellung eingegangen,2025-10-21 17:12:00,System
+ORD-10223,Bonitätsprüfung automatisch,2025-10-21 17:17:00,System
+ORD-10223,Übermittlung an Lager,2025-10-21 17:43:00,System Interface
+ORD-10224,Bestellung eingegangen,2025-09-09 11:47:00,System
+ORD-10224,Bonitätsprüfung automatisch,2025-09-09 11:48:00,System
+ORD-10224,Übermittlung an Lager,2025-09-09 12:47:00,System Interface
+ORD-10225,Bestellung eingegangen,2025-10-05 09:47:00,System
+ORD-10225,Bonitätsprüfung automatisch,2025-10-05 09:52:00,System
+ORD-10225,Übermittlung an Lager,2025-10-05 10:02:00,System Interface
+ORD-10226,Bestellung eingegangen,2025-09-27 08:09:00,System
+ORD-10226,Bonitätsprüfung automatisch,2025-09-27 08:16:00,System
+ORD-10226,Übermittlung an Lager,2025-09-27 09:16:00,System Interface
+ORD-10227,Bestellung eingegangen,2025-09-13 14:13:00,System
+ORD-10227,Bonitätsprüfung automatisch,2025-09-13 14:20:00,System
+ORD-10227,Übermittlung an Lager,2025-09-13 14:26:00,System Interface
+ORD-10228,Bestellung eingegangen,2025-10-31 18:59:00,System
+ORD-10228,Bonitätsprüfung automatisch,2025-10-31 19:09:00,System
+ORD-10228,Übermittlung an Lager,2025-10-31 19:48:00,System Interface
+ORD-10229,Bestellung eingegangen,2025-09-15 14:59:00,System
+ORD-10229,Bonitätsprüfung automatisch,2025-09-15 15:00:00,System
+ORD-10229,Übermittlung an Lager,2025-09-15 15:50:00,System Interface
+ORD-10230,Bestellung eingegangen,2025-09-26 15:09:00,System
+ORD-10230,Bonitätsprüfung automatisch,2025-09-26 15:10:00,System
+ORD-10230,Übermittlung an Lager,2025-09-26 15:22:00,System Interface
+ORD-10231,Bestellung eingegangen,2025-09-09 14:55:00,System
+ORD-10231,Bonitätsprüfung automatisch,2025-09-09 15:00:00,System
+ORD-10231,Übermittlung an Lager,2025-09-09 16:00:00,System Interface
+ORD-10232,Bestellung eingegangen,2025-09-26 09:27:00,System
+ORD-10232,Bonitätsprüfung automatisch,2025-09-26 09:30:00,System
+ORD-10232,Bonitätsprüfung manuell,2025-09-26 20:30:00,Mitarbeiter_FiBu
+ORD-10232,Bestellung freigegeben,2025-09-26 20:59:00,Mitarbeiter_FiBu
+ORD-10232,Übermittlung an Lager,2025-09-26 21:37:00,System Interface
+ORD-10233,Bestellung eingegangen,2025-10-01 10:54:00,System
+ORD-10233,Bonitätsprüfung automatisch,2025-10-01 10:55:00,System
+ORD-10233,Übermittlung an Lager,2025-10-01 11:31:00,System Interface
+ORD-10234,Bestellung eingegangen,2025-10-09 18:04:00,System
+ORD-10234,Bonitätsprüfung automatisch,2025-10-09 18:14:00,System
+ORD-10234,Übermittlung an Lager,2025-10-09 19:11:00,System Interface
+ORD-10235,Bestellung eingegangen,2025-10-21 18:43:00,System
+ORD-10235,Bonitätsprüfung automatisch,2025-10-21 18:44:00,System
+ORD-10235,Übermittlung an Lager,2025-10-21 19:14:00,System Interface
+ORD-10236,Bestellung eingegangen,2025-10-13 14:26:00,System
+ORD-10236,Bonitätsprüfung automatisch,2025-10-13 14:36:00,System
+ORD-10236,Übermittlung an Lager,2025-10-13 14:44:00,System Interface
+ORD-10237,Bestellung eingegangen,2025-10-23 16:01:00,System
+ORD-10237,Bonitätsprüfung automatisch,2025-10-23 16:10:00,System
+ORD-10237,Übermittlung an Lager,2025-10-23 17:05:00,System Interface
+ORD-10238,Bestellung eingegangen,2025-10-12 17:40:00,System
+ORD-10238,Bonitätsprüfung automatisch,2025-10-12 17:46:00,System
+ORD-10238,Bonitätsprüfung manuell,2025-10-13 03:46:00,Mitarbeiter_FiBu
+ORD-10238,Bestellung freigegeben,2025-10-13 04:05:00,Mitarbeiter_FiBu
+ORD-10238,Übermittlung an Lager,2025-10-13 04:36:00,System Interface
+ORD-10239,Bestellung eingegangen,2025-09-16 16:14:00,System
+ORD-10239,Bonitätsprüfung automatisch,2025-09-16 16:19:00,System
+ORD-10239,Bonitätsprüfung manuell,2025-09-17 03:19:00,Mitarbeiter_FiBu
+ORD-10239,Bestellung freigegeben,2025-09-17 03:33:00,Mitarbeiter_FiBu
+ORD-10239,Übermittlung an Lager,2025-09-17 04:17:00,System Interface
+ORD-10240,Bestellung eingegangen,2025-10-26 13:45:00,System
+ORD-10240,Bonitätsprüfung automatisch,2025-10-26 13:53:00,System
+ORD-10240,Übermittlung an Lager,2025-10-26 14:14:00,System Interface
+ORD-10241,Bestellung eingegangen,2025-10-11 16:14:00,System
+ORD-10241,Bonitätsprüfung automatisch,2025-10-11 16:15:00,System
+ORD-10241,Bonitätsprüfung manuell,2025-10-12 04:15:00,Mitarbeiter_FiBu
+ORD-10241,Bestellung freigegeben,2025-10-12 04:32:00,Mitarbeiter_FiBu
+ORD-10241,Übermittlung an Lager,2025-10-12 04:48:00,System Interface
+ORD-10242,Bestellung eingegangen,2025-09-19 11:09:00,System
+ORD-10242,Bonitätsprüfung automatisch,2025-09-19 11:11:00,System
+ORD-10242,Übermittlung an Lager,2025-09-19 11:18:00,System Interface
+ORD-10243,Bestellung eingegangen,2025-10-02 09:26:00,System
+ORD-10243,Bonitätsprüfung automatisch,2025-10-02 09:32:00,System
+ORD-10243,Übermittlung an Lager,2025-10-02 10:01:00,System Interface
+ORD-10244,Bestellung eingegangen,2025-09-18 10:17:00,System
+ORD-10244,Bonitätsprüfung automatisch,2025-09-18 10:27:00,System
+ORD-10244,Übermittlung an Lager,2025-09-18 11:06:00,System Interface
+ORD-10245,Bestellung eingegangen,2025-09-06 11:05:00,System
+ORD-10245,Bonitätsprüfung automatisch,2025-09-06 11:06:00,System
+ORD-10245,Übermittlung an Lager,2025-09-06 11:45:00,System Interface
+ORD-10246,Bestellung eingegangen,2025-09-21 13:34:00,System
+ORD-10246,Bonitätsprüfung automatisch,2025-09-21 13:42:00,System
+ORD-10246,Bonitätsprüfung manuell,2025-09-22 03:42:00,Mitarbeiter_FiBu
+ORD-10246,Bestellung freigegeben,2025-09-22 04:11:00,Mitarbeiter_FiBu
+ORD-10246,Übermittlung an Lager,2025-09-22 05:01:00,System Interface
+ORD-10247,Bestellung eingegangen,2025-09-11 09:09:00,System
+ORD-10247,Bonitätsprüfung automatisch,2025-09-11 09:12:00,System
+ORD-10247,Übermittlung an Lager,2025-09-11 09:25:00,System Interface
+ORD-10248,Bestellung eingegangen,2025-10-30 13:30:00,System
+ORD-10248,Bonitätsprüfung automatisch,2025-10-30 13:39:00,System
+ORD-10248,Bonitätsprüfung manuell,2025-10-31 11:39:00,Mitarbeiter_FiBu
+ORD-10248,Bestellung freigegeben,2025-10-31 11:49:00,Mitarbeiter_FiBu
+ORD-10248,Übermittlung an Lager,2025-10-31 12:20:00,System Interface
+ORD-10249,Bestellung eingegangen,2025-10-24 18:07:00,System
+ORD-10249,Bonitätsprüfung automatisch,2025-10-24 18:16:00,System
+ORD-10249,Übermittlung an Lager,2025-10-24 18:57:00,System Interface
+ORD-10250,Bestellung eingegangen,2025-10-15 16:04:00,System
+ORD-10250,Bonitätsprüfung automatisch,2025-10-15 16:10:00,System
+ORD-10250,Übermittlung an Lager,2025-10-15 17:10:00,System Interface
+ORD-10251,Bestellung eingegangen,2025-10-24 17:12:00,System
+ORD-10251,Bonitätsprüfung automatisch,2025-10-24 17:15:00,System
+ORD-10251,Übermittlung an Lager,2025-10-24 18:14:00,System Interface
+ORD-10252,Bestellung eingegangen,2025-09-14 13:07:00,System
+ORD-10252,Bonitätsprüfung automatisch,2025-09-14 13:17:00,System
+ORD-10252,Übermittlung an Lager,2025-09-14 14:05:00,System Interface
+ORD-10253,Bestellung eingegangen,2025-09-18 15:18:00,System
+ORD-10253,Bonitätsprüfung automatisch,2025-09-18 15:20:00,System
+ORD-10253,Übermittlung an Lager,2025-09-18 16:11:00,System Interface
+ORD-10254,Bestellung eingegangen,2025-09-17 11:44:00,System
+ORD-10254,Bonitätsprüfung automatisch,2025-09-17 11:54:00,System
+ORD-10254,Übermittlung an Lager,2025-09-17 12:02:00,System Interface
+ORD-10255,Bestellung eingegangen,2025-10-22 10:42:00,System
+ORD-10255,Bonitätsprüfung automatisch,2025-10-22 10:46:00,System
+ORD-10255,Übermittlung an Lager,2025-10-22 11:39:00,System Interface
+ORD-10256,Bestellung eingegangen,2025-10-03 09:19:00,System
+ORD-10256,Bonitätsprüfung automatisch,2025-10-03 09:27:00,System
+ORD-10256,Übermittlung an Lager,2025-10-03 10:01:00,System Interface
+ORD-10257,Bestellung eingegangen,2025-10-28 12:36:00,System
+ORD-10257,Bonitätsprüfung automatisch,2025-10-28 12:46:00,System
+ORD-10257,Übermittlung an Lager,2025-10-28 13:01:00,System Interface
+ORD-10258,Bestellung eingegangen,2025-09-21 18:03:00,System
+ORD-10258,Bonitätsprüfung automatisch,2025-09-21 18:12:00,System
+ORD-10258,Übermittlung an Lager,2025-09-21 18:46:00,System Interface
+ORD-10259,Bestellung eingegangen,2025-10-25 14:58:00,System
+ORD-10259,Bonitätsprüfung automatisch,2025-10-25 15:06:00,System
+ORD-10259,Übermittlung an Lager,2025-10-25 15:55:00,System Interface
+ORD-10260,Bestellung eingegangen,2025-10-14 13:00:00,System
+ORD-10260,Bonitätsprüfung automatisch,2025-10-14 13:05:00,System
+ORD-10260,Bonitätsprüfung manuell,2025-10-14 18:05:00,Mitarbeiter_FiBu
+ORD-10260,Bestellung freigegeben,2025-10-14 18:15:00,Mitarbeiter_FiBu
+ORD-10260,Übermittlung an Lager,2025-10-14 18:58:00,System Interface
+ORD-10261,Bestellung eingegangen,2025-10-14 12:07:00,System
+ORD-10261,Bonitätsprüfung automatisch,2025-10-14 12:14:00,System
+ORD-10261,Übermittlung an Lager,2025-10-14 12:57:00,System Interface
+ORD-10262,Bestellung eingegangen,2025-09-03 09:43:00,System
+ORD-10262,Bonitätsprüfung automatisch,2025-09-03 09:52:00,System
+ORD-10262,Übermittlung an Lager,2025-09-03 09:58:00,System Interface
+ORD-10263,Bestellung eingegangen,2025-09-01 13:40:00,System
+ORD-10263,Bonitätsprüfung automatisch,2025-09-01 13:44:00,System
+ORD-10263,Übermittlung an Lager,2025-09-01 14:44:00,System Interface
+ORD-10264,Bestellung eingegangen,2025-10-16 16:53:00,System
+ORD-10264,Bonitätsprüfung automatisch,2025-10-16 17:00:00,System
+ORD-10264,Übermittlung an Lager,2025-10-16 17:57:00,System Interface
+ORD-10265,Bestellung eingegangen,2025-10-24 17:35:00,System
+ORD-10265,Bonitätsprüfung automatisch,2025-10-24 17:43:00,System
+ORD-10265,Übermittlung an Lager,2025-10-24 18:33:00,System Interface
+ORD-10266,Bestellung eingegangen,2025-09-14 15:10:00,System
+ORD-10266,Bonitätsprüfung automatisch,2025-09-14 15:16:00,System
+ORD-10266,Bonitätsprüfung manuell,2025-09-15 15:16:00,Mitarbeiter_FiBu
+ORD-10266,Bestellung freigegeben,2025-09-15 15:34:00,Mitarbeiter_FiBu
+ORD-10266,Übermittlung an Lager,2025-09-15 15:55:00,System Interface
+ORD-10267,Bestellung eingegangen,2025-09-13 09:28:00,System
+ORD-10267,Bonitätsprüfung automatisch,2025-09-13 09:32:00,System
+ORD-10267,Übermittlung an Lager,2025-09-13 10:18:00,System Interface
+ORD-10268,Bestellung eingegangen,2025-09-05 17:20:00,System
+ORD-10268,Bonitätsprüfung automatisch,2025-09-05 17:28:00,System
+ORD-10268,Übermittlung an Lager,2025-09-05 18:03:00,System Interface
+ORD-10269,Bestellung eingegangen,2025-10-22 13:22:00,System
+ORD-10269,Bonitätsprüfung automatisch,2025-10-22 13:30:00,System
+ORD-10269,Übermittlung an Lager,2025-10-22 13:56:00,System Interface
+ORD-10270,Bestellung eingegangen,2025-09-19 11:41:00,System
+ORD-10270,Bonitätsprüfung automatisch,2025-09-19 11:43:00,System
+ORD-10270,Übermittlung an Lager,2025-09-19 12:05:00,System Interface
+ORD-10271,Bestellung eingegangen,2025-10-28 10:34:00,System
+ORD-10271,Bonitätsprüfung automatisch,2025-10-28 10:43:00,System
+ORD-10271,Übermittlung an Lager,2025-10-28 11:14:00,System Interface
+ORD-10272,Bestellung eingegangen,2025-10-13 09:25:00,System
+ORD-10272,Bonitätsprüfung automatisch,2025-10-13 09:29:00,System
+ORD-10272,Übermittlung an Lager,2025-10-13 10:18:00,System Interface
+ORD-10273,Bestellung eingegangen,2025-10-13 09:18:00,System
+ORD-10273,Bonitätsprüfung automatisch,2025-10-13 09:26:00,System
+ORD-10273,Übermittlung an Lager,2025-10-13 09:45:00,System Interface
+ORD-10274,Bestellung eingegangen,2025-09-22 11:25:00,System
+ORD-10274,Bonitätsprüfung automatisch,2025-09-22 11:28:00,System
+ORD-10274,Übermittlung an Lager,2025-09-22 12:01:00,System Interface
+ORD-10275,Bestellung eingegangen,2025-09-09 09:16:00,System
+ORD-10275,Bonitätsprüfung automatisch,2025-09-09 09:25:00,System
+ORD-10275,Bonitätsprüfung manuell,2025-09-09 12:25:00,Mitarbeiter_FiBu
+ORD-10275,Bestellung freigegeben,2025-09-09 12:35:00,Mitarbeiter_FiBu
+ORD-10275,Übermittlung an Lager,2025-09-09 13:25:00,System Interface
+ORD-10276,Bestellung eingegangen,2025-10-02 10:04:00,System
+ORD-10276,Bonitätsprüfung automatisch,2025-10-02 10:06:00,System
+ORD-10276,Bonitätsprüfung manuell,2025-10-02 20:06:00,Mitarbeiter_FiBu
+ORD-10276,Bestellung freigegeben,2025-10-02 20:24:00,Mitarbeiter_FiBu
+ORD-10276,Übermittlung an Lager,2025-10-02 20:29:00,System Interface
+ORD-10277,Bestellung eingegangen,2025-09-13 12:27:00,System
+ORD-10277,Bonitätsprüfung automatisch,2025-09-13 12:32:00,System
+ORD-10277,Übermittlung an Lager,2025-09-13 12:59:00,System Interface
+ORD-10278,Bestellung eingegangen,2025-09-30 11:48:00,System
+ORD-10278,Bonitätsprüfung automatisch,2025-09-30 11:49:00,System
+ORD-10278,Übermittlung an Lager,2025-09-30 12:37:00,System Interface
+ORD-10279,Bestellung eingegangen,2025-10-06 16:32:00,System
+ORD-10279,Bonitätsprüfung automatisch,2025-10-06 16:39:00,System
+ORD-10279,Übermittlung an Lager,2025-10-06 17:18:00,System Interface
+ORD-10280,Bestellung eingegangen,2025-09-22 17:12:00,System
+ORD-10280,Bonitätsprüfung automatisch,2025-09-22 17:18:00,System
+ORD-10280,Übermittlung an Lager,2025-09-22 17:42:00,System Interface
+ORD-10281,Bestellung eingegangen,2025-09-02 14:57:00,System
+ORD-10281,Bonitätsprüfung automatisch,2025-09-02 15:01:00,System
+ORD-10281,Übermittlung an Lager,2025-09-02 15:57:00,System Interface
+ORD-10282,Bestellung eingegangen,2025-09-10 08:56:00,System
+ORD-10282,Bonitätsprüfung automatisch,2025-09-10 09:06:00,System
+ORD-10282,Übermittlung an Lager,2025-09-10 10:06:00,System Interface
+ORD-10283,Bestellung eingegangen,2025-10-05 17:03:00,System
+ORD-10283,Bonitätsprüfung automatisch,2025-10-05 17:07:00,System
+ORD-10283,Übermittlung an Lager,2025-10-05 17:48:00,System Interface
+ORD-10284,Bestellung eingegangen,2025-10-20 16:50:00,System
+ORD-10284,Bonitätsprüfung automatisch,2025-10-20 16:52:00,System
+ORD-10284,Bonitätsprüfung manuell,2025-10-20 22:52:00,Mitarbeiter_FiBu
+ORD-10284,Bestellung freigegeben,2025-10-20 23:15:00,Mitarbeiter_FiBu
+ORD-10284,Übermittlung an Lager,2025-10-20 23:53:00,System Interface
+ORD-10285,Bestellung eingegangen,2025-09-08 18:57:00,System
+ORD-10285,Bonitätsprüfung automatisch,2025-09-08 19:02:00,System
+ORD-10285,Übermittlung an Lager,2025-09-08 19:27:00,System Interface
+ORD-10286,Bestellung eingegangen,2025-10-22 14:06:00,System
+ORD-10286,Bonitätsprüfung automatisch,2025-10-22 14:07:00,System
+ORD-10286,Übermittlung an Lager,2025-10-22 14:33:00,System Interface
+ORD-10287,Bestellung eingegangen,2025-10-07 14:27:00,System
+ORD-10287,Bonitätsprüfung automatisch,2025-10-07 14:32:00,System
+ORD-10287,Übermittlung an Lager,2025-10-07 15:15:00,System Interface
+ORD-10288,Bestellung eingegangen,2025-09-30 14:00:00,System
+ORD-10288,Bonitätsprüfung automatisch,2025-09-30 14:07:00,System
+ORD-10288,Übermittlung an Lager,2025-09-30 14:41:00,System Interface
+ORD-10289,Bestellung eingegangen,2025-09-27 17:33:00,System
+ORD-10289,Bonitätsprüfung automatisch,2025-09-27 17:43:00,System
+ORD-10289,Übermittlung an Lager,2025-09-27 18:23:00,System Interface
+ORD-10290,Bestellung eingegangen,2025-10-07 12:02:00,System
+ORD-10290,Bonitätsprüfung automatisch,2025-10-07 12:09:00,System
+ORD-10290,Übermittlung an Lager,2025-10-07 13:07:00,System Interface
+ORD-10291,Bestellung eingegangen,2025-10-16 15:51:00,System
+ORD-10291,Bonitätsprüfung automatisch,2025-10-16 15:58:00,System
+ORD-10291,Übermittlung an Lager,2025-10-16 16:21:00,System Interface
+ORD-10292,Bestellung eingegangen,2025-09-10 08:08:00,System
+ORD-10292,Bonitätsprüfung automatisch,2025-09-10 08:11:00,System
+ORD-10292,Übermittlung an Lager,2025-09-10 09:02:00,System Interface
+ORD-10293,Bestellung eingegangen,2025-10-10 16:30:00,System
+ORD-10293,Bonitätsprüfung automatisch,2025-10-10 16:37:00,System
+ORD-10293,Übermittlung an Lager,2025-10-10 17:06:00,System Interface
+ORD-10294,Bestellung eingegangen,2025-10-13 12:23:00,System
+ORD-10294,Bonitätsprüfung automatisch,2025-10-13 12:32:00,System
+ORD-10294,Übermittlung an Lager,2025-10-13 12:42:00,System Interface
+ORD-10295,Bestellung eingegangen,2025-09-22 10:40:00,System
+ORD-10295,Bonitätsprüfung automatisch,2025-09-22 10:49:00,System
+ORD-10295,Übermittlung an Lager,2025-09-22 11:07:00,System Interface
+ORD-10296,Bestellung eingegangen,2025-10-01 11:23:00,System
+ORD-10296,Bonitätsprüfung automatisch,2025-10-01 11:29:00,System
+ORD-10296,Übermittlung an Lager,2025-10-01 12:23:00,System Interface
+ORD-10297,Bestellung eingegangen,2025-10-25 15:24:00,System
+ORD-10297,Bonitätsprüfung automatisch,2025-10-25 15:30:00,System
+ORD-10297,Bonitätsprüfung manuell,2025-10-26 12:30:00,Mitarbeiter_FiBu
+ORD-10297,Bestellung freigegeben,2025-10-26 12:54:00,Mitarbeiter_FiBu
+ORD-10297,Übermittlung an Lager,2025-10-26 13:27:00,System Interface
+ORD-10298,Bestellung eingegangen,2025-10-06 18:06:00,System
+ORD-10298,Bonitätsprüfung automatisch,2025-10-06 18:14:00,System
+ORD-10298,Übermittlung an Lager,2025-10-06 19:09:00,System Interface
+ORD-10299,Bestellung eingegangen,2025-10-05 12:31:00,System
+ORD-10299,Bonitätsprüfung automatisch,2025-10-05 12:40:00,System
+ORD-10299,Übermittlung an Lager,2025-10-05 13:27:00,System Interface
+ORD-10300,Bestellung eingegangen,2025-09-30 16:00:00,System
+ORD-10300,Bonitätsprüfung automatisch,2025-09-30 16:04:00,System
+ORD-10300,Übermittlung an Lager,2025-09-30 16:15:00,System Interface
+ORD-10301,Bestellung eingegangen,2025-09-13 15:20:00,System
+ORD-10301,Bonitätsprüfung automatisch,2025-09-13 15:28:00,System
+ORD-10301,Übermittlung an Lager,2025-09-13 15:41:00,System Interface
+ORD-10302,Bestellung eingegangen,2025-10-04 17:45:00,System
+ORD-10302,Bonitätsprüfung automatisch,2025-10-04 17:52:00,System
+ORD-10302,Übermittlung an Lager,2025-10-04 17:58:00,System Interface
+ORD-10303,Bestellung eingegangen,2025-10-27 10:02:00,System
+ORD-10303,Bonitätsprüfung automatisch,2025-10-27 10:08:00,System
+ORD-10303,Bonitätsprüfung manuell,2025-10-28 02:08:00,Mitarbeiter_FiBu
+ORD-10303,Bestellung freigegeben,2025-10-28 02:32:00,Mitarbeiter_FiBu
+ORD-10303,Übermittlung an Lager,2025-10-28 02:47:00,System Interface
+ORD-10304,Bestellung eingegangen,2025-10-21 13:15:00,System
+ORD-10304,Bonitätsprüfung automatisch,2025-10-21 13:22:00,System
+ORD-10304,Übermittlung an Lager,2025-10-21 13:28:00,System Interface
+ORD-10305,Bestellung eingegangen,2025-10-12 11:09:00,System
+ORD-10305,Bonitätsprüfung automatisch,2025-10-12 11:17:00,System
+ORD-10305,Bonitätsprüfung manuell,2025-10-12 23:17:00,Mitarbeiter_FiBu
+ORD-10305,Bestellung freigegeben,2025-10-12 23:45:00,Mitarbeiter_FiBu
+ORD-10305,Übermittlung an Lager,2025-10-13 00:00:00,System Interface
+ORD-10306,Bestellung eingegangen,2025-10-28 10:15:00,System
+ORD-10306,Bonitätsprüfung automatisch,2025-10-28 10:18:00,System
+ORD-10306,Bonitätsprüfung manuell,2025-10-28 22:18:00,Mitarbeiter_FiBu
+ORD-10306,Bestellung freigegeben,2025-10-28 22:43:00,Mitarbeiter_FiBu
+ORD-10306,Übermittlung an Lager,2025-10-28 23:41:00,System Interface
+ORD-10307,Bestellung eingegangen,2025-10-22 17:00:00,System
+ORD-10307,Bonitätsprüfung automatisch,2025-10-22 17:09:00,System
+ORD-10307,Bonitätsprüfung manuell,2025-10-23 02:09:00,Mitarbeiter_FiBu
+ORD-10307,Bestellung freigegeben,2025-10-23 02:33:00,Mitarbeiter_FiBu
+ORD-10307,Übermittlung an Lager,2025-10-23 03:33:00,System Interface
+ORD-10308,Bestellung eingegangen,2025-09-06 17:23:00,System
+ORD-10308,Bonitätsprüfung automatisch,2025-09-06 17:27:00,System
+ORD-10308,Bonitätsprüfung manuell,2025-09-07 09:27:00,Mitarbeiter_FiBu
+ORD-10308,Bestellung freigegeben,2025-09-07 09:40:00,Mitarbeiter_FiBu
+ORD-10308,Übermittlung an Lager,2025-09-07 10:20:00,System Interface
+ORD-10309,Bestellung eingegangen,2025-09-15 12:15:00,System
+ORD-10309,Bonitätsprüfung automatisch,2025-09-15 12:18:00,System
+ORD-10309,Übermittlung an Lager,2025-09-15 12:33:00,System Interface
+ORD-10310,Bestellung eingegangen,2025-09-13 08:57:00,System
+ORD-10310,Bonitätsprüfung automatisch,2025-09-13 08:58:00,System
+ORD-10310,Übermittlung an Lager,2025-09-13 09:54:00,System Interface
+ORD-10311,Bestellung eingegangen,2025-10-22 11:32:00,System
+ORD-10311,Bonitätsprüfung automatisch,2025-10-22 11:33:00,System
+ORD-10311,Übermittlung an Lager,2025-10-22 12:18:00,System Interface
+ORD-10312,Bestellung eingegangen,2025-10-24 17:29:00,System
+ORD-10312,Bonitätsprüfung automatisch,2025-10-24 17:39:00,System
+ORD-10312,Übermittlung an Lager,2025-10-24 17:46:00,System Interface
+ORD-10313,Bestellung eingegangen,2025-10-26 11:57:00,System
+ORD-10313,Bonitätsprüfung automatisch,2025-10-26 12:05:00,System
+ORD-10313,Übermittlung an Lager,2025-10-26 12:32:00,System Interface
+ORD-10314,Bestellung eingegangen,2025-10-19 09:19:00,System
+ORD-10314,Bonitätsprüfung automatisch,2025-10-19 09:22:00,System
+ORD-10314,Bonitätsprüfung manuell,2025-10-19 22:22:00,Mitarbeiter_FiBu
+ORD-10314,Bestellung freigegeben,2025-10-19 22:49:00,Mitarbeiter_FiBu
+ORD-10314,Übermittlung an Lager,2025-10-19 23:32:00,System Interface
+ORD-10315,Bestellung eingegangen,2025-09-12 17:35:00,System
+ORD-10315,Bonitätsprüfung automatisch,2025-09-12 17:39:00,System
+ORD-10315,Übermittlung an Lager,2025-09-12 18:14:00,System Interface
+ORD-10316,Bestellung eingegangen,2025-09-21 15:42:00,System
+ORD-10316,Bonitätsprüfung automatisch,2025-09-21 15:50:00,System
+ORD-10316,Übermittlung an Lager,2025-09-21 16:10:00,System Interface
+ORD-10317,Bestellung eingegangen,2025-09-21 12:03:00,System
+ORD-10317,Bonitätsprüfung automatisch,2025-09-21 12:07:00,System
+ORD-10317,Übermittlung an Lager,2025-09-21 12:14:00,System Interface
+ORD-10318,Bestellung eingegangen,2025-09-04 15:34:00,System
+ORD-10318,Bonitätsprüfung automatisch,2025-09-04 15:37:00,System
+ORD-10318,Übermittlung an Lager,2025-09-04 16:35:00,System Interface
+ORD-10319,Bestellung eingegangen,2025-09-13 17:06:00,System
+ORD-10319,Bonitätsprüfung automatisch,2025-09-13 17:14:00,System
+ORD-10319,Übermittlung an Lager,2025-09-13 17:49:00,System Interface
+ORD-10320,Bestellung eingegangen,2025-10-11 15:14:00,System
+ORD-10320,Bonitätsprüfung automatisch,2025-10-11 15:16:00,System
+ORD-10320,Bonitätsprüfung manuell,2025-10-11 18:16:00,Mitarbeiter_FiBu
+ORD-10320,Bestellung freigegeben,2025-10-11 18:35:00,Mitarbeiter_FiBu
+ORD-10320,Übermittlung an Lager,2025-10-11 19:25:00,System Interface
+ORD-10321,Bestellung eingegangen,2025-10-15 13:33:00,System
+ORD-10321,Bonitätsprüfung automatisch,2025-10-15 13:42:00,System
+ORD-10321,Übermittlung an Lager,2025-10-15 14:29:00,System Interface
+ORD-10322,Bestellung eingegangen,2025-10-21 08:57:00,System
+ORD-10322,Bonitätsprüfung automatisch,2025-10-21 09:03:00,System
+ORD-10322,Übermittlung an Lager,2025-10-21 09:37:00,System Interface
+ORD-10323,Bestellung eingegangen,2025-10-29 17:58:00,System
+ORD-10323,Bonitätsprüfung automatisch,2025-10-29 18:07:00,System
+ORD-10323,Übermittlung an Lager,2025-10-29 18:18:00,System Interface
+ORD-10324,Bestellung eingegangen,2025-10-10 10:01:00,System
+ORD-10324,Bonitätsprüfung automatisch,2025-10-10 10:05:00,System
+ORD-10324,Übermittlung an Lager,2025-10-10 10:36:00,System Interface
+ORD-10325,Bestellung eingegangen,2025-10-14 08:32:00,System
+ORD-10325,Bonitätsprüfung automatisch,2025-10-14 08:33:00,System
+ORD-10325,Übermittlung an Lager,2025-10-14 08:57:00,System Interface
+ORD-10326,Bestellung eingegangen,2025-09-07 08:23:00,System
+ORD-10326,Bonitätsprüfung automatisch,2025-09-07 08:33:00,System
+ORD-10326,Übermittlung an Lager,2025-09-07 08:44:00,System Interface
+ORD-10327,Bestellung eingegangen,2025-09-15 15:43:00,System
+ORD-10327,Bonitätsprüfung automatisch,2025-09-15 15:52:00,System
+ORD-10327,Übermittlung an Lager,2025-09-15 16:29:00,System Interface
+ORD-10328,Bestellung eingegangen,2025-09-24 11:20:00,System
+ORD-10328,Bonitätsprüfung automatisch,2025-09-24 11:30:00,System
+ORD-10328,Übermittlung an Lager,2025-09-24 11:52:00,System Interface
+ORD-10329,Bestellung eingegangen,2025-10-04 17:17:00,System
+ORD-10329,Bonitätsprüfung automatisch,2025-10-04 17:22:00,System
+ORD-10329,Übermittlung an Lager,2025-10-04 17:41:00,System Interface
+ORD-10330,Bestellung eingegangen,2025-09-15 10:25:00,System
+ORD-10330,Bonitätsprüfung automatisch,2025-09-15 10:34:00,System
+ORD-10330,Übermittlung an Lager,2025-09-15 11:22:00,System Interface
+ORD-10331,Bestellung eingegangen,2025-09-21 14:28:00,System
+ORD-10331,Bonitätsprüfung automatisch,2025-09-21 14:29:00,System
+ORD-10331,Übermittlung an Lager,2025-09-21 15:17:00,System Interface
+ORD-10332,Bestellung eingegangen,2025-10-20 18:22:00,System
+ORD-10332,Bonitätsprüfung automatisch,2025-10-20 18:26:00,System
+ORD-10332,Übermittlung an Lager,2025-10-20 19:21:00,System Interface
+ORD-10333,Bestellung eingegangen,2025-10-26 18:25:00,System
+ORD-10333,Bonitätsprüfung automatisch,2025-10-26 18:35:00,System
+ORD-10333,Übermittlung an Lager,2025-10-26 18:51:00,System Interface
+ORD-10334,Bestellung eingegangen,2025-09-01 11:41:00,System
+ORD-10334,Bonitätsprüfung automatisch,2025-09-01 11:42:00,System
+ORD-10334,Übermittlung an Lager,2025-09-01 12:16:00,System Interface
+ORD-10335,Bestellung eingegangen,2025-10-07 08:11:00,System
+ORD-10335,Bonitätsprüfung automatisch,2025-10-07 08:16:00,System
+ORD-10335,Bonitätsprüfung manuell,2025-10-07 16:16:00,Mitarbeiter_FiBu
+ORD-10335,Bestellung freigegeben,2025-10-07 16:39:00,Mitarbeiter_FiBu
+ORD-10335,Übermittlung an Lager,2025-10-07 17:12:00,System Interface
+ORD-10336,Bestellung eingegangen,2025-10-14 17:13:00,System
+ORD-10336,Bonitätsprüfung automatisch,2025-10-14 17:17:00,System
+ORD-10336,Übermittlung an Lager,2025-10-14 18:09:00,System Interface
+ORD-10337,Bestellung eingegangen,2025-09-13 13:39:00,System
+ORD-10337,Bonitätsprüfung automatisch,2025-09-13 13:42:00,System
+ORD-10337,Übermittlung an Lager,2025-09-13 13:58:00,System Interface
+ORD-10338,Bestellung eingegangen,2025-09-24 11:30:00,System
+ORD-10338,Bonitätsprüfung automatisch,2025-09-24 11:31:00,System
+ORD-10338,Übermittlung an Lager,2025-09-24 12:03:00,System Interface
+ORD-10339,Bestellung eingegangen,2025-09-09 12:06:00,System
+ORD-10339,Bonitätsprüfung automatisch,2025-09-09 12:10:00,System
+ORD-10339,Übermittlung an Lager,2025-09-09 12:54:00,System Interface
+ORD-10340,Bestellung eingegangen,2025-10-11 08:21:00,System
+ORD-10340,Bonitätsprüfung automatisch,2025-10-11 08:26:00,System
+ORD-10340,Übermittlung an Lager,2025-10-11 09:00:00,System Interface
+ORD-10341,Bestellung eingegangen,2025-10-05 12:15:00,System
+ORD-10341,Bonitätsprüfung automatisch,2025-10-05 12:19:00,System
+ORD-10341,Übermittlung an Lager,2025-10-05 13:05:00,System Interface
+ORD-10342,Bestellung eingegangen,2025-10-23 08:59:00,System
+ORD-10342,Bonitätsprüfung automatisch,2025-10-23 09:04:00,System
+ORD-10342,Übermittlung an Lager,2025-10-23 09:13:00,System Interface
+ORD-10343,Bestellung eingegangen,2025-09-23 09:38:00,System
+ORD-10343,Bonitätsprüfung automatisch,2025-09-23 09:48:00,System
+ORD-10343,Übermittlung an Lager,2025-09-23 10:47:00,System Interface
+ORD-10344,Bestellung eingegangen,2025-09-19 17:35:00,System
+ORD-10344,Bonitätsprüfung automatisch,2025-09-19 17:40:00,System
+ORD-10344,Übermittlung an Lager,2025-09-19 18:35:00,System Interface
+ORD-10345,Bestellung eingegangen,2025-10-16 12:05:00,System
+ORD-10345,Bonitätsprüfung automatisch,2025-10-16 12:15:00,System
+ORD-10345,Übermittlung an Lager,2025-10-16 12:21:00,System Interface
+ORD-10346,Bestellung eingegangen,2025-09-01 17:53:00,System
+ORD-10346,Bonitätsprüfung automatisch,2025-09-01 18:02:00,System
+ORD-10346,Übermittlung an Lager,2025-09-01 18:45:00,System Interface
+ORD-10347,Bestellung eingegangen,2025-09-20 14:09:00,System
+ORD-10347,Bonitätsprüfung automatisch,2025-09-20 14:10:00,System
+ORD-10347,Übermittlung an Lager,2025-09-20 14:23:00,System Interface
+ORD-10348,Bestellung eingegangen,2025-09-20 10:41:00,System
+ORD-10348,Bonitätsprüfung automatisch,2025-09-20 10:48:00,System
+ORD-10348,Übermittlung an Lager,2025-09-20 10:55:00,System Interface
+ORD-10349,Bestellung eingegangen,2025-09-15 13:46:00,System
+ORD-10349,Bonitätsprüfung automatisch,2025-09-15 13:49:00,System
+ORD-10349,Übermittlung an Lager,2025-09-15 14:04:00,System Interface
+ORD-10350,Bestellung eingegangen,2025-09-27 14:27:00,System
+ORD-10350,Bonitätsprüfung automatisch,2025-09-27 14:32:00,System
+ORD-10350,Übermittlung an Lager,2025-09-27 15:09:00,System Interface
+ORD-10351,Bestellung eingegangen,2025-09-29 17:51:00,System
+ORD-10351,Bonitätsprüfung automatisch,2025-09-29 17:57:00,System
+ORD-10351,Übermittlung an Lager,2025-09-29 18:56:00,System Interface
+ORD-10352,Bestellung eingegangen,2025-09-28 13:32:00,System
+ORD-10352,Bonitätsprüfung automatisch,2025-09-28 13:34:00,System
+ORD-10352,Übermittlung an Lager,2025-09-28 13:50:00,System Interface
+ORD-10353,Bestellung eingegangen,2025-10-15 15:31:00,System
+ORD-10353,Bonitätsprüfung automatisch,2025-10-15 15:41:00,System
+ORD-10353,Übermittlung an Lager,2025-10-15 15:58:00,System Interface
+ORD-10354,Bestellung eingegangen,2025-10-18 09:21:00,System
+ORD-10354,Bonitätsprüfung automatisch,2025-10-18 09:29:00,System
+ORD-10354,Übermittlung an Lager,2025-10-18 09:43:00,System Interface
+ORD-10355,Bestellung eingegangen,2025-10-15 14:55:00,System
+ORD-10355,Bonitätsprüfung automatisch,2025-10-15 14:59:00,System
+ORD-10355,Bonitätsprüfung manuell,2025-10-16 04:59:00,Mitarbeiter_FiBu
+ORD-10355,Bestellung freigegeben,2025-10-16 05:21:00,Mitarbeiter_FiBu
+ORD-10355,Übermittlung an Lager,2025-10-16 06:20:00,System Interface
+ORD-10356,Bestellung eingegangen,2025-09-13 13:45:00,System
+ORD-10356,Bonitätsprüfung automatisch,2025-09-13 13:53:00,System
+ORD-10356,Übermittlung an Lager,2025-09-13 14:30:00,System Interface
+ORD-10357,Bestellung eingegangen,2025-09-04 09:47:00,System
+ORD-10357,Bonitätsprüfung automatisch,2025-09-04 09:56:00,System
+ORD-10357,Übermittlung an Lager,2025-09-04 10:28:00,System Interface
+ORD-10358,Bestellung eingegangen,2025-10-10 09:37:00,System
+ORD-10358,Bonitätsprüfung automatisch,2025-10-10 09:42:00,System
+ORD-10358,Übermittlung an Lager,2025-10-10 10:13:00,System Interface
+ORD-10359,Bestellung eingegangen,2025-09-08 18:51:00,System
+ORD-10359,Bonitätsprüfung automatisch,2025-09-08 18:53:00,System
+ORD-10359,Übermittlung an Lager,2025-09-08 19:25:00,System Interface
+ORD-10360,Bestellung eingegangen,2025-10-16 09:04:00,System
+ORD-10360,Bonitätsprüfung automatisch,2025-10-16 09:06:00,System
+ORD-10360,Übermittlung an Lager,2025-10-16 09:49:00,System Interface
+ORD-10361,Bestellung eingegangen,2025-10-18 14:28:00,System
+ORD-10361,Bonitätsprüfung automatisch,2025-10-18 14:32:00,System
+ORD-10361,Übermittlung an Lager,2025-10-18 15:22:00,System Interface
+ORD-10362,Bestellung eingegangen,2025-10-01 12:56:00,System
+ORD-10362,Bonitätsprüfung automatisch,2025-10-01 13:04:00,System
+ORD-10362,Übermittlung an Lager,2025-10-01 13:38:00,System Interface
+ORD-10363,Bestellung eingegangen,2025-10-25 10:49:00,System
+ORD-10363,Bonitätsprüfung automatisch,2025-10-25 10:50:00,System
+ORD-10363,Übermittlung an Lager,2025-10-25 11:33:00,System Interface
+ORD-10364,Bestellung eingegangen,2025-09-07 12:47:00,System
+ORD-10364,Bonitätsprüfung automatisch,2025-09-07 12:52:00,System
+ORD-10364,Übermittlung an Lager,2025-09-07 13:48:00,System Interface
+ORD-10365,Bestellung eingegangen,2025-09-05 12:01:00,System
+ORD-10365,Bonitätsprüfung automatisch,2025-09-05 12:04:00,System
+ORD-10365,Übermittlung an Lager,2025-09-05 12:40:00,System Interface
+ORD-10366,Bestellung eingegangen,2025-09-04 13:06:00,System
+ORD-10366,Bonitätsprüfung automatisch,2025-09-04 13:08:00,System
+ORD-10366,Übermittlung an Lager,2025-09-04 13:19:00,System Interface
+ORD-10367,Bestellung eingegangen,2025-09-07 14:56:00,System
+ORD-10367,Bonitätsprüfung automatisch,2025-09-07 15:01:00,System
+ORD-10367,Übermittlung an Lager,2025-09-07 15:47:00,System Interface
+ORD-10368,Bestellung eingegangen,2025-10-06 15:04:00,System
+ORD-10368,Bonitätsprüfung automatisch,2025-10-06 15:14:00,System
+ORD-10368,Übermittlung an Lager,2025-10-06 15:40:00,System Interface
+ORD-10369,Bestellung eingegangen,2025-10-31 14:55:00,System
+ORD-10369,Bonitätsprüfung automatisch,2025-10-31 15:00:00,System
+ORD-10369,Übermittlung an Lager,2025-10-31 15:52:00,System Interface
+ORD-10370,Bestellung eingegangen,2025-10-07 09:44:00,System
+ORD-10370,Bonitätsprüfung automatisch,2025-10-07 09:52:00,System
+ORD-10370,Übermittlung an Lager,2025-10-07 10:52:00,System Interface
+ORD-10371,Bestellung eingegangen,2025-09-22 10:01:00,System
+ORD-10371,Bonitätsprüfung automatisch,2025-09-22 10:05:00,System
+ORD-10371,Bonitätsprüfung manuell,2025-09-22 20:05:00,Mitarbeiter_FiBu
+ORD-10371,Bestellung freigegeben,2025-09-22 20:26:00,Mitarbeiter_FiBu
+ORD-10371,Übermittlung an Lager,2025-09-22 20:40:00,System Interface
+ORD-10372,Bestellung eingegangen,2025-10-18 12:02:00,System
+ORD-10372,Bonitätsprüfung automatisch,2025-10-18 12:03:00,System
+ORD-10372,Übermittlung an Lager,2025-10-18 12:54:00,System Interface
+ORD-10373,Bestellung eingegangen,2025-09-03 09:51:00,System
+ORD-10373,Bonitätsprüfung automatisch,2025-09-03 09:54:00,System
+ORD-10373,Bonitätsprüfung manuell,2025-09-04 03:54:00,Mitarbeiter_FiBu
+ORD-10373,Bestellung freigegeben,2025-09-04 04:11:00,Mitarbeiter_FiBu
+ORD-10373,Übermittlung an Lager,2025-09-04 05:03:00,System Interface
+ORD-10374,Bestellung eingegangen,2025-09-20 14:14:00,System
+ORD-10374,Bonitätsprüfung automatisch,2025-09-20 14:23:00,System
+ORD-10374,Übermittlung an Lager,2025-09-20 15:08:00,System Interface
+ORD-10375,Bestellung eingegangen,2025-09-16 09:06:00,System
+ORD-10375,Bonitätsprüfung automatisch,2025-09-16 09:13:00,System
+ORD-10375,Bonitätsprüfung manuell,2025-09-16 11:13:00,Mitarbeiter_FiBu
+ORD-10375,Bestellung freigegeben,2025-09-16 11:42:00,Mitarbeiter_FiBu
+ORD-10375,Übermittlung an Lager,2025-09-16 12:12:00,System Interface
+ORD-10376,Bestellung eingegangen,2025-09-10 12:31:00,System
+ORD-10376,Bonitätsprüfung automatisch,2025-09-10 12:32:00,System
+ORD-10376,Übermittlung an Lager,2025-09-10 12:55:00,System Interface
+ORD-10377,Bestellung eingegangen,2025-10-26 11:40:00,System
+ORD-10377,Bonitätsprüfung automatisch,2025-10-26 11:48:00,System
+ORD-10377,Übermittlung an Lager,2025-10-26 11:59:00,System Interface
+ORD-10378,Bestellung eingegangen,2025-09-20 08:47:00,System
+ORD-10378,Bonitätsprüfung automatisch,2025-09-20 08:51:00,System
+ORD-10378,Übermittlung an Lager,2025-09-20 09:23:00,System Interface
+ORD-10379,Bestellung eingegangen,2025-09-30 09:33:00,System
+ORD-10379,Bonitätsprüfung automatisch,2025-09-30 09:42:00,System
+ORD-10379,Übermittlung an Lager,2025-09-30 10:14:00,System Interface
+ORD-10380,Bestellung eingegangen,2025-09-25 17:24:00,System
+ORD-10380,Bonitätsprüfung automatisch,2025-09-25 17:31:00,System
+ORD-10380,Übermittlung an Lager,2025-09-25 17:54:00,System Interface
+ORD-10381,Bestellung eingegangen,2025-10-07 08:14:00,System
+ORD-10381,Bonitätsprüfung automatisch,2025-10-07 08:20:00,System
+ORD-10381,Übermittlung an Lager,2025-10-07 09:11:00,System Interface
+ORD-10382,Bestellung eingegangen,2025-10-03 10:07:00,System
+ORD-10382,Bonitätsprüfung automatisch,2025-10-03 10:12:00,System
+ORD-10382,Übermittlung an Lager,2025-10-03 10:30:00,System Interface
+ORD-10383,Bestellung eingegangen,2025-09-08 09:09:00,System
+ORD-10383,Bonitätsprüfung automatisch,2025-09-08 09:19:00,System
+ORD-10383,Übermittlung an Lager,2025-09-08 10:17:00,System Interface
+ORD-10384,Bestellung eingegangen,2025-10-30 18:27:00,System
+ORD-10384,Bonitätsprüfung automatisch,2025-10-30 18:30:00,System
+ORD-10384,Übermittlung an Lager,2025-10-30 19:17:00,System Interface
+ORD-10385,Bestellung eingegangen,2025-09-20 13:25:00,System
+ORD-10385,Bonitätsprüfung automatisch,2025-09-20 13:30:00,System
+ORD-10385,Übermittlung an Lager,2025-09-20 14:08:00,System Interface
+ORD-10386,Bestellung eingegangen,2025-09-29 11:03:00,System
+ORD-10386,Bonitätsprüfung automatisch,2025-09-29 11:11:00,System
+ORD-10386,Bonitätsprüfung manuell,2025-09-29 14:11:00,Mitarbeiter_FiBu
+ORD-10386,Bestellung freigegeben,2025-09-29 14:23:00,Mitarbeiter_FiBu
+ORD-10386,Übermittlung an Lager,2025-09-29 15:23:00,System Interface
+ORD-10387,Bestellung eingegangen,2025-10-17 14:55:00,System
+ORD-10387,Bonitätsprüfung automatisch,2025-10-17 14:56:00,System
+ORD-10387,Übermittlung an Lager,2025-10-17 15:29:00,System Interface
+ORD-10388,Bestellung eingegangen,2025-10-02 13:18:00,System
+ORD-10388,Bonitätsprüfung automatisch,2025-10-02 13:27:00,System
+ORD-10388,Übermittlung an Lager,2025-10-02 14:26:00,System Interface
+ORD-10389,Bestellung eingegangen,2025-10-16 12:18:00,System
+ORD-10389,Bonitätsprüfung automatisch,2025-10-16 12:21:00,System
+ORD-10389,Bonitätsprüfung manuell,2025-10-17 12:21:00,Mitarbeiter_FiBu
+ORD-10389,Bestellung freigegeben,2025-10-17 12:41:00,Mitarbeiter_FiBu
+ORD-10389,Übermittlung an Lager,2025-10-17 13:23:00,System Interface
+ORD-10390,Bestellung eingegangen,2025-09-19 18:13:00,System
+ORD-10390,Bonitätsprüfung automatisch,2025-09-19 18:16:00,System
+ORD-10390,Bonitätsprüfung manuell,2025-09-20 16:16:00,Mitarbeiter_FiBu
+ORD-10390,Bestellung freigegeben,2025-09-20 16:39:00,Mitarbeiter_FiBu
+ORD-10390,Übermittlung an Lager,2025-09-20 17:18:00,System Interface
+ORD-10391,Bestellung eingegangen,2025-09-26 15:42:00,System
+ORD-10391,Bonitätsprüfung automatisch,2025-09-26 15:48:00,System
+ORD-10391,Übermittlung an Lager,2025-09-26 16:06:00,System Interface
+ORD-10392,Bestellung eingegangen,2025-09-19 18:03:00,System
+ORD-10392,Bonitätsprüfung automatisch,2025-09-19 18:13:00,System
+ORD-10392,Übermittlung an Lager,2025-09-19 18:49:00,System Interface
+ORD-10393,Bestellung eingegangen,2025-10-04 17:06:00,System
+ORD-10393,Bonitätsprüfung automatisch,2025-10-04 17:11:00,System
+ORD-10393,Übermittlung an Lager,2025-10-04 17:36:00,System Interface
+ORD-10394,Bestellung eingegangen,2025-10-11 17:02:00,System
+ORD-10394,Bonitätsprüfung automatisch,2025-10-11 17:11:00,System
+ORD-10394,Übermittlung an Lager,2025-10-11 17:36:00,System Interface
+ORD-10395,Bestellung eingegangen,2025-10-30 18:55:00,System
+ORD-10395,Bonitätsprüfung automatisch,2025-10-30 18:57:00,System
+ORD-10395,Übermittlung an Lager,2025-10-30 19:28:00,System Interface
+ORD-10396,Bestellung eingegangen,2025-10-14 08:32:00,System
+ORD-10396,Bonitätsprüfung automatisch,2025-10-14 08:35:00,System
+ORD-10396,Übermittlung an Lager,2025-10-14 09:18:00,System Interface
+ORD-10397,Bestellung eingegangen,2025-10-09 10:43:00,System
+ORD-10397,Bonitätsprüfung automatisch,2025-10-09 10:47:00,System
+ORD-10397,Übermittlung an Lager,2025-10-09 11:36:00,System Interface
+ORD-10398,Bestellung eingegangen,2025-10-01 12:56:00,System
+ORD-10398,Bonitätsprüfung automatisch,2025-10-01 13:02:00,System
+ORD-10398,Übermittlung an Lager,2025-10-01 13:17:00,System Interface
+ORD-10399,Bestellung eingegangen,2025-09-25 09:36:00,System
+ORD-10399,Bonitätsprüfung automatisch,2025-09-25 09:41:00,System
+ORD-10399,Übermittlung an Lager,2025-09-25 10:33:00,System Interface
+ORD-10400,Bestellung eingegangen,2025-09-24 12:08:00,System
+ORD-10400,Bonitätsprüfung automatisch,2025-09-24 12:17:00,System
+ORD-10400,Übermittlung an Lager,2025-09-24 12:37:00,System Interface
+ORD-10401,Bestellung eingegangen,2025-09-21 10:57:00,System
+ORD-10401,Bonitätsprüfung automatisch,2025-09-21 11:04:00,System
+ORD-10401,Übermittlung an Lager,2025-09-21 11:09:00,System Interface
+ORD-10402,Bestellung eingegangen,2025-10-03 16:41:00,System
+ORD-10402,Bonitätsprüfung automatisch,2025-10-03 16:42:00,System
+ORD-10402,Übermittlung an Lager,2025-10-03 17:04:00,System Interface
+ORD-10403,Bestellung eingegangen,2025-09-19 12:08:00,System
+ORD-10403,Bonitätsprüfung automatisch,2025-09-19 12:13:00,System
+ORD-10403,Übermittlung an Lager,2025-09-19 12:59:00,System Interface
+ORD-10404,Bestellung eingegangen,2025-10-26 15:45:00,System
+ORD-10404,Bonitätsprüfung automatisch,2025-10-26 15:54:00,System
+ORD-10404,Übermittlung an Lager,2025-10-26 16:42:00,System Interface
+ORD-10405,Bestellung eingegangen,2025-10-25 08:22:00,System
+ORD-10405,Bonitätsprüfung automatisch,2025-10-25 08:28:00,System
+ORD-10405,Übermittlung an Lager,2025-10-25 09:05:00,System Interface
+ORD-10406,Bestellung eingegangen,2025-10-10 16:48:00,System
+ORD-10406,Bonitätsprüfung automatisch,2025-10-10 16:58:00,System
+ORD-10406,Bonitätsprüfung manuell,2025-10-11 07:58:00,Mitarbeiter_FiBu
+ORD-10406,Bestellung freigegeben,2025-10-11 08:09:00,Mitarbeiter_FiBu
+ORD-10406,Übermittlung an Lager,2025-10-11 09:01:00,System Interface
+ORD-10407,Bestellung eingegangen,2025-09-06 17:59:00,System
+ORD-10407,Bonitätsprüfung automatisch,2025-09-06 18:08:00,System
+ORD-10407,Bonitätsprüfung manuell,2025-09-07 15:08:00,Mitarbeiter_FiBu
+ORD-10407,Bestellung freigegeben,2025-09-07 15:28:00,Mitarbeiter_FiBu
+ORD-10407,Übermittlung an Lager,2025-09-07 16:23:00,System Interface
+ORD-10408,Bestellung eingegangen,2025-10-23 15:51:00,System
+ORD-10408,Bonitätsprüfung automatisch,2025-10-23 15:54:00,System
+ORD-10408,Übermittlung an Lager,2025-10-23 16:34:00,System Interface
+ORD-10409,Bestellung eingegangen,2025-09-08 18:31:00,System
+ORD-10409,Bonitätsprüfung automatisch,2025-09-08 18:41:00,System
+ORD-10409,Übermittlung an Lager,2025-09-08 19:25:00,System Interface
+ORD-10410,Bestellung eingegangen,2025-10-12 09:12:00,System
+ORD-10410,Bonitätsprüfung automatisch,2025-10-12 09:22:00,System
+ORD-10410,Übermittlung an Lager,2025-10-12 09:56:00,System Interface
+ORD-10411,Bestellung eingegangen,2025-09-26 18:03:00,System
+ORD-10411,Bonitätsprüfung automatisch,2025-09-26 18:09:00,System
+ORD-10411,Übermittlung an Lager,2025-09-26 18:39:00,System Interface
+ORD-10412,Bestellung eingegangen,2025-10-18 10:00:00,System
+ORD-10412,Bonitätsprüfung automatisch,2025-10-18 10:10:00,System
+ORD-10412,Übermittlung an Lager,2025-10-18 11:09:00,System Interface
+ORD-10413,Bestellung eingegangen,2025-09-14 17:12:00,System
+ORD-10413,Bonitätsprüfung automatisch,2025-09-14 17:16:00,System
+ORD-10413,Bonitätsprüfung manuell,2025-09-15 01:16:00,Mitarbeiter_FiBu
+ORD-10413,Bestellung freigegeben,2025-09-15 01:37:00,Mitarbeiter_FiBu
+ORD-10413,Übermittlung an Lager,2025-09-15 01:43:00,System Interface
+ORD-10414,Bestellung eingegangen,2025-09-13 16:57:00,System
+ORD-10414,Bonitätsprüfung automatisch,2025-09-13 17:01:00,System
+ORD-10414,Übermittlung an Lager,2025-09-13 17:14:00,System Interface
+ORD-10415,Bestellung eingegangen,2025-09-26 15:43:00,System
+ORD-10415,Bonitätsprüfung automatisch,2025-09-26 15:52:00,System
+ORD-10415,Übermittlung an Lager,2025-09-26 16:28:00,System Interface
+ORD-10416,Bestellung eingegangen,2025-09-03 08:03:00,System
+ORD-10416,Bonitätsprüfung automatisch,2025-09-03 08:06:00,System
+ORD-10416,Übermittlung an Lager,2025-09-03 08:42:00,System Interface
+ORD-10417,Bestellung eingegangen,2025-09-09 09:56:00,System
+ORD-10417,Bonitätsprüfung automatisch,2025-09-09 10:04:00,System
+ORD-10417,Übermittlung an Lager,2025-09-09 10:20:00,System Interface
+ORD-10418,Bestellung eingegangen,2025-10-21 13:06:00,System
+ORD-10418,Bonitätsprüfung automatisch,2025-10-21 13:08:00,System
+ORD-10418,Übermittlung an Lager,2025-10-21 13:59:00,System Interface
+ORD-10419,Bestellung eingegangen,2025-09-18 15:58:00,System
+ORD-10419,Bonitätsprüfung automatisch,2025-09-18 16:08:00,System
+ORD-10419,Übermittlung an Lager,2025-09-18 17:01:00,System Interface
+ORD-10420,Bestellung eingegangen,2025-09-29 13:07:00,System
+ORD-10420,Bonitätsprüfung automatisch,2025-09-29 13:08:00,System
+ORD-10420,Übermittlung an Lager,2025-09-29 13:22:00,System Interface
+ORD-10421,Bestellung eingegangen,2025-09-03 14:40:00,System
+ORD-10421,Bonitätsprüfung automatisch,2025-09-03 14:44:00,System
+ORD-10421,Übermittlung an Lager,2025-09-03 15:42:00,System Interface
+ORD-10422,Bestellung eingegangen,2025-09-30 10:04:00,System
+ORD-10422,Bonitätsprüfung automatisch,2025-09-30 10:11:00,System
+ORD-10422,Übermittlung an Lager,2025-09-30 11:06:00,System Interface
+ORD-10423,Bestellung eingegangen,2025-10-24 13:21:00,System
+ORD-10423,Bonitätsprüfung automatisch,2025-10-24 13:28:00,System
+ORD-10423,Übermittlung an Lager,2025-10-24 14:22:00,System Interface
+ORD-10424,Bestellung eingegangen,2025-10-01 15:15:00,System
+ORD-10424,Bonitätsprüfung automatisch,2025-10-01 15:16:00,System
+ORD-10424,Übermittlung an Lager,2025-10-01 16:05:00,System Interface
+ORD-10425,Bestellung eingegangen,2025-10-10 14:00:00,System
+ORD-10425,Bonitätsprüfung automatisch,2025-10-10 14:08:00,System
+ORD-10425,Übermittlung an Lager,2025-10-10 14:28:00,System Interface
+ORD-10426,Bestellung eingegangen,2025-09-01 08:30:00,System
+ORD-10426,Bonitätsprüfung automatisch,2025-09-01 08:39:00,System
+ORD-10426,Übermittlung an Lager,2025-09-01 09:12:00,System Interface
+ORD-10427,Bestellung eingegangen,2025-09-01 13:30:00,System
+ORD-10427,Bonitätsprüfung automatisch,2025-09-01 13:34:00,System
+ORD-10427,Übermittlung an Lager,2025-09-01 14:16:00,System Interface
+ORD-10428,Bestellung eingegangen,2025-10-11 15:39:00,System
+ORD-10428,Bonitätsprüfung automatisch,2025-10-11 15:41:00,System
+ORD-10428,Übermittlung an Lager,2025-10-11 16:10:00,System Interface
+ORD-10429,Bestellung eingegangen,2025-10-28 16:33:00,System
+ORD-10429,Bonitätsprüfung automatisch,2025-10-28 16:43:00,System
+ORD-10429,Bonitätsprüfung manuell,2025-10-29 07:43:00,Mitarbeiter_FiBu
+ORD-10429,Bestellung freigegeben,2025-10-29 08:00:00,Mitarbeiter_FiBu
+ORD-10429,Übermittlung an Lager,2025-10-29 08:21:00,System Interface
+ORD-10430,Bestellung eingegangen,2025-09-10 13:14:00,System
+ORD-10430,Bonitätsprüfung automatisch,2025-09-10 13:16:00,System
+ORD-10430,Übermittlung an Lager,2025-09-10 13:55:00,System Interface
+ORD-10431,Bestellung eingegangen,2025-09-24 13:45:00,System
+ORD-10431,Bonitätsprüfung automatisch,2025-09-24 13:50:00,System
+ORD-10431,Übermittlung an Lager,2025-09-24 14:02:00,System Interface
+ORD-10432,Bestellung eingegangen,2025-10-30 16:30:00,System
+ORD-10432,Bonitätsprüfung automatisch,2025-10-30 16:32:00,System
+ORD-10432,Übermittlung an Lager,2025-10-30 17:08:00,System Interface
+ORD-10433,Bestellung eingegangen,2025-10-06 09:08:00,System
+ORD-10433,Bonitätsprüfung automatisch,2025-10-06 09:11:00,System
+ORD-10433,Übermittlung an Lager,2025-10-06 09:56:00,System Interface
+ORD-10434,Bestellung eingegangen,2025-09-05 14:15:00,System
+ORD-10434,Bonitätsprüfung automatisch,2025-09-05 14:18:00,System
+ORD-10434,Übermittlung an Lager,2025-09-05 14:30:00,System Interface
+ORD-10435,Bestellung eingegangen,2025-09-14 08:08:00,System
+ORD-10435,Bonitätsprüfung automatisch,2025-09-14 08:17:00,System
+ORD-10435,Übermittlung an Lager,2025-09-14 08:56:00,System Interface
+ORD-10436,Bestellung eingegangen,2025-09-06 16:38:00,System
+ORD-10436,Bonitätsprüfung automatisch,2025-09-06 16:41:00,System
+ORD-10436,Übermittlung an Lager,2025-09-06 17:27:00,System Interface
+ORD-10437,Bestellung eingegangen,2025-10-04 10:19:00,System
+ORD-10437,Bonitätsprüfung automatisch,2025-10-04 10:23:00,System
+ORD-10437,Übermittlung an Lager,2025-10-04 11:13:00,System Interface
+ORD-10438,Bestellung eingegangen,2025-10-20 09:11:00,System
+ORD-10438,Bonitätsprüfung automatisch,2025-10-20 09:18:00,System
+ORD-10438,Übermittlung an Lager,2025-10-20 10:01:00,System Interface
+ORD-10439,Bestellung eingegangen,2025-10-26 18:58:00,System
+ORD-10439,Bonitätsprüfung automatisch,2025-10-26 19:05:00,System
+ORD-10439,Übermittlung an Lager,2025-10-26 19:54:00,System Interface
+ORD-10440,Bestellung eingegangen,2025-10-04 13:13:00,System
+ORD-10440,Bonitätsprüfung automatisch,2025-10-04 13:15:00,System
+ORD-10440,Bonitätsprüfung manuell,2025-10-04 22:15:00,Mitarbeiter_FiBu
+ORD-10440,Bestellung freigegeben,2025-10-04 22:44:00,Mitarbeiter_FiBu
+ORD-10440,Übermittlung an Lager,2025-10-04 23:05:00,System Interface
+ORD-10441,Bestellung eingegangen,2025-10-22 16:11:00,System
+ORD-10441,Bonitätsprüfung automatisch,2025-10-22 16:17:00,System
+ORD-10441,Übermittlung an Lager,2025-10-22 16:26:00,System Interface
+ORD-10442,Bestellung eingegangen,2025-10-30 16:14:00,System
+ORD-10442,Bonitätsprüfung automatisch,2025-10-30 16:21:00,System
+ORD-10442,Übermittlung an Lager,2025-10-30 17:07:00,System Interface
+ORD-10443,Bestellung eingegangen,2025-10-02 16:44:00,System
+ORD-10443,Bonitätsprüfung automatisch,2025-10-02 16:49:00,System
+ORD-10443,Übermittlung an Lager,2025-10-02 17:16:00,System Interface
+ORD-10444,Bestellung eingegangen,2025-09-27 17:46:00,System
+ORD-10444,Bonitätsprüfung automatisch,2025-09-27 17:47:00,System
+ORD-10444,Übermittlung an Lager,2025-09-27 18:09:00,System Interface
+ORD-10445,Bestellung eingegangen,2025-10-18 10:26:00,System
+ORD-10445,Bonitätsprüfung automatisch,2025-10-18 10:33:00,System
+ORD-10445,Übermittlung an Lager,2025-10-18 10:57:00,System Interface
+ORD-10446,Bestellung eingegangen,2025-10-13 12:49:00,System
+ORD-10446,Bonitätsprüfung automatisch,2025-10-13 12:57:00,System
+ORD-10446,Übermittlung an Lager,2025-10-13 13:06:00,System Interface
+ORD-10447,Bestellung eingegangen,2025-09-13 08:27:00,System
+ORD-10447,Bonitätsprüfung automatisch,2025-09-13 08:32:00,System
+ORD-10447,Bonitätsprüfung manuell,2025-09-14 03:32:00,Mitarbeiter_FiBu
+ORD-10447,Bestellung freigegeben,2025-09-14 03:50:00,Mitarbeiter_FiBu
+ORD-10447,Übermittlung an Lager,2025-09-14 04:27:00,System Interface
+ORD-10448,Bestellung eingegangen,2025-10-17 11:02:00,System
+ORD-10448,Bonitätsprüfung automatisch,2025-10-17 11:10:00,System
+ORD-10448,Übermittlung an Lager,2025-10-17 11:16:00,System Interface
+ORD-10449,Bestellung eingegangen,2025-09-02 14:12:00,System
+ORD-10449,Bonitätsprüfung automatisch,2025-09-02 14:20:00,System
+ORD-10449,Übermittlung an Lager,2025-09-02 14:30:00,System Interface
+ORD-10450,Bestellung eingegangen,2025-10-05 13:30:00,System
+ORD-10450,Bonitätsprüfung automatisch,2025-10-05 13:39:00,System
+ORD-10450,Übermittlung an Lager,2025-10-05 14:22:00,System Interface
+ORD-10451,Bestellung eingegangen,2025-09-16 16:35:00,System
+ORD-10451,Bonitätsprüfung automatisch,2025-09-16 16:45:00,System
+ORD-10451,Übermittlung an Lager,2025-09-16 17:26:00,System Interface
+ORD-10452,Bestellung eingegangen,2025-09-30 12:35:00,System
+ORD-10452,Bonitätsprüfung automatisch,2025-09-30 12:39:00,System
+ORD-10452,Übermittlung an Lager,2025-09-30 13:06:00,System Interface
+ORD-10453,Bestellung eingegangen,2025-09-21 10:35:00,System
+ORD-10453,Bonitätsprüfung automatisch,2025-09-21 10:42:00,System
+ORD-10453,Bonitätsprüfung manuell,2025-09-21 15:42:00,Mitarbeiter_FiBu
+ORD-10453,Bestellung freigegeben,2025-09-21 16:04:00,Mitarbeiter_FiBu
+ORD-10453,Übermittlung an Lager,2025-09-21 16:45:00,System Interface
+ORD-10454,Bestellung eingegangen,2025-10-21 09:50:00,System
+ORD-10454,Bonitätsprüfung automatisch,2025-10-21 09:55:00,System
+ORD-10454,Übermittlung an Lager,2025-10-21 10:03:00,System Interface
+ORD-10455,Bestellung eingegangen,2025-10-13 10:45:00,System
+ORD-10455,Bonitätsprüfung automatisch,2025-10-13 10:48:00,System
+ORD-10455,Übermittlung an Lager,2025-10-13 11:02:00,System Interface
+ORD-10456,Bestellung eingegangen,2025-09-20 18:23:00,System
+ORD-10456,Bonitätsprüfung automatisch,2025-09-20 18:29:00,System
+ORD-10456,Übermittlung an Lager,2025-09-20 18:41:00,System Interface
+ORD-10457,Bestellung eingegangen,2025-10-23 11:51:00,System
+ORD-10457,Bonitätsprüfung automatisch,2025-10-23 11:53:00,System
+ORD-10457,Bonitätsprüfung manuell,2025-10-23 15:53:00,Mitarbeiter_FiBu
+ORD-10457,Bestellung freigegeben,2025-10-23 16:17:00,Mitarbeiter_FiBu
+ORD-10457,Übermittlung an Lager,2025-10-23 17:12:00,System Interface
+ORD-10458,Bestellung eingegangen,2025-09-13 18:04:00,System
+ORD-10458,Bonitätsprüfung automatisch,2025-09-13 18:07:00,System
+ORD-10458,Übermittlung an Lager,2025-09-13 18:59:00,System Interface
+ORD-10459,Bestellung eingegangen,2025-10-04 09:11:00,System
+ORD-10459,Bonitätsprüfung automatisch,2025-10-04 09:16:00,System
+ORD-10459,Übermittlung an Lager,2025-10-04 09:50:00,System Interface
+ORD-10460,Bestellung eingegangen,2025-09-13 09:45:00,System
+ORD-10460,Bonitätsprüfung automatisch,2025-09-13 09:47:00,System
+ORD-10460,Übermittlung an Lager,2025-09-13 10:29:00,System Interface
+ORD-10461,Bestellung eingegangen,2025-10-29 14:28:00,System
+ORD-10461,Bonitätsprüfung automatisch,2025-10-29 14:33:00,System
+ORD-10461,Übermittlung an Lager,2025-10-29 15:05:00,System Interface
+ORD-10462,Bestellung eingegangen,2025-09-15 18:57:00,System
+ORD-10462,Bonitätsprüfung automatisch,2025-09-15 18:58:00,System
+ORD-10462,Übermittlung an Lager,2025-09-15 19:11:00,System Interface
+ORD-10463,Bestellung eingegangen,2025-10-28 16:43:00,System
+ORD-10463,Bonitätsprüfung automatisch,2025-10-28 16:44:00,System
+ORD-10463,Bonitätsprüfung manuell,2025-10-28 22:44:00,Mitarbeiter_FiBu
+ORD-10463,Bestellung freigegeben,2025-10-28 23:02:00,Mitarbeiter_FiBu
+ORD-10463,Übermittlung an Lager,2025-10-28 23:32:00,System Interface
+ORD-10464,Bestellung eingegangen,2025-10-10 15:07:00,System
+ORD-10464,Bonitätsprüfung automatisch,2025-10-10 15:10:00,System
+ORD-10464,Übermittlung an Lager,2025-10-10 15:39:00,System Interface
+ORD-10465,Bestellung eingegangen,2025-09-04 16:16:00,System
+ORD-10465,Bonitätsprüfung automatisch,2025-09-04 16:24:00,System
+ORD-10465,Übermittlung an Lager,2025-09-04 17:05:00,System Interface
+ORD-10466,Bestellung eingegangen,2025-09-30 10:33:00,System
+ORD-10466,Bonitätsprüfung automatisch,2025-09-30 10:42:00,System
+ORD-10466,Übermittlung an Lager,2025-09-30 11:21:00,System Interface
+ORD-10467,Bestellung eingegangen,2025-10-04 18:02:00,System
+ORD-10467,Bonitätsprüfung automatisch,2025-10-04 18:11:00,System
+ORD-10467,Übermittlung an Lager,2025-10-04 19:04:00,System Interface
+ORD-10468,Bestellung eingegangen,2025-10-14 10:57:00,System
+ORD-10468,Bonitätsprüfung automatisch,2025-10-14 11:07:00,System
+ORD-10468,Übermittlung an Lager,2025-10-14 11:15:00,System Interface
+ORD-10469,Bestellung eingegangen,2025-09-16 08:00:00,System
+ORD-10469,Bonitätsprüfung automatisch,2025-09-16 08:08:00,System
+ORD-10469,Übermittlung an Lager,2025-09-16 08:23:00,System Interface
+ORD-10470,Bestellung eingegangen,2025-09-05 17:30:00,System
+ORD-10470,Bonitätsprüfung automatisch,2025-09-05 17:33:00,System
+ORD-10470,Übermittlung an Lager,2025-09-05 17:41:00,System Interface
+ORD-10471,Bestellung eingegangen,2025-10-19 09:49:00,System
+ORD-10471,Bonitätsprüfung automatisch,2025-10-19 09:55:00,System
+ORD-10471,Übermittlung an Lager,2025-10-19 10:04:00,System Interface
+ORD-10472,Bestellung eingegangen,2025-09-12 08:57:00,System
+ORD-10472,Bonitätsprüfung automatisch,2025-09-12 08:58:00,System
+ORD-10472,Übermittlung an Lager,2025-09-12 09:58:00,System Interface
+ORD-10473,Bestellung eingegangen,2025-10-27 08:07:00,System
+ORD-10473,Bonitätsprüfung automatisch,2025-10-27 08:14:00,System
+ORD-10473,Übermittlung an Lager,2025-10-27 09:07:00,System Interface
+ORD-10474,Bestellung eingegangen,2025-09-09 10:00:00,System
+ORD-10474,Bonitätsprüfung automatisch,2025-09-09 10:04:00,System
+ORD-10474,Übermittlung an Lager,2025-09-09 10:40:00,System Interface
+ORD-10475,Bestellung eingegangen,2025-10-02 09:11:00,System
+ORD-10475,Bonitätsprüfung automatisch,2025-10-02 09:21:00,System
+ORD-10475,Bonitätsprüfung manuell,2025-10-02 22:21:00,Mitarbeiter_FiBu
+ORD-10475,Bestellung freigegeben,2025-10-02 22:40:00,Mitarbeiter_FiBu
+ORD-10475,Übermittlung an Lager,2025-10-02 23:00:00,System Interface
+ORD-10476,Bestellung eingegangen,2025-09-15 11:23:00,System
+ORD-10476,Bonitätsprüfung automatisch,2025-09-15 11:33:00,System
+ORD-10476,Bonitätsprüfung manuell,2025-09-15 13:33:00,Mitarbeiter_FiBu
+ORD-10476,Bestellung freigegeben,2025-09-15 14:00:00,Mitarbeiter_FiBu
+ORD-10476,Übermittlung an Lager,2025-09-15 14:48:00,System Interface
+ORD-10477,Bestellung eingegangen,2025-09-04 16:25:00,System
+ORD-10477,Bonitätsprüfung automatisch,2025-09-04 16:35:00,System
+ORD-10477,Bonitätsprüfung manuell,2025-09-04 22:35:00,Mitarbeiter_FiBu
+ORD-10477,Bestellung freigegeben,2025-09-04 22:50:00,Mitarbeiter_FiBu
+ORD-10477,Übermittlung an Lager,2025-09-04 23:34:00,System Interface
+ORD-10478,Bestellung eingegangen,2025-09-09 14:14:00,System
+ORD-10478,Bonitätsprüfung automatisch,2025-09-09 14:15:00,System
+ORD-10478,Übermittlung an Lager,2025-09-09 14:37:00,System Interface
+ORD-10479,Bestellung eingegangen,2025-09-17 14:41:00,System
+ORD-10479,Bonitätsprüfung automatisch,2025-09-17 14:48:00,System
+ORD-10479,Übermittlung an Lager,2025-09-17 15:15:00,System Interface
+ORD-10480,Bestellung eingegangen,2025-09-05 13:12:00,System
+ORD-10480,Bonitätsprüfung automatisch,2025-09-05 13:22:00,System
+ORD-10480,Übermittlung an Lager,2025-09-05 13:52:00,System Interface
+ORD-10481,Bestellung eingegangen,2025-10-08 17:35:00,System
+ORD-10481,Bonitätsprüfung automatisch,2025-10-08 17:42:00,System
+ORD-10481,Übermittlung an Lager,2025-10-08 18:31:00,System Interface
+ORD-10482,Bestellung eingegangen,2025-09-04 16:04:00,System
+ORD-10482,Bonitätsprüfung automatisch,2025-09-04 16:13:00,System
+ORD-10482,Übermittlung an Lager,2025-09-04 16:26:00,System Interface
+ORD-10483,Bestellung eingegangen,2025-10-18 16:58:00,System
+ORD-10483,Bonitätsprüfung automatisch,2025-10-18 17:02:00,System
+ORD-10483,Übermittlung an Lager,2025-10-18 17:08:00,System Interface
+ORD-10484,Bestellung eingegangen,2025-09-26 18:53:00,System
+ORD-10484,Bonitätsprüfung automatisch,2025-09-26 18:56:00,System
+ORD-10484,Übermittlung an Lager,2025-09-26 19:25:00,System Interface
+ORD-10485,Bestellung eingegangen,2025-09-07 12:34:00,System
+ORD-10485,Bonitätsprüfung automatisch,2025-09-07 12:43:00,System
+ORD-10485,Übermittlung an Lager,2025-09-07 13:40:00,System Interface
+ORD-10486,Bestellung eingegangen,2025-10-26 16:54:00,System
+ORD-10486,Bonitätsprüfung automatisch,2025-10-26 17:02:00,System
+ORD-10486,Übermittlung an Lager,2025-10-26 17:26:00,System Interface
+ORD-10487,Bestellung eingegangen,2025-09-14 16:41:00,System
+ORD-10487,Bonitätsprüfung automatisch,2025-09-14 16:48:00,System
+ORD-10487,Übermittlung an Lager,2025-09-14 17:17:00,System Interface
+ORD-10488,Bestellung eingegangen,2025-09-16 08:25:00,System
+ORD-10488,Bonitätsprüfung automatisch,2025-09-16 08:32:00,System
+ORD-10488,Bonitätsprüfung manuell,2025-09-16 11:32:00,Mitarbeiter_FiBu
+ORD-10488,Bestellung freigegeben,2025-09-16 11:42:00,Mitarbeiter_FiBu
+ORD-10488,Übermittlung an Lager,2025-09-16 12:20:00,System Interface
+ORD-10489,Bestellung eingegangen,2025-09-24 08:13:00,System
+ORD-10489,Bonitätsprüfung automatisch,2025-09-24 08:16:00,System
+ORD-10489,Übermittlung an Lager,2025-09-24 09:02:00,System Interface
+ORD-10490,Bestellung eingegangen,2025-10-24 12:50:00,System
+ORD-10490,Bonitätsprüfung automatisch,2025-10-24 12:56:00,System
+ORD-10490,Bonitätsprüfung manuell,2025-10-25 06:56:00,Mitarbeiter_FiBu
+ORD-10490,Bestellung freigegeben,2025-10-25 07:21:00,Mitarbeiter_FiBu
+ORD-10490,Übermittlung an Lager,2025-10-25 08:06:00,System Interface
+ORD-10491,Bestellung eingegangen,2025-09-16 18:37:00,System
+ORD-10491,Bonitätsprüfung automatisch,2025-09-16 18:47:00,System
+ORD-10491,Übermittlung an Lager,2025-09-16 18:58:00,System Interface
+ORD-10492,Bestellung eingegangen,2025-10-20 18:16:00,System
+ORD-10492,Bonitätsprüfung automatisch,2025-10-20 18:24:00,System
+ORD-10492,Übermittlung an Lager,2025-10-20 18:44:00,System Interface
+ORD-10493,Bestellung eingegangen,2025-09-20 09:04:00,System
+ORD-10493,Bonitätsprüfung automatisch,2025-09-20 09:12:00,System
+ORD-10493,Übermittlung an Lager,2025-09-20 09:20:00,System Interface
+ORD-10494,Bestellung eingegangen,2025-10-18 18:50:00,System
+ORD-10494,Bonitätsprüfung automatisch,2025-10-18 18:54:00,System
+ORD-10494,Übermittlung an Lager,2025-10-18 19:10:00,System Interface
+ORD-10495,Bestellung eingegangen,2025-10-21 08:30:00,System
+ORD-10495,Bonitätsprüfung automatisch,2025-10-21 08:33:00,System
+ORD-10495,Übermittlung an Lager,2025-10-21 08:38:00,System Interface
+ORD-10496,Bestellung eingegangen,2025-10-18 18:26:00,System
+ORD-10496,Bonitätsprüfung automatisch,2025-10-18 18:33:00,System
+ORD-10496,Übermittlung an Lager,2025-10-18 18:44:00,System Interface
+ORD-10497,Bestellung eingegangen,2025-09-28 09:58:00,System
+ORD-10497,Bonitätsprüfung automatisch,2025-09-28 10:00:00,System
+ORD-10497,Übermittlung an Lager,2025-09-28 10:09:00,System Interface
+ORD-10498,Bestellung eingegangen,2025-10-14 08:26:00,System
+ORD-10498,Bonitätsprüfung automatisch,2025-10-14 08:28:00,System
+ORD-10498,Übermittlung an Lager,2025-10-14 09:16:00,System Interface
+ORD-10499,Bestellung eingegangen,2025-10-20 08:07:00,System
+ORD-10499,Bonitätsprüfung automatisch,2025-10-20 08:08:00,System
+ORD-10499,Übermittlung an Lager,2025-10-20 08:18:00,System Interface
+ORD-10500,Bestellung eingegangen,2025-10-31 13:24:00,System
+ORD-10500,Bonitätsprüfung automatisch,2025-10-31 13:33:00,System
+ORD-10500,Übermittlung an Lager,2025-10-31 13:55:00,System Interface

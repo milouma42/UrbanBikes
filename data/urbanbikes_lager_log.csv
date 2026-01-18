@@ -1,0 +1,2501 @@
+Bestellnummer,Aktivitaet,Timestamp,Station
+ORD-10001,Wareneingang im LVS,2025-10-04 09:28:46,Server
+ORD-10001,Kommissionierung gestartet,2025-10-04 13:28:46,Lagerhalle A
+ORD-10001,Kommissionierung beendet,2025-10-04 14:06:46,Lagerhalle A
+ORD-10001,Verpacken und Labeldruck,2025-10-04 15:03:46,Packtisch 3
+ORD-10001,Versandübergabe,2025-10-04 17:03:46,Rampe 1
+ORD-10002,Wareneingang im LVS,2025-09-11 14:53:09,Server
+ORD-10002,Kommissionierung gestartet,2025-09-13 02:53:09,Lagerhalle A
+ORD-10002,Kommissionierung beendet,2025-09-13 03:13:09,Lagerhalle A
+ORD-10002,Verpacken und Labeldruck,2025-09-13 04:38:09,Packtisch 3
+ORD-10002,Versandübergabe,2025-09-13 06:38:09,Rampe 1
+ORD-10003,Wareneingang im LVS,2025-10-04 13:45:22,Server
+ORD-10003,Kommissionierung gestartet,2025-10-06 04:45:22,Lagerhalle A
+ORD-10003,Kommissionierung beendet,2025-10-06 05:19:22,Lagerhalle A
+ORD-10003,Verpacken und Labeldruck,2025-10-06 05:43:22,Packtisch 3
+ORD-10003,Versandübergabe,2025-10-06 06:43:22,Rampe 1
+ORD-10004,Wareneingang im LVS,2025-10-15 15:14:59,Server
+ORD-10004,Kommissionierung gestartet,2025-10-17 05:14:59,Lagerhalle A
+ORD-10004,Kommissionierung beendet,2025-10-17 05:52:59,Lagerhalle A
+ORD-10004,Verpacken und Labeldruck,2025-10-17 06:20:59,Packtisch 3
+ORD-10004,Versandübergabe,2025-10-17 08:20:59,Rampe 1
+ORD-10005,Wareneingang im LVS,2025-10-14 10:48:37,Server
+ORD-10005,Kommissionierung gestartet,2025-10-14 14:48:37,Lagerhalle A
+ORD-10005,Kommissionierung beendet,2025-10-14 15:08:37,Lagerhalle A
+ORD-10005,Verpacken und Labeldruck,2025-10-14 15:23:37,Packtisch 3
+ORD-10005,Versandübergabe,2025-10-14 17:23:37,Rampe 1
+ORD-10006,Wareneingang im LVS,2025-09-15 13:55:23,Server
+ORD-10006,Kommissionierung gestartet,2025-09-16 13:55:23,Lagerhalle A
+ORD-10006,Kommissionierung beendet,2025-09-16 14:35:23,Lagerhalle A
+ORD-10006,Verpacken und Labeldruck,2025-09-16 14:50:23,Packtisch 3
+ORD-10006,Versandübergabe,2025-09-16 15:50:23,Rampe 1
+ORD-10007,Wareneingang im LVS,2025-09-27 18:30:51,Server
+ORD-10007,Kommissionierung gestartet,2025-09-29 14:30:51,Lagerhalle A
+ORD-10007,Kommissionierung beendet,2025-09-29 15:07:51,Lagerhalle A
+ORD-10007,Verpacken und Labeldruck,2025-09-29 16:57:51,Packtisch 3
+ORD-10007,Versandübergabe,2025-09-29 20:57:51,Rampe 1
+ORD-10008,Wareneingang im LVS,2025-09-18 14:08:20,Server
+ORD-10008,Kommissionierung gestartet,2025-09-20 08:08:20,Lagerhalle A
+ORD-10008,Kommissionierung beendet,2025-09-20 08:26:20,Lagerhalle A
+ORD-10008,Verpacken und Labeldruck,2025-09-20 10:19:20,Packtisch 3
+ORD-10008,Versandübergabe,2025-09-20 14:19:20,Rampe 1
+ORD-10009,Wareneingang im LVS,2025-10-19 18:41:27,Server
+ORD-10009,Kommissionierung gestartet,2025-10-20 05:41:27,Lagerhalle A
+ORD-10009,Kommissionierung beendet,2025-10-20 06:17:27,Lagerhalle A
+ORD-10009,Verpacken und Labeldruck,2025-10-20 07:55:27,Packtisch 3
+ORD-10009,Versandübergabe,2025-10-20 11:55:27,Rampe 1
+ORD-10010,Wareneingang im LVS,2025-09-20 10:04:41,Server
+ORD-10010,Kommissionierung gestartet,2025-09-21 00:04:41,Lagerhalle A
+ORD-10010,Kommissionierung beendet,2025-09-21 00:34:41,Lagerhalle A
+ORD-10010,Verpacken und Labeldruck,2025-09-21 02:13:41,Packtisch 3
+ORD-10010,Versandübergabe,2025-09-21 06:13:41,Rampe 1
+ORD-10011,Wareneingang im LVS,2025-10-24 12:35:21,Server
+ORD-10011,Kommissionierung gestartet,2025-10-25 21:35:21,Lagerhalle A
+ORD-10011,Kommissionierung beendet,2025-10-25 22:15:21,Lagerhalle A
+ORD-10011,Verpacken und Labeldruck,2025-10-25 23:52:21,Packtisch 3
+ORD-10011,Versandübergabe,2025-10-26 02:52:21,Rampe 1
+ORD-10012,Wareneingang im LVS,2025-10-01 14:00:35,Server
+ORD-10012,Kommissionierung gestartet,2025-10-02 07:00:35,Lagerhalle A
+ORD-10012,Kommissionierung beendet,2025-10-02 07:30:35,Lagerhalle A
+ORD-10012,Verpacken und Labeldruck,2025-10-02 08:41:35,Packtisch 3
+ORD-10012,Versandübergabe,2025-10-02 09:41:35,Rampe 1
+ORD-10013,Wareneingang im LVS,2025-09-29 18:21:13,Server
+ORD-10013,Kommissionierung gestartet,2025-10-01 03:21:13,Lagerhalle A
+ORD-10013,Kommissionierung beendet,2025-10-01 03:57:13,Lagerhalle A
+ORD-10013,Verpacken und Labeldruck,2025-10-01 04:22:13,Packtisch 3
+ORD-10013,Versandübergabe,2025-10-01 08:22:13,Rampe 1
+ORD-10014,Wareneingang im LVS,2025-09-18 13:48:58,Server
+ORD-10014,Kommissionierung gestartet,2025-09-18 18:48:58,Lagerhalle A
+ORD-10014,Kommissionierung beendet,2025-09-18 19:14:58,Lagerhalle A
+ORD-10014,Verpacken und Labeldruck,2025-09-18 20:54:58,Packtisch 3
+ORD-10014,Versandübergabe,2025-09-19 00:54:58,Rampe 1
+ORD-10015,Wareneingang im LVS,2025-09-24 16:51:55,Server
+ORD-10015,Kommissionierung gestartet,2025-09-24 23:51:55,Lagerhalle A
+ORD-10015,Kommissionierung beendet,2025-09-25 00:10:55,Lagerhalle A
+ORD-10015,Verpacken und Labeldruck,2025-09-25 01:42:55,Packtisch 3
+ORD-10015,Versandübergabe,2025-09-25 02:42:55,Rampe 1
+ORD-10016,Wareneingang im LVS,2025-09-14 17:12:00,Server
+ORD-10016,Kommissionierung gestartet,2025-09-16 07:12:00,Lagerhalle A
+ORD-10016,Kommissionierung beendet,2025-09-16 07:34:00,Lagerhalle A
+ORD-10016,Verpacken und Labeldruck,2025-09-16 09:27:00,Packtisch 3
+ORD-10016,Versandübergabe,2025-09-16 11:27:00,Rampe 1
+ORD-10017,Wareneingang im LVS,2025-10-12 09:20:39,Server
+ORD-10017,Kommissionierung gestartet,2025-10-12 17:20:39,Lagerhalle A
+ORD-10017,Kommissionierung beendet,2025-10-12 17:55:39,Lagerhalle A
+ORD-10017,Verpacken und Labeldruck,2025-10-12 18:39:39,Packtisch 3
+ORD-10017,Versandübergabe,2025-10-12 19:39:39,Rampe 1
+ORD-10018,Wareneingang im LVS,2025-09-12 18:34:57,Server
+ORD-10018,Kommissionierung gestartet,2025-09-14 11:34:57,Lagerhalle A
+ORD-10018,Kommissionierung beendet,2025-09-14 12:13:57,Lagerhalle A
+ORD-10018,Verpacken und Labeldruck,2025-09-14 12:37:57,Packtisch 3
+ORD-10018,Versandübergabe,2025-09-14 16:37:57,Rampe 1
+ORD-10019,Wareneingang im LVS,2025-10-28 17:04:48,Server
+ORD-10019,Kommissionierung gestartet,2025-10-29 03:04:48,Lagerhalle A
+ORD-10019,Kommissionierung beendet,2025-10-29 03:26:48,Lagerhalle A
+ORD-10019,Verpacken und Labeldruck,2025-10-29 04:14:48,Packtisch 3
+ORD-10019,Versandübergabe,2025-10-29 06:14:48,Rampe 1
+ORD-10020,Wareneingang im LVS,2025-09-26 10:06:21,Server
+ORD-10020,Kommissionierung gestartet,2025-09-26 20:06:21,Lagerhalle A
+ORD-10020,Kommissionierung beendet,2025-09-26 20:32:21,Lagerhalle A
+ORD-10020,Verpacken und Labeldruck,2025-09-26 21:56:21,Packtisch 3
+ORD-10020,Versandübergabe,2025-09-27 00:56:21,Rampe 1
+ORD-10021,Wareneingang im LVS,2025-10-04 15:37:03,Server
+ORD-10021,Kommissionierung gestartet,2025-10-06 06:37:03,Lagerhalle A
+ORD-10021,Kommissionierung beendet,2025-10-06 07:13:03,Lagerhalle A
+ORD-10021,Verpacken und Labeldruck,2025-10-06 07:43:03,Packtisch 3
+ORD-10021,Versandübergabe,2025-10-06 08:43:03,Rampe 1
+ORD-10022,Wareneingang im LVS,2025-09-22 17:21:22,Server
+ORD-10022,Kommissionierung gestartet,2025-09-24 17:21:22,Lagerhalle A
+ORD-10022,Kommissionierung beendet,2025-09-24 17:53:22,Lagerhalle A
+ORD-10022,Verpacken und Labeldruck,2025-09-24 19:10:22,Packtisch 3
+ORD-10022,Versandübergabe,2025-09-24 21:10:22,Rampe 1
+ORD-10023,Wareneingang im LVS,2025-09-04 13:42:13,Server
+ORD-10023,Kommissionierung gestartet,2025-09-06 12:42:13,Lagerhalle A
+ORD-10023,Kommissionierung beendet,2025-09-06 13:20:13,Lagerhalle A
+ORD-10023,Verpacken und Labeldruck,2025-09-06 13:31:13,Packtisch 3
+ORD-10023,Versandübergabe,2025-09-06 16:31:13,Rampe 1
+ORD-10024,Wareneingang im LVS,2025-09-16 11:34:28,Server
+ORD-10024,Kommissionierung gestartet,2025-09-17 22:34:28,Lagerhalle A
+ORD-10024,Kommissionierung beendet,2025-09-17 23:13:28,Lagerhalle A
+ORD-10024,Verpacken und Labeldruck,2025-09-18 00:03:28,Packtisch 3
+ORD-10024,Versandübergabe,2025-09-18 04:03:28,Rampe 1
+ORD-10025,Wareneingang im LVS,2025-09-21 18:21:34,Server
+ORD-10025,Kommissionierung gestartet,2025-09-21 20:21:34,Lagerhalle A
+ORD-10025,Kommissionierung beendet,2025-09-21 20:39:34,Lagerhalle A
+ORD-10025,Verpacken und Labeldruck,2025-09-21 22:28:34,Packtisch 3
+ORD-10025,Versandübergabe,2025-09-21 23:28:34,Rampe 1
+ORD-10026,Wareneingang im LVS,2025-09-24 13:51:53,Server
+ORD-10026,Kommissionierung gestartet,2025-09-26 08:51:53,Lagerhalle A
+ORD-10026,Kommissionierung beendet,2025-09-26 09:13:53,Lagerhalle A
+ORD-10026,Verpacken und Labeldruck,2025-09-26 10:09:53,Packtisch 3
+ORD-10026,Versandübergabe,2025-09-26 11:09:53,Rampe 1
+ORD-10027,Wareneingang im LVS,2025-10-05 11:08:35,Server
+ORD-10027,Kommissionierung gestartet,2025-10-06 21:08:35,Lagerhalle A
+ORD-10027,Kommissionierung beendet,2025-10-06 21:49:35,Lagerhalle A
+ORD-10027,Verpacken und Labeldruck,2025-10-06 23:28:35,Packtisch 3
+ORD-10027,Versandübergabe,2025-10-07 02:28:35,Rampe 1
+ORD-10028,Wareneingang im LVS,2025-09-15 19:13:50,Server
+ORD-10028,Kommissionierung gestartet,2025-09-17 04:13:50,Lagerhalle A
+ORD-10028,Kommissionierung beendet,2025-09-17 04:53:50,Lagerhalle A
+ORD-10028,Verpacken und Labeldruck,2025-09-17 05:50:50,Packtisch 3
+ORD-10028,Versandübergabe,2025-09-17 09:50:50,Rampe 1
+ORD-10029,Wareneingang im LVS,2025-10-09 14:04:31,Server
+ORD-10029,Kommissionierung gestartet,2025-10-09 17:04:31,Lagerhalle A
+ORD-10029,Kommissionierung beendet,2025-10-09 17:32:31,Lagerhalle A
+ORD-10029,Verpacken und Labeldruck,2025-10-09 18:11:31,Packtisch 3
+ORD-10029,Versandübergabe,2025-10-09 20:11:31,Rampe 1
+ORD-10030,Wareneingang im LVS,2025-10-14 11:19:50,Server
+ORD-10030,Kommissionierung gestartet,2025-10-16 01:19:50,Lagerhalle A
+ORD-10030,Kommissionierung beendet,2025-10-16 02:01:50,Lagerhalle A
+ORD-10030,Verpacken und Labeldruck,2025-10-16 04:00:50,Packtisch 3
+ORD-10030,Versandübergabe,2025-10-16 05:00:50,Rampe 1
+ORD-10031,Wareneingang im LVS,2025-09-28 10:05:28,Server
+ORD-10031,Kommissionierung gestartet,2025-09-28 16:05:28,Lagerhalle A
+ORD-10031,Kommissionierung beendet,2025-09-28 16:25:28,Lagerhalle A
+ORD-10031,Verpacken und Labeldruck,2025-09-28 17:51:28,Packtisch 3
+ORD-10031,Versandübergabe,2025-09-28 19:51:28,Rampe 1
+ORD-10032,Wareneingang im LVS,2025-10-30 19:18:41,Server
+ORD-10032,Kommissionierung gestartet,2025-11-01 15:18:41,Lagerhalle A
+ORD-10032,Kommissionierung beendet,2025-11-01 15:39:41,Lagerhalle A
+ORD-10032,Verpacken und Labeldruck,2025-11-01 16:56:41,Packtisch 3
+ORD-10032,Versandübergabe,2025-11-01 19:56:41,Rampe 1
+ORD-10033,Wareneingang im LVS,2025-10-15 04:19:28,Server
+ORD-10033,Kommissionierung gestartet,2025-10-15 23:19:28,Lagerhalle A
+ORD-10033,Kommissionierung beendet,2025-10-15 23:52:28,Lagerhalle A
+ORD-10033,Verpacken und Labeldruck,2025-10-16 00:36:28,Packtisch 3
+ORD-10033,Versandübergabe,2025-10-16 03:36:28,Rampe 1
+ORD-10034,Wareneingang im LVS,2025-10-13 18:16:39,Server
+ORD-10034,Kommissionierung gestartet,2025-10-15 06:16:39,Lagerhalle A
+ORD-10034,Kommissionierung beendet,2025-10-15 06:40:39,Lagerhalle A
+ORD-10034,Verpacken und Labeldruck,2025-10-15 07:13:39,Packtisch 3
+ORD-10034,Versandübergabe,2025-10-15 10:13:39,Rampe 1
+ORD-10035,Wareneingang im LVS,2025-10-15 19:06:27,Server
+ORD-10035,Kommissionierung gestartet,2025-10-16 00:06:27,Lagerhalle A
+ORD-10035,Kommissionierung beendet,2025-10-16 00:23:27,Lagerhalle A
+ORD-10035,Verpacken und Labeldruck,2025-10-16 01:42:27,Packtisch 3
+ORD-10035,Versandübergabe,2025-10-16 05:42:27,Rampe 1
+ORD-10036,Wareneingang im LVS,2025-10-15 08:36:46,Server
+ORD-10036,Kommissionierung gestartet,2025-10-16 10:36:46,Lagerhalle A
+ORD-10036,Kommissionierung beendet,2025-10-16 11:07:46,Lagerhalle A
+ORD-10036,Verpacken und Labeldruck,2025-10-16 12:46:46,Packtisch 3
+ORD-10036,Versandübergabe,2025-10-16 15:46:46,Rampe 1
+ORD-10037,Wareneingang im LVS,2025-10-30 19:41:33,Server
+ORD-10037,Kommissionierung gestartet,2025-11-01 19:41:33,Lagerhalle A
+ORD-10037,Kommissionierung beendet,2025-11-01 19:57:33,Lagerhalle A
+ORD-10037,Verpacken und Labeldruck,2025-11-01 20:28:33,Packtisch 3
+ORD-10037,Versandübergabe,2025-11-01 22:28:33,Rampe 1
+ORD-10038,Wareneingang im LVS,2025-10-30 12:26:58,Server
+ORD-10038,Kommissionierung gestartet,2025-10-31 15:26:58,Lagerhalle A
+ORD-10038,Kommissionierung beendet,2025-10-31 16:03:58,Lagerhalle A
+ORD-10038,Verpacken und Labeldruck,2025-10-31 16:32:58,Packtisch 3
+ORD-10038,Versandübergabe,2025-10-31 17:32:58,Rampe 1
+ORD-10039,Wareneingang im LVS,2025-10-10 12:02:40,Server
+ORD-10039,Kommissionierung gestartet,2025-10-12 10:02:40,Lagerhalle A
+ORD-10039,Kommissionierung beendet,2025-10-12 10:37:40,Lagerhalle A
+ORD-10039,Verpacken und Labeldruck,2025-10-12 11:19:40,Packtisch 3
+ORD-10039,Versandübergabe,2025-10-12 13:19:40,Rampe 1
+ORD-10040,Wareneingang im LVS,2025-09-08 11:30:33,Server
+ORD-10040,Kommissionierung gestartet,2025-09-09 23:30:33,Lagerhalle A
+ORD-10040,Kommissionierung beendet,2025-09-10 00:10:33,Lagerhalle A
+ORD-10040,Verpacken und Labeldruck,2025-09-10 01:27:33,Packtisch 3
+ORD-10040,Versandübergabe,2025-09-10 02:27:33,Rampe 1
+ORD-10041,Wareneingang im LVS,2025-09-14 14:52:01,Server
+ORD-10041,Kommissionierung gestartet,2025-09-15 10:52:01,Lagerhalle A
+ORD-10041,Kommissionierung beendet,2025-09-15 11:17:01,Lagerhalle A
+ORD-10041,Verpacken und Labeldruck,2025-09-15 12:13:01,Packtisch 3
+ORD-10041,Versandübergabe,2025-09-15 13:13:01,Rampe 1
+ORD-10042,Wareneingang im LVS,2025-09-06 15:26:10,Server
+ORD-10042,Kommissionierung gestartet,2025-09-08 11:26:10,Lagerhalle A
+ORD-10042,Kommissionierung beendet,2025-09-08 11:56:10,Lagerhalle A
+ORD-10042,Verpacken und Labeldruck,2025-09-08 13:28:10,Packtisch 3
+ORD-10042,Versandübergabe,2025-09-08 15:28:10,Rampe 1
+ORD-10043,Wareneingang im LVS,2025-10-08 13:52:47,Server
+ORD-10043,Kommissionierung gestartet,2025-10-10 12:52:47,Lagerhalle A
+ORD-10043,Kommissionierung beendet,2025-10-10 13:19:47,Lagerhalle A
+ORD-10043,Verpacken und Labeldruck,2025-10-10 13:50:47,Packtisch 3
+ORD-10043,Versandübergabe,2025-10-10 15:50:47,Rampe 1
+ORD-10044,Wareneingang im LVS,2025-09-21 16:36:19,Server
+ORD-10044,Kommissionierung gestartet,2025-09-22 06:36:19,Lagerhalle A
+ORD-10044,Kommissionierung beendet,2025-09-22 06:57:19,Lagerhalle A
+ORD-10044,Verpacken und Labeldruck,2025-09-22 08:09:19,Packtisch 3
+ORD-10044,Versandübergabe,2025-09-22 11:09:19,Rampe 1
+ORD-10045,Wareneingang im LVS,2025-10-07 09:47:54,Server
+ORD-10045,Kommissionierung gestartet,2025-10-08 11:47:54,Lagerhalle A
+ORD-10045,Kommissionierung beendet,2025-10-08 12:09:54,Lagerhalle A
+ORD-10045,Verpacken und Labeldruck,2025-10-08 13:25:54,Packtisch 3
+ORD-10045,Versandübergabe,2025-10-08 17:25:54,Rampe 1
+ORD-10046,Wareneingang im LVS,2025-10-30 11:26:18,Server
+ORD-10046,Kommissionierung gestartet,2025-10-30 20:26:18,Lagerhalle A
+ORD-10046,Kommissionierung beendet,2025-10-30 21:09:18,Lagerhalle A
+ORD-10046,Verpacken und Labeldruck,2025-10-30 22:26:18,Packtisch 3
+ORD-10046,Versandübergabe,2025-10-30 23:26:18,Rampe 1
+ORD-10047,Wareneingang im LVS,2025-09-27 09:45:59,Server
+ORD-10047,Kommissionierung gestartet,2025-09-28 00:45:59,Lagerhalle A
+ORD-10047,Kommissionierung beendet,2025-09-28 01:14:59,Lagerhalle A
+ORD-10047,Verpacken und Labeldruck,2025-09-28 01:33:59,Packtisch 3
+ORD-10047,Versandübergabe,2025-09-28 03:33:59,Rampe 1
+ORD-10048,Wareneingang im LVS,2025-10-13 13:27:55,Server
+ORD-10048,Kommissionierung gestartet,2025-10-13 18:27:55,Lagerhalle A
+ORD-10048,Kommissionierung beendet,2025-10-13 18:45:55,Lagerhalle A
+ORD-10048,Verpacken und Labeldruck,2025-10-13 19:25:55,Packtisch 3
+ORD-10048,Versandübergabe,2025-10-13 22:25:55,Rampe 1
+ORD-10049,Wareneingang im LVS,2025-10-22 12:24:41,Server
+ORD-10049,Kommissionierung gestartet,2025-10-23 23:24:41,Lagerhalle A
+ORD-10049,Kommissionierung beendet,2025-10-23 23:55:41,Lagerhalle A
+ORD-10049,Verpacken und Labeldruck,2025-10-24 01:06:41,Packtisch 3
+ORD-10049,Versandübergabe,2025-10-24 05:06:41,Rampe 1
+ORD-10050,Wareneingang im LVS,2025-09-27 17:36:56,Server
+ORD-10050,Kommissionierung gestartet,2025-09-27 21:36:56,Lagerhalle A
+ORD-10050,Kommissionierung beendet,2025-09-27 22:07:56,Lagerhalle A
+ORD-10050,Verpacken und Labeldruck,2025-09-27 23:16:56,Packtisch 3
+ORD-10050,Versandübergabe,2025-09-28 00:16:56,Rampe 1
+ORD-10051,Wareneingang im LVS,2025-10-11 12:35:37,Server
+ORD-10051,Kommissionierung gestartet,2025-10-12 00:35:37,Lagerhalle A
+ORD-10051,Kommissionierung beendet,2025-10-12 01:14:37,Lagerhalle A
+ORD-10051,Verpacken und Labeldruck,2025-10-12 02:26:37,Packtisch 3
+ORD-10051,Versandübergabe,2025-10-12 04:26:37,Rampe 1
+ORD-10052,Wareneingang im LVS,2025-10-31 10:04:53,Server
+ORD-10052,Kommissionierung gestartet,2025-11-01 11:04:53,Lagerhalle A
+ORD-10052,Kommissionierung beendet,2025-11-01 11:24:53,Lagerhalle A
+ORD-10052,Verpacken und Labeldruck,2025-11-01 11:35:53,Packtisch 3
+ORD-10052,Versandübergabe,2025-11-01 13:35:53,Rampe 1
+ORD-10053,Wareneingang im LVS,2025-09-14 19:02:19,Server
+ORD-10053,Kommissionierung gestartet,2025-09-16 17:02:19,Lagerhalle A
+ORD-10053,Kommissionierung beendet,2025-09-16 17:39:19,Lagerhalle A
+ORD-10053,Verpacken und Labeldruck,2025-09-16 18:27:19,Packtisch 3
+ORD-10053,Versandübergabe,2025-09-16 19:27:19,Rampe 1
+ORD-10054,Wareneingang im LVS,2025-09-26 11:34:08,Server
+ORD-10054,Kommissionierung gestartet,2025-09-27 20:34:08,Lagerhalle A
+ORD-10054,Kommissionierung beendet,2025-09-27 21:18:08,Lagerhalle A
+ORD-10054,Verpacken und Labeldruck,2025-09-27 22:27:08,Packtisch 3
+ORD-10054,Versandübergabe,2025-09-28 00:27:08,Rampe 1
+ORD-10055,Wareneingang im LVS,2025-10-05 19:35:57,Server
+ORD-10055,Kommissionierung gestartet,2025-10-07 16:35:57,Lagerhalle A
+ORD-10055,Kommissionierung beendet,2025-10-07 16:52:57,Lagerhalle A
+ORD-10055,Verpacken und Labeldruck,2025-10-07 17:18:57,Packtisch 3
+ORD-10055,Versandübergabe,2025-10-07 21:18:57,Rampe 1
+ORD-10056,Wareneingang im LVS,2025-09-20 22:44:30,Server
+ORD-10056,Kommissionierung gestartet,2025-09-21 19:44:30,Lagerhalle A
+ORD-10056,Kommissionierung beendet,2025-09-21 20:00:30,Lagerhalle A
+ORD-10056,Verpacken und Labeldruck,2025-09-21 21:51:30,Packtisch 3
+ORD-10056,Versandübergabe,2025-09-21 23:51:30,Rampe 1
+ORD-10057,Wareneingang im LVS,2025-10-02 17:56:13,Server
+ORD-10057,Kommissionierung gestartet,2025-10-02 19:56:13,Lagerhalle A
+ORD-10057,Kommissionierung beendet,2025-10-02 20:12:13,Lagerhalle A
+ORD-10057,Verpacken und Labeldruck,2025-10-02 21:43:13,Packtisch 3
+ORD-10057,Versandübergabe,2025-10-03 01:43:13,Rampe 1
+ORD-10058,Wareneingang im LVS,2025-09-26 19:08:21,Server
+ORD-10058,Kommissionierung gestartet,2025-09-28 18:08:21,Lagerhalle A
+ORD-10058,Kommissionierung beendet,2025-09-28 18:24:21,Lagerhalle A
+ORD-10058,Verpacken und Labeldruck,2025-09-28 19:46:21,Packtisch 3
+ORD-10058,Versandübergabe,2025-09-28 22:46:21,Rampe 1
+ORD-10059,Wareneingang im LVS,2025-10-25 15:28:49,Server
+ORD-10059,Kommissionierung gestartet,2025-10-26 22:28:49,Lagerhalle A
+ORD-10059,Kommissionierung beendet,2025-10-26 22:52:49,Lagerhalle A
+ORD-10059,Verpacken und Labeldruck,2025-10-27 00:20:49,Packtisch 3
+ORD-10059,Versandübergabe,2025-10-27 01:20:49,Rampe 1
+ORD-10060,Wareneingang im LVS,2025-10-03 12:51:47,Server
+ORD-10060,Kommissionierung gestartet,2025-10-05 11:51:47,Lagerhalle A
+ORD-10060,Kommissionierung beendet,2025-10-05 12:25:47,Lagerhalle A
+ORD-10060,Verpacken und Labeldruck,2025-10-05 13:59:47,Packtisch 3
+ORD-10060,Versandübergabe,2025-10-05 14:59:47,Rampe 1
+ORD-10061,Wareneingang im LVS,2025-10-18 19:22:48,Server
+ORD-10061,Kommissionierung gestartet,2025-10-20 01:22:48,Lagerhalle A
+ORD-10061,Kommissionierung beendet,2025-10-20 02:01:48,Lagerhalle A
+ORD-10061,Verpacken und Labeldruck,2025-10-20 03:49:48,Packtisch 3
+ORD-10061,Versandübergabe,2025-10-20 07:49:48,Rampe 1
+ORD-10062,Wareneingang im LVS,2025-09-30 10:51:12,Server
+ORD-10062,Kommissionierung gestartet,2025-10-01 11:51:12,Lagerhalle A
+ORD-10062,Kommissionierung beendet,2025-10-01 12:06:12,Lagerhalle A
+ORD-10062,Verpacken und Labeldruck,2025-10-01 12:23:12,Packtisch 3
+ORD-10062,Versandübergabe,2025-10-01 14:23:12,Rampe 1
+ORD-10063,Wareneingang im LVS,2025-09-06 19:03:46,Server
+ORD-10063,Kommissionierung gestartet,2025-09-07 09:03:46,Lagerhalle A
+ORD-10063,Kommissionierung beendet,2025-09-07 09:27:46,Lagerhalle A
+ORD-10063,Verpacken und Labeldruck,2025-09-07 11:07:46,Packtisch 3
+ORD-10063,Versandübergabe,2025-09-07 15:07:46,Rampe 1
+ORD-10064,Wareneingang im LVS,2025-09-20 16:36:34,Server
+ORD-10064,Kommissionierung gestartet,2025-09-21 11:36:34,Lagerhalle A
+ORD-10064,Kommissionierung beendet,2025-09-21 12:05:34,Lagerhalle A
+ORD-10064,Verpacken und Labeldruck,2025-09-21 13:01:34,Packtisch 3
+ORD-10064,Versandübergabe,2025-09-21 17:01:34,Rampe 1
+ORD-10065,Wareneingang im LVS,2025-10-31 15:28:32,Server
+ORD-10065,Kommissionierung gestartet,2025-11-01 16:28:32,Lagerhalle A
+ORD-10065,Kommissionierung beendet,2025-11-01 16:45:32,Lagerhalle A
+ORD-10065,Verpacken und Labeldruck,2025-11-01 18:21:32,Packtisch 3
+ORD-10065,Versandübergabe,2025-11-01 21:21:32,Rampe 1
+ORD-10066,Wareneingang im LVS,2025-09-22 16:07:52,Server
+ORD-10066,Kommissionierung gestartet,2025-09-23 03:07:52,Lagerhalle A
+ORD-10066,Kommissionierung beendet,2025-09-23 03:47:52,Lagerhalle A
+ORD-10066,Verpacken und Labeldruck,2025-09-23 04:27:52,Packtisch 3
+ORD-10066,Versandübergabe,2025-09-23 07:27:52,Rampe 1
+ORD-10067,Wareneingang im LVS,2025-10-14 08:53:33,Server
+ORD-10067,Kommissionierung gestartet,2025-10-14 14:53:33,Lagerhalle A
+ORD-10067,Kommissionierung beendet,2025-10-14 15:16:33,Lagerhalle A
+ORD-10067,Verpacken und Labeldruck,2025-10-14 16:46:33,Packtisch 3
+ORD-10067,Versandübergabe,2025-10-14 18:46:33,Rampe 1
+ORD-10068,Wareneingang im LVS,2025-10-12 11:05:56,Server
+ORD-10068,Kommissionierung gestartet,2025-10-13 00:05:56,Lagerhalle A
+ORD-10068,Kommissionierung beendet,2025-10-13 00:33:56,Lagerhalle A
+ORD-10068,Verpacken und Labeldruck,2025-10-13 02:30:56,Packtisch 3
+ORD-10068,Versandübergabe,2025-10-13 04:30:56,Rampe 1
+ORD-10069,Wareneingang im LVS,2025-09-12 13:34:24,Server
+ORD-10069,Kommissionierung gestartet,2025-09-13 08:34:24,Lagerhalle A
+ORD-10069,Kommissionierung beendet,2025-09-13 09:02:24,Lagerhalle A
+ORD-10069,Verpacken und Labeldruck,2025-09-13 10:11:24,Packtisch 3
+ORD-10069,Versandübergabe,2025-09-13 13:11:24,Rampe 1
+ORD-10070,Wareneingang im LVS,2025-10-21 18:43:59,Server
+ORD-10070,Kommissionierung gestartet,2025-10-23 01:43:59,Lagerhalle A
+ORD-10070,Kommissionierung beendet,2025-10-23 02:12:59,Lagerhalle A
+ORD-10070,Verpacken und Labeldruck,2025-10-23 03:03:59,Packtisch 3
+ORD-10070,Versandübergabe,2025-10-23 05:03:59,Rampe 1
+ORD-10071,Wareneingang im LVS,2025-10-29 05:24:49,Server
+ORD-10071,Kommissionierung gestartet,2025-10-30 06:24:49,Lagerhalle A
+ORD-10071,Kommissionierung beendet,2025-10-30 06:41:49,Lagerhalle A
+ORD-10071,Verpacken und Labeldruck,2025-10-30 07:07:49,Packtisch 3
+ORD-10071,Versandübergabe,2025-10-30 09:07:49,Rampe 1
+ORD-10072,Wareneingang im LVS,2025-09-17 14:17:00,Server
+ORD-10072,Kommissionierung gestartet,2025-09-19 03:17:00,Lagerhalle A
+ORD-10072,Kommissionierung beendet,2025-09-19 03:52:00,Lagerhalle A
+ORD-10072,Verpacken und Labeldruck,2025-09-19 05:03:00,Packtisch 3
+ORD-10072,Versandübergabe,2025-09-19 09:03:00,Rampe 1
+ORD-10073,Wareneingang im LVS,2025-09-09 07:53:44,Server
+ORD-10073,Kommissionierung gestartet,2025-09-09 23:53:44,Lagerhalle A
+ORD-10073,Kommissionierung beendet,2025-09-10 00:34:44,Lagerhalle A
+ORD-10073,Verpacken und Labeldruck,2025-09-10 02:20:44,Packtisch 3
+ORD-10073,Versandübergabe,2025-09-10 05:20:44,Rampe 1
+ORD-10074,Wareneingang im LVS,2025-09-25 12:59:23,Server
+ORD-10074,Kommissionierung gestartet,2025-09-25 22:59:23,Lagerhalle A
+ORD-10074,Kommissionierung beendet,2025-09-25 23:19:23,Lagerhalle A
+ORD-10074,Verpacken und Labeldruck,2025-09-26 00:53:23,Packtisch 3
+ORD-10074,Versandübergabe,2025-09-26 01:53:23,Rampe 1
+ORD-10075,Wareneingang im LVS,2025-10-09 17:42:41,Server
+ORD-10075,Kommissionierung gestartet,2025-10-10 12:42:41,Lagerhalle A
+ORD-10075,Kommissionierung beendet,2025-10-10 12:57:41,Lagerhalle A
+ORD-10075,Verpacken und Labeldruck,2025-10-10 13:21:41,Packtisch 3
+ORD-10075,Versandübergabe,2025-10-10 16:21:41,Rampe 1
+ORD-10076,Wareneingang im LVS,2025-10-29 13:59:44,Server
+ORD-10076,Kommissionierung gestartet,2025-10-31 01:59:44,Lagerhalle A
+ORD-10076,Kommissionierung beendet,2025-10-31 02:25:44,Lagerhalle A
+ORD-10076,Verpacken und Labeldruck,2025-10-31 04:16:44,Packtisch 3
+ORD-10076,Versandübergabe,2025-10-31 05:16:44,Rampe 1
+ORD-10077,Wareneingang im LVS,2025-09-24 12:36:56,Server
+ORD-10077,Kommissionierung gestartet,2025-09-24 23:36:56,Lagerhalle A
+ORD-10077,Kommissionierung beendet,2025-09-25 00:11:56,Lagerhalle A
+ORD-10077,Verpacken und Labeldruck,2025-09-25 00:47:56,Packtisch 3
+ORD-10077,Versandübergabe,2025-09-25 03:47:56,Rampe 1
+ORD-10078,Wareneingang im LVS,2025-09-23 16:53:02,Server
+ORD-10078,Kommissionierung gestartet,2025-09-24 07:53:02,Lagerhalle A
+ORD-10078,Kommissionierung beendet,2025-09-24 08:22:02,Lagerhalle A
+ORD-10078,Verpacken und Labeldruck,2025-09-24 09:38:02,Packtisch 3
+ORD-10078,Versandübergabe,2025-09-24 10:38:02,Rampe 1
+ORD-10079,Wareneingang im LVS,2025-10-01 19:38:43,Server
+ORD-10079,Kommissionierung gestartet,2025-10-03 18:38:43,Lagerhalle A
+ORD-10079,Kommissionierung beendet,2025-10-03 19:21:43,Lagerhalle A
+ORD-10079,Verpacken und Labeldruck,2025-10-03 20:08:43,Packtisch 3
+ORD-10079,Versandübergabe,2025-10-03 21:08:43,Rampe 1
+ORD-10080,Wareneingang im LVS,2025-10-01 09:18:48,Server
+ORD-10080,Kommissionierung gestartet,2025-10-03 03:18:48,Lagerhalle A
+ORD-10080,Kommissionierung beendet,2025-10-03 03:42:48,Lagerhalle A
+ORD-10080,Verpacken und Labeldruck,2025-10-03 05:19:48,Packtisch 3
+ORD-10080,Versandübergabe,2025-10-03 09:19:48,Rampe 1
+ORD-10081,Wareneingang im LVS,2025-10-03 19:02:30,Server
+ORD-10081,Kommissionierung gestartet,2025-10-04 05:02:30,Lagerhalle A
+ORD-10081,Kommissionierung beendet,2025-10-04 05:18:30,Lagerhalle A
+ORD-10081,Verpacken und Labeldruck,2025-10-04 06:03:30,Packtisch 3
+ORD-10081,Versandübergabe,2025-10-04 07:03:30,Rampe 1
+ORD-10082,Wareneingang im LVS,2025-10-07 17:56:47,Server
+ORD-10082,Kommissionierung gestartet,2025-10-08 00:56:47,Lagerhalle A
+ORD-10082,Kommissionierung beendet,2025-10-08 01:34:47,Lagerhalle A
+ORD-10082,Verpacken und Labeldruck,2025-10-08 02:20:47,Packtisch 3
+ORD-10082,Versandübergabe,2025-10-08 06:20:47,Rampe 1
+ORD-10083,Wareneingang im LVS,2025-09-14 13:53:25,Server
+ORD-10083,Kommissionierung gestartet,2025-09-15 07:53:25,Lagerhalle A
+ORD-10083,Kommissionierung beendet,2025-09-15 08:08:25,Lagerhalle A
+ORD-10083,Verpacken und Labeldruck,2025-09-15 09:25:25,Packtisch 3
+ORD-10083,Versandübergabe,2025-09-15 12:25:25,Rampe 1
+ORD-10084,Wareneingang im LVS,2025-10-11 14:00:24,Server
+ORD-10084,Kommissionierung gestartet,2025-10-13 06:00:24,Lagerhalle A
+ORD-10084,Kommissionierung beendet,2025-10-13 06:21:24,Lagerhalle A
+ORD-10084,Verpacken und Labeldruck,2025-10-13 07:21:24,Packtisch 3
+ORD-10084,Versandübergabe,2025-10-13 09:21:24,Rampe 1
+ORD-10085,Wareneingang im LVS,2025-10-17 10:09:49,Server
+ORD-10085,Kommissionierung gestartet,2025-10-18 16:09:49,Lagerhalle A
+ORD-10085,Kommissionierung beendet,2025-10-18 16:50:49,Lagerhalle A
+ORD-10085,Verpacken und Labeldruck,2025-10-18 17:25:49,Packtisch 3
+ORD-10085,Versandübergabe,2025-10-18 19:25:49,Rampe 1
+ORD-10086,Wareneingang im LVS,2025-09-27 15:58:16,Server
+ORD-10086,Kommissionierung gestartet,2025-09-29 12:58:16,Lagerhalle A
+ORD-10086,Kommissionierung beendet,2025-09-29 13:30:16,Lagerhalle A
+ORD-10086,Verpacken und Labeldruck,2025-09-29 15:07:16,Packtisch 3
+ORD-10086,Versandübergabe,2025-09-29 17:07:16,Rampe 1
+ORD-10087,Wareneingang im LVS,2025-09-09 10:23:37,Server
+ORD-10087,Kommissionierung gestartet,2025-09-09 20:23:37,Lagerhalle A
+ORD-10087,Kommissionierung beendet,2025-09-09 20:44:37,Lagerhalle A
+ORD-10087,Verpacken und Labeldruck,2025-09-09 22:28:37,Packtisch 3
+ORD-10087,Versandübergabe,2025-09-10 02:28:37,Rampe 1
+ORD-10088,Wareneingang im LVS,2025-10-11 15:48:11,Server
+ORD-10088,Kommissionierung gestartet,2025-10-12 15:48:11,Lagerhalle A
+ORD-10088,Kommissionierung beendet,2025-10-12 16:30:11,Lagerhalle A
+ORD-10088,Verpacken und Labeldruck,2025-10-12 18:05:11,Packtisch 3
+ORD-10088,Versandübergabe,2025-10-12 22:05:11,Rampe 1
+ORD-10089,Wareneingang im LVS,2025-09-11 13:27:50,Server
+ORD-10089,Kommissionierung gestartet,2025-09-13 02:27:50,Lagerhalle A
+ORD-10089,Kommissionierung beendet,2025-09-13 03:02:50,Lagerhalle A
+ORD-10089,Verpacken und Labeldruck,2025-09-13 03:53:50,Packtisch 3
+ORD-10089,Versandübergabe,2025-09-13 06:53:50,Rampe 1
+ORD-10090,Wareneingang im LVS,2025-10-06 18:45:56,Server
+ORD-10090,Kommissionierung gestartet,2025-10-07 13:45:56,Lagerhalle A
+ORD-10090,Kommissionierung beendet,2025-10-07 14:28:56,Lagerhalle A
+ORD-10090,Verpacken und Labeldruck,2025-10-07 14:38:56,Packtisch 3
+ORD-10090,Versandübergabe,2025-10-07 18:38:56,Rampe 1
+ORD-10091,Wareneingang im LVS,2025-10-18 22:54:37,Server
+ORD-10091,Kommissionierung gestartet,2025-10-19 17:54:37,Lagerhalle A
+ORD-10091,Kommissionierung beendet,2025-10-19 18:13:37,Lagerhalle A
+ORD-10091,Verpacken und Labeldruck,2025-10-19 20:09:37,Packtisch 3
+ORD-10091,Versandübergabe,2025-10-20 00:09:37,Rampe 1
+ORD-10092,Wareneingang im LVS,2025-10-30 12:06:12,Server
+ORD-10092,Kommissionierung gestartet,2025-10-30 17:06:12,Lagerhalle A
+ORD-10092,Kommissionierung beendet,2025-10-30 17:41:12,Lagerhalle A
+ORD-10092,Verpacken und Labeldruck,2025-10-30 19:03:12,Packtisch 3
+ORD-10092,Versandübergabe,2025-10-30 21:03:12,Rampe 1
+ORD-10093,Wareneingang im LVS,2025-10-01 13:29:36,Server
+ORD-10093,Kommissionierung gestartet,2025-10-01 20:29:36,Lagerhalle A
+ORD-10093,Kommissionierung beendet,2025-10-01 21:04:36,Lagerhalle A
+ORD-10093,Verpacken und Labeldruck,2025-10-01 21:21:36,Packtisch 3
+ORD-10093,Versandübergabe,2025-10-01 23:21:36,Rampe 1
+ORD-10094,Wareneingang im LVS,2025-09-08 17:19:45,Server
+ORD-10094,Kommissionierung gestartet,2025-09-09 15:19:45,Lagerhalle A
+ORD-10094,Kommissionierung beendet,2025-09-09 15:52:45,Lagerhalle A
+ORD-10094,Verpacken und Labeldruck,2025-09-09 16:36:45,Packtisch 3
+ORD-10094,Versandübergabe,2025-09-09 20:36:45,Rampe 1
+ORD-10095,Wareneingang im LVS,2025-10-15 16:01:11,Server
+ORD-10095,Kommissionierung gestartet,2025-10-16 12:01:11,Lagerhalle A
+ORD-10095,Kommissionierung beendet,2025-10-16 12:17:11,Lagerhalle A
+ORD-10095,Verpacken und Labeldruck,2025-10-16 13:36:11,Packtisch 3
+ORD-10095,Versandübergabe,2025-10-16 14:36:11,Rampe 1
+ORD-10096,Wareneingang im LVS,2025-10-28 14:23:56,Server
+ORD-10096,Kommissionierung gestartet,2025-10-29 07:23:56,Lagerhalle A
+ORD-10096,Kommissionierung beendet,2025-10-29 08:05:56,Lagerhalle A
+ORD-10096,Verpacken und Labeldruck,2025-10-29 09:15:56,Packtisch 3
+ORD-10096,Versandübergabe,2025-10-29 10:15:56,Rampe 1
+ORD-10097,Wareneingang im LVS,2025-09-08 12:47:21,Server
+ORD-10097,Kommissionierung gestartet,2025-09-09 05:47:21,Lagerhalle A
+ORD-10097,Kommissionierung beendet,2025-09-09 06:03:21,Lagerhalle A
+ORD-10097,Verpacken und Labeldruck,2025-09-09 07:50:21,Packtisch 3
+ORD-10097,Versandübergabe,2025-09-09 11:50:21,Rampe 1
+ORD-10098,Wareneingang im LVS,2025-09-26 14:02:23,Server
+ORD-10098,Kommissionierung gestartet,2025-09-27 02:02:23,Lagerhalle A
+ORD-10098,Kommissionierung beendet,2025-09-27 02:33:23,Lagerhalle A
+ORD-10098,Verpacken und Labeldruck,2025-09-27 03:28:23,Packtisch 3
+ORD-10098,Versandübergabe,2025-09-27 05:28:23,Rampe 1
+ORD-10099,Wareneingang im LVS,2025-10-13 11:00:45,Server
+ORD-10099,Kommissionierung gestartet,2025-10-14 22:00:45,Lagerhalle A
+ORD-10099,Kommissionierung beendet,2025-10-14 22:28:45,Lagerhalle A
+ORD-10099,Verpacken und Labeldruck,2025-10-15 00:14:45,Packtisch 3
+ORD-10099,Versandübergabe,2025-10-15 04:14:45,Rampe 1
+ORD-10100,Wareneingang im LVS,2025-09-23 11:48:21,Server
+ORD-10100,Kommissionierung gestartet,2025-09-24 02:48:21,Lagerhalle A
+ORD-10100,Kommissionierung beendet,2025-09-24 03:18:21,Lagerhalle A
+ORD-10100,Verpacken und Labeldruck,2025-09-24 05:02:21,Packtisch 3
+ORD-10100,Versandübergabe,2025-09-24 07:02:21,Rampe 1
+ORD-10101,Wareneingang im LVS,2025-10-04 14:12:39,Server
+ORD-10101,Kommissionierung gestartet,2025-10-05 21:12:39,Lagerhalle A
+ORD-10101,Kommissionierung beendet,2025-10-05 21:48:39,Lagerhalle A
+ORD-10101,Verpacken und Labeldruck,2025-10-05 22:41:39,Packtisch 3
+ORD-10101,Versandübergabe,2025-10-06 01:41:39,Rampe 1
+ORD-10102,Wareneingang im LVS,2025-09-24 17:38:51,Server
+ORD-10102,Kommissionierung gestartet,2025-09-25 05:38:51,Lagerhalle A
+ORD-10102,Kommissionierung beendet,2025-09-25 06:01:51,Lagerhalle A
+ORD-10102,Verpacken und Labeldruck,2025-09-25 07:56:51,Packtisch 3
+ORD-10102,Versandübergabe,2025-09-25 11:56:51,Rampe 1
+ORD-10103,Wareneingang im LVS,2025-10-19 09:14:18,Server
+ORD-10103,Kommissionierung gestartet,2025-10-19 16:14:18,Lagerhalle A
+ORD-10103,Kommissionierung beendet,2025-10-19 16:30:18,Lagerhalle A
+ORD-10103,Verpacken und Labeldruck,2025-10-19 17:31:18,Packtisch 3
+ORD-10103,Versandübergabe,2025-10-19 21:31:18,Rampe 1
+ORD-10104,Wareneingang im LVS,2025-10-16 17:57:06,Server
+ORD-10104,Kommissionierung gestartet,2025-10-18 02:57:06,Lagerhalle A
+ORD-10104,Kommissionierung beendet,2025-10-18 03:21:06,Lagerhalle A
+ORD-10104,Verpacken und Labeldruck,2025-10-18 04:42:06,Packtisch 3
+ORD-10104,Versandübergabe,2025-10-18 05:42:06,Rampe 1
+ORD-10105,Wareneingang im LVS,2025-10-12 20:41:26,Server
+ORD-10105,Kommissionierung gestartet,2025-10-14 13:41:26,Lagerhalle A
+ORD-10105,Kommissionierung beendet,2025-10-14 14:12:26,Lagerhalle A
+ORD-10105,Verpacken und Labeldruck,2025-10-14 15:16:26,Packtisch 3
+ORD-10105,Versandübergabe,2025-10-14 18:16:26,Rampe 1
+ORD-10106,Wareneingang im LVS,2025-10-14 18:45:24,Server
+ORD-10106,Kommissionierung gestartet,2025-10-16 10:45:24,Lagerhalle A
+ORD-10106,Kommissionierung beendet,2025-10-16 11:10:24,Lagerhalle A
+ORD-10106,Verpacken und Labeldruck,2025-10-16 12:13:24,Packtisch 3
+ORD-10106,Versandübergabe,2025-10-16 16:13:24,Rampe 1
+ORD-10107,Wareneingang im LVS,2025-10-14 17:13:25,Server
+ORD-10107,Kommissionierung gestartet,2025-10-15 11:13:25,Lagerhalle A
+ORD-10107,Kommissionierung beendet,2025-10-15 11:46:25,Lagerhalle A
+ORD-10107,Verpacken und Labeldruck,2025-10-15 12:15:25,Packtisch 3
+ORD-10107,Versandübergabe,2025-10-15 14:15:25,Rampe 1
+ORD-10108,Wareneingang im LVS,2025-10-08 10:22:51,Server
+ORD-10108,Kommissionierung gestartet,2025-10-10 10:22:51,Lagerhalle A
+ORD-10108,Kommissionierung beendet,2025-10-10 10:43:51,Lagerhalle A
+ORD-10108,Verpacken und Labeldruck,2025-10-10 11:14:51,Packtisch 3
+ORD-10108,Versandübergabe,2025-10-10 14:14:51,Rampe 1
+ORD-10109,Wareneingang im LVS,2025-09-08 14:02:13,Server
+ORD-10109,Kommissionierung gestartet,2025-09-10 03:02:13,Lagerhalle A
+ORD-10109,Kommissionierung beendet,2025-09-10 03:19:13,Lagerhalle A
+ORD-10109,Verpacken und Labeldruck,2025-09-10 03:43:13,Packtisch 3
+ORD-10109,Versandübergabe,2025-09-10 04:43:13,Rampe 1
+ORD-10110,Wareneingang im LVS,2025-09-11 05:05:05,Server
+ORD-10110,Kommissionierung gestartet,2025-09-12 05:05:05,Lagerhalle A
+ORD-10110,Kommissionierung beendet,2025-09-12 05:45:05,Lagerhalle A
+ORD-10110,Verpacken und Labeldruck,2025-09-12 07:28:05,Packtisch 3
+ORD-10110,Versandübergabe,2025-09-12 08:28:05,Rampe 1
+ORD-10111,Wareneingang im LVS,2025-09-09 23:50:34,Server
+ORD-10111,Kommissionierung gestartet,2025-09-11 06:50:34,Lagerhalle A
+ORD-10111,Kommissionierung beendet,2025-09-11 07:11:34,Lagerhalle A
+ORD-10111,Verpacken und Labeldruck,2025-09-11 08:16:34,Packtisch 3
+ORD-10111,Versandübergabe,2025-09-11 12:16:34,Rampe 1
+ORD-10112,Wareneingang im LVS,2025-09-30 13:07:31,Server
+ORD-10112,Kommissionierung gestartet,2025-10-02 13:07:31,Lagerhalle A
+ORD-10112,Kommissionierung beendet,2025-10-02 13:22:31,Lagerhalle A
+ORD-10112,Verpacken und Labeldruck,2025-10-02 15:10:31,Packtisch 3
+ORD-10112,Versandübergabe,2025-10-02 18:10:31,Rampe 1
+ORD-10113,Wareneingang im LVS,2025-10-20 16:38:44,Server
+ORD-10113,Kommissionierung gestartet,2025-10-22 05:38:44,Lagerhalle A
+ORD-10113,Kommissionierung beendet,2025-10-22 06:06:44,Lagerhalle A
+ORD-10113,Verpacken und Labeldruck,2025-10-22 06:43:44,Packtisch 3
+ORD-10113,Versandübergabe,2025-10-22 09:43:44,Rampe 1
+ORD-10114,Wareneingang im LVS,2025-10-25 11:53:41,Server
+ORD-10114,Kommissionierung gestartet,2025-10-26 12:53:41,Lagerhalle A
+ORD-10114,Kommissionierung beendet,2025-10-26 13:28:41,Lagerhalle A
+ORD-10114,Verpacken und Labeldruck,2025-10-26 13:47:41,Packtisch 3
+ORD-10114,Versandübergabe,2025-10-26 16:47:41,Rampe 1
+ORD-10115,Wareneingang im LVS,2025-10-03 18:44:17,Server
+ORD-10115,Kommissionierung gestartet,2025-10-05 13:44:17,Lagerhalle A
+ORD-10115,Kommissionierung beendet,2025-10-05 14:21:17,Lagerhalle A
+ORD-10115,Verpacken und Labeldruck,2025-10-05 15:48:17,Packtisch 3
+ORD-10115,Versandübergabe,2025-10-05 19:48:17,Rampe 1
+ORD-10116,Wareneingang im LVS,2025-09-13 13:28:29,Server
+ORD-10116,Kommissionierung gestartet,2025-09-14 13:28:29,Lagerhalle A
+ORD-10116,Kommissionierung beendet,2025-09-14 13:53:29,Lagerhalle A
+ORD-10116,Verpacken und Labeldruck,2025-09-14 14:42:29,Packtisch 3
+ORD-10116,Versandübergabe,2025-09-14 16:42:29,Rampe 1
+ORD-10117,Wareneingang im LVS,2025-10-24 09:11:47,Server
+ORD-10117,Kommissionierung gestartet,2025-10-24 11:11:47,Lagerhalle A
+ORD-10117,Kommissionierung beendet,2025-10-24 11:36:47,Lagerhalle A
+ORD-10117,Verpacken und Labeldruck,2025-10-24 11:50:47,Packtisch 3
+ORD-10117,Versandübergabe,2025-10-24 14:50:47,Rampe 1
+ORD-10118,Wareneingang im LVS,2025-09-18 13:56:42,Server
+ORD-10118,Kommissionierung gestartet,2025-09-19 12:56:42,Lagerhalle A
+ORD-10118,Kommissionierung beendet,2025-09-19 13:12:42,Lagerhalle A
+ORD-10118,Verpacken und Labeldruck,2025-09-19 14:27:42,Packtisch 3
+ORD-10118,Versandübergabe,2025-09-19 15:27:42,Rampe 1
+ORD-10119,Wareneingang im LVS,2025-09-12 12:24:37,Server
+ORD-10119,Kommissionierung gestartet,2025-09-13 16:24:37,Lagerhalle A
+ORD-10119,Kommissionierung beendet,2025-09-13 17:08:37,Lagerhalle A
+ORD-10119,Verpacken und Labeldruck,2025-09-13 18:53:37,Packtisch 3
+ORD-10119,Versandübergabe,2025-09-13 21:53:37,Rampe 1
+ORD-10120,Wareneingang im LVS,2025-10-11 12:50:24,Server
+ORD-10120,Kommissionierung gestartet,2025-10-13 03:50:24,Lagerhalle A
+ORD-10120,Kommissionierung beendet,2025-10-13 04:16:24,Lagerhalle A
+ORD-10120,Verpacken und Labeldruck,2025-10-13 06:00:24,Packtisch 3
+ORD-10120,Versandübergabe,2025-10-13 09:00:24,Rampe 1
+ORD-10121,Wareneingang im LVS,2025-10-16 18:05:14,Server
+ORD-10121,Kommissionierung gestartet,2025-10-17 19:05:14,Lagerhalle A
+ORD-10121,Kommissionierung beendet,2025-10-17 19:28:14,Lagerhalle A
+ORD-10121,Verpacken und Labeldruck,2025-10-17 21:26:14,Packtisch 3
+ORD-10121,Versandübergabe,2025-10-18 01:26:14,Rampe 1
+ORD-10122,Wareneingang im LVS,2025-09-14 15:41:06,Server
+ORD-10122,Kommissionierung gestartet,2025-09-14 17:41:06,Lagerhalle A
+ORD-10122,Kommissionierung beendet,2025-09-14 18:04:06,Lagerhalle A
+ORD-10122,Verpacken und Labeldruck,2025-09-14 18:47:06,Packtisch 3
+ORD-10122,Versandübergabe,2025-09-14 22:47:06,Rampe 1
+ORD-10123,Wareneingang im LVS,2025-10-14 17:49:37,Server
+ORD-10123,Kommissionierung gestartet,2025-10-15 15:49:37,Lagerhalle A
+ORD-10123,Kommissionierung beendet,2025-10-15 16:18:37,Lagerhalle A
+ORD-10123,Verpacken und Labeldruck,2025-10-15 16:55:37,Packtisch 3
+ORD-10123,Versandübergabe,2025-10-15 20:55:37,Rampe 1
+ORD-10124,Wareneingang im LVS,2025-10-07 15:04:48,Server
+ORD-10124,Kommissionierung gestartet,2025-10-09 13:04:48,Lagerhalle A
+ORD-10124,Kommissionierung beendet,2025-10-09 13:37:48,Lagerhalle A
+ORD-10124,Verpacken und Labeldruck,2025-10-09 15:19:48,Packtisch 3
+ORD-10124,Versandübergabe,2025-10-09 19:19:48,Rampe 1
+ORD-10125,Wareneingang im LVS,2025-09-29 06:48:57,Server
+ORD-10125,Kommissionierung gestartet,2025-10-01 04:48:57,Lagerhalle A
+ORD-10125,Kommissionierung beendet,2025-10-01 05:29:57,Lagerhalle A
+ORD-10125,Verpacken und Labeldruck,2025-10-01 07:08:57,Packtisch 3
+ORD-10125,Versandübergabe,2025-10-01 11:08:57,Rampe 1
+ORD-10126,Wareneingang im LVS,2025-10-29 01:55:11,Server
+ORD-10126,Kommissionierung gestartet,2025-10-29 04:55:11,Lagerhalle A
+ORD-10126,Kommissionierung beendet,2025-10-29 05:40:11,Lagerhalle A
+ORD-10126,Verpacken und Labeldruck,2025-10-29 06:11:11,Packtisch 3
+ORD-10126,Versandübergabe,2025-10-29 10:11:11,Rampe 1
+ORD-10127,Wareneingang im LVS,2025-10-06 16:47:21,Server
+ORD-10127,Kommissionierung gestartet,2025-10-07 04:47:21,Lagerhalle A
+ORD-10127,Kommissionierung beendet,2025-10-07 05:18:21,Lagerhalle A
+ORD-10127,Verpacken und Labeldruck,2025-10-07 06:35:21,Packtisch 3
+ORD-10127,Versandübergabe,2025-10-07 09:35:21,Rampe 1
+ORD-10128,Wareneingang im LVS,2025-09-08 15:08:08,Server
+ORD-10128,Kommissionierung gestartet,2025-09-09 21:08:08,Lagerhalle A
+ORD-10128,Kommissionierung beendet,2025-09-09 21:24:08,Lagerhalle A
+ORD-10128,Verpacken und Labeldruck,2025-09-09 22:34:08,Packtisch 3
+ORD-10128,Versandübergabe,2025-09-10 02:34:08,Rampe 1
+ORD-10129,Wareneingang im LVS,2025-10-15 15:19:20,Server
+ORD-10129,Kommissionierung gestartet,2025-10-16 18:19:20,Lagerhalle A
+ORD-10129,Kommissionierung beendet,2025-10-16 18:54:20,Lagerhalle A
+ORD-10129,Verpacken und Labeldruck,2025-10-16 20:45:20,Packtisch 3
+ORD-10129,Versandübergabe,2025-10-16 23:45:20,Rampe 1
+ORD-10130,Wareneingang im LVS,2025-10-02 09:47:46,Server
+ORD-10130,Kommissionierung gestartet,2025-10-02 19:47:46,Lagerhalle A
+ORD-10130,Kommissionierung beendet,2025-10-02 20:17:46,Lagerhalle A
+ORD-10130,Verpacken und Labeldruck,2025-10-02 21:40:46,Packtisch 3
+ORD-10130,Versandübergabe,2025-10-02 23:40:46,Rampe 1
+ORD-10131,Wareneingang im LVS,2025-09-04 18:40:14,Server
+ORD-10131,Kommissionierung gestartet,2025-09-04 21:40:14,Lagerhalle A
+ORD-10131,Kommissionierung beendet,2025-09-04 21:57:14,Lagerhalle A
+ORD-10131,Verpacken und Labeldruck,2025-09-04 22:45:14,Packtisch 3
+ORD-10131,Versandübergabe,2025-09-05 02:45:14,Rampe 1
+ORD-10132,Wareneingang im LVS,2025-10-23 10:05:33,Server
+ORD-10132,Kommissionierung gestartet,2025-10-24 01:05:33,Lagerhalle A
+ORD-10132,Kommissionierung beendet,2025-10-24 01:32:33,Lagerhalle A
+ORD-10132,Verpacken und Labeldruck,2025-10-24 03:03:33,Packtisch 3
+ORD-10132,Versandübergabe,2025-10-24 04:03:33,Rampe 1
+ORD-10133,Wareneingang im LVS,2025-10-22 19:02:11,Server
+ORD-10133,Kommissionierung gestartet,2025-10-24 07:02:11,Lagerhalle A
+ORD-10133,Kommissionierung beendet,2025-10-24 07:22:11,Lagerhalle A
+ORD-10133,Verpacken und Labeldruck,2025-10-24 09:02:11,Packtisch 3
+ORD-10133,Versandübergabe,2025-10-24 10:02:11,Rampe 1
+ORD-10134,Wareneingang im LVS,2025-09-06 19:24:19,Server
+ORD-10134,Kommissionierung gestartet,2025-09-07 04:24:19,Lagerhalle A
+ORD-10134,Kommissionierung beendet,2025-09-07 05:09:19,Lagerhalle A
+ORD-10134,Verpacken und Labeldruck,2025-09-07 05:45:19,Packtisch 3
+ORD-10134,Versandübergabe,2025-09-07 07:45:19,Rampe 1
+ORD-10135,Wareneingang im LVS,2025-10-18 17:13:33,Server
+ORD-10135,Kommissionierung gestartet,2025-10-19 06:13:33,Lagerhalle A
+ORD-10135,Kommissionierung beendet,2025-10-19 06:39:33,Lagerhalle A
+ORD-10135,Verpacken und Labeldruck,2025-10-19 08:34:33,Packtisch 3
+ORD-10135,Versandübergabe,2025-10-19 11:34:33,Rampe 1
+ORD-10136,Wareneingang im LVS,2025-10-06 10:22:47,Server
+ORD-10136,Kommissionierung gestartet,2025-10-07 07:22:47,Lagerhalle A
+ORD-10136,Kommissionierung beendet,2025-10-07 07:46:47,Lagerhalle A
+ORD-10136,Verpacken und Labeldruck,2025-10-07 08:15:47,Packtisch 3
+ORD-10136,Versandübergabe,2025-10-07 12:15:47,Rampe 1
+ORD-10137,Wareneingang im LVS,2025-10-28 12:27:52,Server
+ORD-10137,Kommissionierung gestartet,2025-10-30 05:27:52,Lagerhalle A
+ORD-10137,Kommissionierung beendet,2025-10-30 05:57:52,Lagerhalle A
+ORD-10137,Verpacken und Labeldruck,2025-10-30 07:48:52,Packtisch 3
+ORD-10137,Versandübergabe,2025-10-30 10:48:52,Rampe 1
+ORD-10138,Wareneingang im LVS,2025-09-12 12:41:40,Server
+ORD-10138,Kommissionierung gestartet,2025-09-13 00:41:40,Lagerhalle A
+ORD-10138,Kommissionierung beendet,2025-09-13 01:15:40,Lagerhalle A
+ORD-10138,Verpacken und Labeldruck,2025-09-13 02:06:40,Packtisch 3
+ORD-10138,Versandübergabe,2025-09-13 03:06:40,Rampe 1
+ORD-10139,Wareneingang im LVS,2025-09-22 11:13:19,Server
+ORD-10139,Kommissionierung gestartet,2025-09-22 18:13:19,Lagerhalle A
+ORD-10139,Kommissionierung beendet,2025-09-22 18:36:19,Lagerhalle A
+ORD-10139,Verpacken und Labeldruck,2025-09-22 19:29:19,Packtisch 3
+ORD-10139,Versandübergabe,2025-09-22 20:29:19,Rampe 1
+ORD-10140,Wareneingang im LVS,2025-09-07 05:54:03,Server
+ORD-10140,Kommissionierung gestartet,2025-09-07 19:54:03,Lagerhalle A
+ORD-10140,Kommissionierung beendet,2025-09-07 20:22:03,Lagerhalle A
+ORD-10140,Verpacken und Labeldruck,2025-09-07 21:19:03,Packtisch 3
+ORD-10140,Versandübergabe,2025-09-08 00:19:03,Rampe 1
+ORD-10141,Wareneingang im LVS,2025-10-20 09:12:18,Server
+ORD-10141,Kommissionierung gestartet,2025-10-20 23:12:18,Lagerhalle A
+ORD-10141,Kommissionierung beendet,2025-10-20 23:47:18,Lagerhalle A
+ORD-10141,Verpacken und Labeldruck,2025-10-21 01:10:18,Packtisch 3
+ORD-10141,Versandübergabe,2025-10-21 02:10:18,Rampe 1
+ORD-10142,Wareneingang im LVS,2025-09-10 18:45:23,Server
+ORD-10142,Kommissionierung gestartet,2025-09-12 10:45:23,Lagerhalle A
+ORD-10142,Kommissionierung beendet,2025-09-12 11:20:23,Lagerhalle A
+ORD-10142,Verpacken und Labeldruck,2025-09-12 12:31:23,Packtisch 3
+ORD-10142,Versandübergabe,2025-09-12 13:31:23,Rampe 1
+ORD-10143,Wareneingang im LVS,2025-09-17 16:05:34,Server
+ORD-10143,Kommissionierung gestartet,2025-09-18 23:05:34,Lagerhalle A
+ORD-10143,Kommissionierung beendet,2025-09-18 23:34:34,Lagerhalle A
+ORD-10143,Verpacken und Labeldruck,2025-09-19 00:54:34,Packtisch 3
+ORD-10143,Versandübergabe,2025-09-19 04:54:34,Rampe 1
+ORD-10144,Wareneingang im LVS,2025-09-30 12:00:50,Server
+ORD-10144,Kommissionierung gestartet,2025-10-01 15:00:50,Lagerhalle A
+ORD-10144,Kommissionierung beendet,2025-10-01 15:42:50,Lagerhalle A
+ORD-10144,Verpacken und Labeldruck,2025-10-01 16:52:50,Packtisch 3
+ORD-10144,Versandübergabe,2025-10-01 19:52:50,Rampe 1
+ORD-10145,Wareneingang im LVS,2025-09-15 11:10:31,Server
+ORD-10145,Kommissionierung gestartet,2025-09-16 19:10:31,Lagerhalle A
+ORD-10145,Kommissionierung beendet,2025-09-16 19:36:31,Lagerhalle A
+ORD-10145,Verpacken und Labeldruck,2025-09-16 21:20:31,Packtisch 3
+ORD-10145,Versandübergabe,2025-09-17 01:20:31,Rampe 1
+ORD-10146,Wareneingang im LVS,2025-10-24 15:32:43,Server
+ORD-10146,Kommissionierung gestartet,2025-10-25 16:32:43,Lagerhalle A
+ORD-10146,Kommissionierung beendet,2025-10-25 16:50:43,Lagerhalle A
+ORD-10146,Verpacken und Labeldruck,2025-10-25 18:04:43,Packtisch 3
+ORD-10146,Versandübergabe,2025-10-25 19:04:43,Rampe 1
+ORD-10147,Wareneingang im LVS,2025-10-12 14:16:20,Server
+ORD-10147,Kommissionierung gestartet,2025-10-12 20:16:20,Lagerhalle A
+ORD-10147,Kommissionierung beendet,2025-10-12 21:01:20,Lagerhalle A
+ORD-10147,Verpacken und Labeldruck,2025-10-12 21:33:20,Packtisch 3
+ORD-10147,Versandübergabe,2025-10-13 00:33:20,Rampe 1
+ORD-10148,Wareneingang im LVS,2025-10-15 11:18:41,Server
+ORD-10148,Kommissionierung gestartet,2025-10-16 02:18:41,Lagerhalle A
+ORD-10148,Kommissionierung beendet,2025-10-16 02:52:41,Lagerhalle A
+ORD-10148,Verpacken und Labeldruck,2025-10-16 04:10:41,Packtisch 3
+ORD-10148,Versandübergabe,2025-10-16 06:10:41,Rampe 1
+ORD-10149,Wareneingang im LVS,2025-09-13 12:08:12,Server
+ORD-10149,Kommissionierung gestartet,2025-09-13 14:08:12,Lagerhalle A
+ORD-10149,Kommissionierung beendet,2025-09-13 14:43:12,Lagerhalle A
+ORD-10149,Verpacken und Labeldruck,2025-09-13 16:06:12,Packtisch 3
+ORD-10149,Versandübergabe,2025-09-13 17:06:12,Rampe 1
+ORD-10150,Wareneingang im LVS,2025-10-06 09:37:54,Server
+ORD-10150,Kommissionierung gestartet,2025-10-06 12:37:54,Lagerhalle A
+ORD-10150,Kommissionierung beendet,2025-10-06 13:02:54,Lagerhalle A
+ORD-10150,Verpacken und Labeldruck,2025-10-06 14:06:54,Packtisch 3
+ORD-10150,Versandübergabe,2025-10-06 15:06:54,Rampe 1
+ORD-10151,Wareneingang im LVS,2025-10-25 14:11:00,Server
+ORD-10151,Kommissionierung gestartet,2025-10-26 20:11:00,Lagerhalle A
+ORD-10151,Kommissionierung beendet,2025-10-26 20:47:00,Lagerhalle A
+ORD-10151,Verpacken und Labeldruck,2025-10-26 21:09:00,Packtisch 3
+ORD-10151,Versandübergabe,2025-10-27 00:09:00,Rampe 1
+ORD-10152,Wareneingang im LVS,2025-10-27 08:23:23,Server
+ORD-10152,Kommissionierung gestartet,2025-10-28 18:23:23,Lagerhalle A
+ORD-10152,Kommissionierung beendet,2025-10-28 19:05:23,Lagerhalle A
+ORD-10152,Verpacken und Labeldruck,2025-10-28 21:03:23,Packtisch 3
+ORD-10152,Versandübergabe,2025-10-29 01:03:23,Rampe 1
+ORD-10153,Wareneingang im LVS,2025-10-06 18:19:41,Server
+ORD-10153,Kommissionierung gestartet,2025-10-07 12:19:41,Lagerhalle A
+ORD-10153,Kommissionierung beendet,2025-10-07 12:42:41,Lagerhalle A
+ORD-10153,Verpacken und Labeldruck,2025-10-07 13:20:41,Packtisch 3
+ORD-10153,Versandübergabe,2025-10-07 16:20:41,Rampe 1
+ORD-10154,Wareneingang im LVS,2025-09-10 18:05:19,Server
+ORD-10154,Kommissionierung gestartet,2025-09-10 22:05:19,Lagerhalle A
+ORD-10154,Kommissionierung beendet,2025-09-10 22:41:19,Lagerhalle A
+ORD-10154,Verpacken und Labeldruck,2025-09-10 22:55:19,Packtisch 3
+ORD-10154,Versandübergabe,2025-09-11 01:55:19,Rampe 1
+ORD-10155,Wareneingang im LVS,2025-10-20 15:41:19,Server
+ORD-10155,Kommissionierung gestartet,2025-10-21 00:41:19,Lagerhalle A
+ORD-10155,Kommissionierung beendet,2025-10-21 01:09:19,Lagerhalle A
+ORD-10155,Verpacken und Labeldruck,2025-10-21 01:28:19,Packtisch 3
+ORD-10155,Versandübergabe,2025-10-21 03:28:19,Rampe 1
+ORD-10156,Wareneingang im LVS,2025-09-09 14:57:14,Server
+ORD-10156,Kommissionierung gestartet,2025-09-11 07:57:14,Lagerhalle A
+ORD-10156,Kommissionierung beendet,2025-09-11 08:40:14,Lagerhalle A
+ORD-10156,Verpacken und Labeldruck,2025-09-11 09:31:14,Packtisch 3
+ORD-10156,Versandübergabe,2025-09-11 11:31:14,Rampe 1
+ORD-10157,Wareneingang im LVS,2025-10-01 15:49:29,Server
+ORD-10157,Kommissionierung gestartet,2025-10-02 07:49:29,Lagerhalle A
+ORD-10157,Kommissionierung beendet,2025-10-02 08:05:29,Lagerhalle A
+ORD-10157,Verpacken und Labeldruck,2025-10-02 09:21:29,Packtisch 3
+ORD-10157,Versandübergabe,2025-10-02 11:21:29,Rampe 1
+ORD-10158,Wareneingang im LVS,2025-09-26 18:15:28,Server
+ORD-10158,Kommissionierung gestartet,2025-09-27 12:15:28,Lagerhalle A
+ORD-10158,Kommissionierung beendet,2025-09-27 12:58:28,Lagerhalle A
+ORD-10158,Verpacken und Labeldruck,2025-09-27 14:32:28,Packtisch 3
+ORD-10158,Versandübergabe,2025-09-27 18:32:28,Rampe 1
+ORD-10159,Wareneingang im LVS,2025-10-07 08:50:20,Server
+ORD-10159,Kommissionierung gestartet,2025-10-09 03:50:20,Lagerhalle A
+ORD-10159,Kommissionierung beendet,2025-10-09 04:11:20,Lagerhalle A
+ORD-10159,Verpacken und Labeldruck,2025-10-09 05:45:20,Packtisch 3
+ORD-10159,Versandübergabe,2025-10-09 06:45:20,Rampe 1
+ORD-10160,Wareneingang im LVS,2025-10-24 10:34:35,Server
+ORD-10160,Kommissionierung gestartet,2025-10-25 10:34:35,Lagerhalle A
+ORD-10160,Kommissionierung beendet,2025-10-25 11:09:35,Lagerhalle A
+ORD-10160,Verpacken und Labeldruck,2025-10-25 12:01:35,Packtisch 3
+ORD-10160,Versandübergabe,2025-10-25 15:01:35,Rampe 1
+ORD-10161,Wareneingang im LVS,2025-10-12 05:49:36,Server
+ORD-10161,Kommissionierung gestartet,2025-10-13 01:49:36,Lagerhalle A
+ORD-10161,Kommissionierung beendet,2025-10-13 02:19:36,Lagerhalle A
+ORD-10161,Verpacken und Labeldruck,2025-10-13 03:43:36,Packtisch 3
+ORD-10161,Versandübergabe,2025-10-13 05:43:36,Rampe 1
+ORD-10162,Wareneingang im LVS,2025-09-15 15:04:53,Server
+ORD-10162,Kommissionierung gestartet,2025-09-15 22:04:53,Lagerhalle A
+ORD-10162,Kommissionierung beendet,2025-09-15 22:20:53,Lagerhalle A
+ORD-10162,Verpacken und Labeldruck,2025-09-15 23:42:53,Packtisch 3
+ORD-10162,Versandübergabe,2025-09-16 01:42:53,Rampe 1
+ORD-10163,Wareneingang im LVS,2025-09-04 11:35:39,Server
+ORD-10163,Kommissionierung gestartet,2025-09-05 15:35:39,Lagerhalle A
+ORD-10163,Kommissionierung beendet,2025-09-05 15:58:39,Lagerhalle A
+ORD-10163,Verpacken und Labeldruck,2025-09-05 17:53:39,Packtisch 3
+ORD-10163,Versandübergabe,2025-09-05 18:53:39,Rampe 1
+ORD-10164,Wareneingang im LVS,2025-10-27 14:51:14,Server
+ORD-10164,Kommissionierung gestartet,2025-10-29 06:51:14,Lagerhalle A
+ORD-10164,Kommissionierung beendet,2025-10-29 07:09:14,Lagerhalle A
+ORD-10164,Verpacken und Labeldruck,2025-10-29 07:36:14,Packtisch 3
+ORD-10164,Versandübergabe,2025-10-29 09:36:14,Rampe 1
+ORD-10165,Wareneingang im LVS,2025-09-20 18:02:12,Server
+ORD-10165,Kommissionierung gestartet,2025-09-22 03:02:12,Lagerhalle A
+ORD-10165,Kommissionierung beendet,2025-09-22 03:31:12,Lagerhalle A
+ORD-10165,Verpacken und Labeldruck,2025-09-22 04:47:12,Packtisch 3
+ORD-10165,Versandübergabe,2025-09-22 05:47:12,Rampe 1
+ORD-10166,Wareneingang im LVS,2025-09-01 10:21:55,Server
+ORD-10166,Kommissionierung gestartet,2025-09-01 23:21:55,Lagerhalle A
+ORD-10166,Kommissionierung beendet,2025-09-02 00:02:55,Lagerhalle A
+ORD-10166,Verpacken und Labeldruck,2025-09-02 00:17:55,Packtisch 3
+ORD-10166,Versandübergabe,2025-09-02 04:17:55,Rampe 1
+ORD-10167,Wareneingang im LVS,2025-09-30 17:37:10,Server
+ORD-10167,Kommissionierung gestartet,2025-09-30 22:37:10,Lagerhalle A
+ORD-10167,Kommissionierung beendet,2025-09-30 23:18:10,Lagerhalle A
+ORD-10167,Verpacken und Labeldruck,2025-09-30 23:35:10,Packtisch 3
+ORD-10167,Versandübergabe,2025-10-01 03:35:10,Rampe 1
+ORD-10168,Wareneingang im LVS,2025-10-21 14:16:17,Server
+ORD-10168,Kommissionierung gestartet,2025-10-23 01:16:17,Lagerhalle A
+ORD-10168,Kommissionierung beendet,2025-10-23 01:50:17,Lagerhalle A
+ORD-10168,Verpacken und Labeldruck,2025-10-23 03:43:17,Packtisch 3
+ORD-10168,Versandübergabe,2025-10-23 05:43:17,Rampe 1
+ORD-10169,Wareneingang im LVS,2025-10-27 11:07:52,Server
+ORD-10169,Kommissionierung gestartet,2025-10-27 22:07:52,Lagerhalle A
+ORD-10169,Kommissionierung beendet,2025-10-27 22:29:52,Lagerhalle A
+ORD-10169,Verpacken und Labeldruck,2025-10-28 00:10:52,Packtisch 3
+ORD-10169,Versandübergabe,2025-10-28 02:10:52,Rampe 1
+ORD-10170,Wareneingang im LVS,2025-09-11 18:44:35,Server
+ORD-10170,Kommissionierung gestartet,2025-09-12 07:44:35,Lagerhalle A
+ORD-10170,Kommissionierung beendet,2025-09-12 08:23:35,Lagerhalle A
+ORD-10170,Verpacken und Labeldruck,2025-09-12 09:17:35,Packtisch 3
+ORD-10170,Versandübergabe,2025-09-12 11:17:35,Rampe 1
+ORD-10171,Wareneingang im LVS,2025-09-05 13:16:39,Server
+ORD-10171,Kommissionierung gestartet,2025-09-06 03:16:39,Lagerhalle A
+ORD-10171,Kommissionierung beendet,2025-09-06 03:53:39,Lagerhalle A
+ORD-10171,Verpacken und Labeldruck,2025-09-06 04:33:39,Packtisch 3
+ORD-10171,Versandübergabe,2025-09-06 08:33:39,Rampe 1
+ORD-10172,Wareneingang im LVS,2025-10-27 15:25:41,Server
+ORD-10172,Kommissionierung gestartet,2025-10-28 14:25:41,Lagerhalle A
+ORD-10172,Kommissionierung beendet,2025-10-28 14:48:41,Lagerhalle A
+ORD-10172,Verpacken und Labeldruck,2025-10-28 16:23:41,Packtisch 3
+ORD-10172,Versandübergabe,2025-10-28 19:23:41,Rampe 1
+ORD-10173,Wareneingang im LVS,2025-09-14 17:26:37,Server
+ORD-10173,Kommissionierung gestartet,2025-09-15 19:26:37,Lagerhalle A
+ORD-10173,Kommissionierung beendet,2025-09-15 19:49:37,Lagerhalle A
+ORD-10173,Verpacken und Labeldruck,2025-09-15 21:41:37,Packtisch 3
+ORD-10173,Versandübergabe,2025-09-16 01:41:37,Rampe 1
+ORD-10174,Wareneingang im LVS,2025-09-08 09:24:48,Server
+ORD-10174,Kommissionierung gestartet,2025-09-08 23:24:48,Lagerhalle A
+ORD-10174,Kommissionierung beendet,2025-09-09 00:09:48,Lagerhalle A
+ORD-10174,Verpacken und Labeldruck,2025-09-09 00:24:48,Packtisch 3
+ORD-10174,Versandübergabe,2025-09-09 02:24:48,Rampe 1
+ORD-10175,Wareneingang im LVS,2025-10-03 14:13:35,Server
+ORD-10175,Kommissionierung gestartet,2025-10-04 15:13:35,Lagerhalle A
+ORD-10175,Kommissionierung beendet,2025-10-04 15:34:35,Lagerhalle A
+ORD-10175,Verpacken und Labeldruck,2025-10-04 16:35:35,Packtisch 3
+ORD-10175,Versandübergabe,2025-10-04 20:35:35,Rampe 1
+ORD-10176,Wareneingang im LVS,2025-09-26 15:28:01,Server
+ORD-10176,Kommissionierung gestartet,2025-09-27 18:28:01,Lagerhalle A
+ORD-10176,Kommissionierung beendet,2025-09-27 19:13:01,Lagerhalle A
+ORD-10176,Verpacken und Labeldruck,2025-09-27 20:39:01,Packtisch 3
+ORD-10176,Versandübergabe,2025-09-27 21:39:01,Rampe 1
+ORD-10177,Wareneingang im LVS,2025-09-21 16:26:39,Server
+ORD-10177,Kommissionierung gestartet,2025-09-23 03:26:39,Lagerhalle A
+ORD-10177,Kommissionierung beendet,2025-09-23 03:41:39,Lagerhalle A
+ORD-10177,Verpacken und Labeldruck,2025-09-23 05:39:39,Packtisch 3
+ORD-10177,Versandübergabe,2025-09-23 06:39:39,Rampe 1
+ORD-10178,Wareneingang im LVS,2025-10-25 04:06:42,Server
+ORD-10178,Kommissionierung gestartet,2025-10-26 07:06:42,Lagerhalle A
+ORD-10178,Kommissionierung beendet,2025-10-26 07:38:42,Lagerhalle A
+ORD-10178,Verpacken und Labeldruck,2025-10-26 08:25:42,Packtisch 3
+ORD-10178,Versandübergabe,2025-10-26 12:25:42,Rampe 1
+ORD-10179,Wareneingang im LVS,2025-09-22 12:45:24,Server
+ORD-10179,Kommissionierung gestartet,2025-09-24 01:45:24,Lagerhalle A
+ORD-10179,Kommissionierung beendet,2025-09-24 02:23:24,Lagerhalle A
+ORD-10179,Verpacken und Labeldruck,2025-09-24 03:36:24,Packtisch 3
+ORD-10179,Versandübergabe,2025-09-24 05:36:24,Rampe 1
+ORD-10180,Wareneingang im LVS,2025-10-04 09:05:34,Server
+ORD-10180,Kommissionierung gestartet,2025-10-06 02:05:34,Lagerhalle A
+ORD-10180,Kommissionierung beendet,2025-10-06 02:48:34,Lagerhalle A
+ORD-10180,Verpacken und Labeldruck,2025-10-06 04:14:34,Packtisch 3
+ORD-10180,Versandübergabe,2025-10-06 08:14:34,Rampe 1
+ORD-10181,Wareneingang im LVS,2025-10-16 08:23:41,Server
+ORD-10181,Kommissionierung gestartet,2025-10-16 23:23:41,Lagerhalle A
+ORD-10181,Kommissionierung beendet,2025-10-17 00:04:41,Lagerhalle A
+ORD-10181,Verpacken und Labeldruck,2025-10-17 00:29:41,Packtisch 3
+ORD-10181,Versandübergabe,2025-10-17 04:29:41,Rampe 1
+ORD-10182,Wareneingang im LVS,2025-10-04 14:56:29,Server
+ORD-10182,Kommissionierung gestartet,2025-10-05 21:56:29,Lagerhalle A
+ORD-10182,Kommissionierung beendet,2025-10-05 22:35:29,Lagerhalle A
+ORD-10182,Verpacken und Labeldruck,2025-10-05 23:05:29,Packtisch 3
+ORD-10182,Versandübergabe,2025-10-06 02:05:29,Rampe 1
+ORD-10183,Wareneingang im LVS,2025-10-11 15:38:44,Server
+ORD-10183,Kommissionierung gestartet,2025-10-13 06:38:44,Lagerhalle A
+ORD-10183,Kommissionierung beendet,2025-10-13 07:05:44,Lagerhalle A
+ORD-10183,Verpacken und Labeldruck,2025-10-13 08:46:44,Packtisch 3
+ORD-10183,Versandübergabe,2025-10-13 12:46:44,Rampe 1
+ORD-10184,Wareneingang im LVS,2025-09-14 17:21:31,Server
+ORD-10184,Kommissionierung gestartet,2025-09-15 23:21:31,Lagerhalle A
+ORD-10184,Kommissionierung beendet,2025-09-16 00:02:31,Lagerhalle A
+ORD-10184,Verpacken und Labeldruck,2025-09-16 01:00:31,Packtisch 3
+ORD-10184,Versandübergabe,2025-09-16 05:00:31,Rampe 1
+ORD-10185,Wareneingang im LVS,2025-09-10 18:00:22,Server
+ORD-10185,Kommissionierung gestartet,2025-09-12 08:00:22,Lagerhalle A
+ORD-10185,Kommissionierung beendet,2025-09-12 08:32:22,Lagerhalle A
+ORD-10185,Verpacken und Labeldruck,2025-09-12 09:29:22,Packtisch 3
+ORD-10185,Versandübergabe,2025-09-12 10:29:22,Rampe 1
+ORD-10186,Wareneingang im LVS,2025-09-06 23:58:23,Server
+ORD-10186,Kommissionierung gestartet,2025-09-08 00:58:23,Lagerhalle A
+ORD-10186,Kommissionierung beendet,2025-09-08 01:15:23,Lagerhalle A
+ORD-10186,Verpacken und Labeldruck,2025-09-08 02:01:23,Packtisch 3
+ORD-10186,Versandübergabe,2025-09-08 03:01:23,Rampe 1
+ORD-10187,Wareneingang im LVS,2025-09-05 09:19:06,Server
+ORD-10187,Kommissionierung gestartet,2025-09-07 08:19:06,Lagerhalle A
+ORD-10187,Kommissionierung beendet,2025-09-07 08:54:06,Lagerhalle A
+ORD-10187,Verpacken und Labeldruck,2025-09-07 09:32:06,Packtisch 3
+ORD-10187,Versandübergabe,2025-09-07 10:32:06,Rampe 1
+ORD-10188,Wareneingang im LVS,2025-09-03 14:17:24,Server
+ORD-10188,Kommissionierung gestartet,2025-09-04 18:17:24,Lagerhalle A
+ORD-10188,Kommissionierung beendet,2025-09-04 18:40:24,Lagerhalle A
+ORD-10188,Verpacken und Labeldruck,2025-09-04 19:38:24,Packtisch 3
+ORD-10188,Versandübergabe,2025-09-04 23:38:24,Rampe 1
+ORD-10189,Wareneingang im LVS,2025-10-06 18:15:48,Server
+ORD-10189,Kommissionierung gestartet,2025-10-08 03:15:48,Lagerhalle A
+ORD-10189,Kommissionierung beendet,2025-10-08 03:37:48,Lagerhalle A
+ORD-10189,Verpacken und Labeldruck,2025-10-08 04:31:48,Packtisch 3
+ORD-10189,Versandübergabe,2025-10-08 08:31:48,Rampe 1
+ORD-10190,Wareneingang im LVS,2025-09-30 09:28:01,Server
+ORD-10190,Kommissionierung gestartet,2025-10-02 01:28:01,Lagerhalle A
+ORD-10190,Kommissionierung beendet,2025-10-02 02:06:01,Lagerhalle A
+ORD-10190,Verpacken und Labeldruck,2025-10-02 03:31:01,Packtisch 3
+ORD-10190,Versandübergabe,2025-10-02 06:31:01,Rampe 1
+ORD-10191,Wareneingang im LVS,2025-09-20 13:37:21,Server
+ORD-10191,Kommissionierung gestartet,2025-09-20 16:37:21,Lagerhalle A
+ORD-10191,Kommissionierung beendet,2025-09-20 17:16:21,Lagerhalle A
+ORD-10191,Verpacken und Labeldruck,2025-09-20 18:39:21,Packtisch 3
+ORD-10191,Versandübergabe,2025-09-20 22:39:21,Rampe 1
+ORD-10192,Wareneingang im LVS,2025-09-28 17:05:22,Server
+ORD-10192,Kommissionierung gestartet,2025-09-29 04:05:22,Lagerhalle A
+ORD-10192,Kommissionierung beendet,2025-09-29 04:27:22,Lagerhalle A
+ORD-10192,Verpacken und Labeldruck,2025-09-29 05:19:22,Packtisch 3
+ORD-10192,Versandübergabe,2025-09-29 08:19:22,Rampe 1
+ORD-10193,Wareneingang im LVS,2025-10-16 14:58:26,Server
+ORD-10193,Kommissionierung gestartet,2025-10-17 08:58:26,Lagerhalle A
+ORD-10193,Kommissionierung beendet,2025-10-17 09:19:26,Lagerhalle A
+ORD-10193,Verpacken und Labeldruck,2025-10-17 10:26:26,Packtisch 3
+ORD-10193,Versandübergabe,2025-10-17 12:26:26,Rampe 1
+ORD-10194,Wareneingang im LVS,2025-10-28 14:11:19,Server
+ORD-10194,Kommissionierung gestartet,2025-10-29 17:11:19,Lagerhalle A
+ORD-10194,Kommissionierung beendet,2025-10-29 17:27:19,Lagerhalle A
+ORD-10194,Verpacken und Labeldruck,2025-10-29 17:45:19,Packtisch 3
+ORD-10194,Versandübergabe,2025-10-29 20:45:19,Rampe 1
+ORD-10195,Wareneingang im LVS,2025-09-20 22:38:27,Server
+ORD-10195,Kommissionierung gestartet,2025-09-21 01:38:27,Lagerhalle A
+ORD-10195,Kommissionierung beendet,2025-09-21 01:56:27,Lagerhalle A
+ORD-10195,Verpacken und Labeldruck,2025-09-21 03:45:27,Packtisch 3
+ORD-10195,Versandübergabe,2025-09-21 07:45:27,Rampe 1
+ORD-10196,Wareneingang im LVS,2025-09-28 09:42:54,Server
+ORD-10196,Kommissionierung gestartet,2025-09-30 07:42:54,Lagerhalle A
+ORD-10196,Kommissionierung beendet,2025-09-30 08:27:54,Lagerhalle A
+ORD-10196,Verpacken und Labeldruck,2025-09-30 09:34:54,Packtisch 3
+ORD-10196,Versandübergabe,2025-09-30 10:34:54,Rampe 1
+ORD-10197,Wareneingang im LVS,2025-10-06 03:47:45,Server
+ORD-10197,Kommissionierung gestartet,2025-10-06 18:47:45,Lagerhalle A
+ORD-10197,Kommissionierung beendet,2025-10-06 19:18:45,Lagerhalle A
+ORD-10197,Verpacken und Labeldruck,2025-10-06 19:47:45,Packtisch 3
+ORD-10197,Versandübergabe,2025-10-06 21:47:45,Rampe 1
+ORD-10198,Wareneingang im LVS,2025-09-19 13:56:45,Server
+ORD-10198,Kommissionierung gestartet,2025-09-21 07:56:45,Lagerhalle A
+ORD-10198,Kommissionierung beendet,2025-09-21 08:15:45,Lagerhalle A
+ORD-10198,Verpacken und Labeldruck,2025-09-21 10:09:45,Packtisch 3
+ORD-10198,Versandübergabe,2025-09-21 11:09:45,Rampe 1
+ORD-10199,Wareneingang im LVS,2025-10-05 10:31:37,Server
+ORD-10199,Kommissionierung gestartet,2025-10-06 22:31:37,Lagerhalle A
+ORD-10199,Kommissionierung beendet,2025-10-06 23:05:37,Lagerhalle A
+ORD-10199,Verpacken und Labeldruck,2025-10-07 00:00:37,Packtisch 3
+ORD-10199,Versandübergabe,2025-10-07 04:00:37,Rampe 1
+ORD-10200,Wareneingang im LVS,2025-09-24 12:21:22,Server
+ORD-10200,Kommissionierung gestartet,2025-09-24 21:21:22,Lagerhalle A
+ORD-10200,Kommissionierung beendet,2025-09-24 21:51:22,Lagerhalle A
+ORD-10200,Verpacken und Labeldruck,2025-09-24 23:08:22,Packtisch 3
+ORD-10200,Versandübergabe,2025-09-25 01:08:22,Rampe 1
+ORD-10201,Wareneingang im LVS,2025-09-01 22:01:42,Server
+ORD-10201,Kommissionierung gestartet,2025-09-03 17:01:42,Lagerhalle A
+ORD-10201,Kommissionierung beendet,2025-09-03 17:21:42,Lagerhalle A
+ORD-10201,Verpacken und Labeldruck,2025-09-03 17:31:42,Packtisch 3
+ORD-10201,Versandübergabe,2025-09-03 18:31:42,Rampe 1
+ORD-10202,Wareneingang im LVS,2025-09-26 13:39:44,Server
+ORD-10202,Kommissionierung gestartet,2025-09-27 17:39:44,Lagerhalle A
+ORD-10202,Kommissionierung beendet,2025-09-27 18:15:44,Lagerhalle A
+ORD-10202,Verpacken und Labeldruck,2025-09-27 19:18:44,Packtisch 3
+ORD-10202,Versandübergabe,2025-09-27 21:18:44,Rampe 1
+ORD-10203,Wareneingang im LVS,2025-09-09 16:29:32,Server
+ORD-10203,Kommissionierung gestartet,2025-09-11 06:29:32,Lagerhalle A
+ORD-10203,Kommissionierung beendet,2025-09-11 06:50:32,Lagerhalle A
+ORD-10203,Verpacken und Labeldruck,2025-09-11 07:08:32,Packtisch 3
+ORD-10203,Versandübergabe,2025-09-11 08:08:32,Rampe 1
+ORD-10204,Wareneingang im LVS,2025-09-24 09:16:48,Server
+ORD-10204,Kommissionierung gestartet,2025-09-25 18:16:48,Lagerhalle A
+ORD-10204,Kommissionierung beendet,2025-09-25 18:41:48,Lagerhalle A
+ORD-10204,Verpacken und Labeldruck,2025-09-25 20:40:48,Packtisch 3
+ORD-10204,Versandübergabe,2025-09-26 00:40:48,Rampe 1
+ORD-10205,Wareneingang im LVS,2025-10-16 14:48:38,Server
+ORD-10205,Kommissionierung gestartet,2025-10-17 13:48:38,Lagerhalle A
+ORD-10205,Kommissionierung beendet,2025-10-17 14:24:38,Lagerhalle A
+ORD-10205,Verpacken und Labeldruck,2025-10-17 14:56:38,Packtisch 3
+ORD-10205,Versandübergabe,2025-10-17 16:56:38,Rampe 1
+ORD-10206,Wareneingang im LVS,2025-09-02 14:11:33,Server
+ORD-10206,Kommissionierung gestartet,2025-09-03 08:11:33,Lagerhalle A
+ORD-10206,Kommissionierung beendet,2025-09-03 08:48:33,Lagerhalle A
+ORD-10206,Verpacken und Labeldruck,2025-09-03 10:18:33,Packtisch 3
+ORD-10206,Versandübergabe,2025-09-03 11:18:33,Rampe 1
+ORD-10207,Wareneingang im LVS,2025-09-20 10:19:31,Server
+ORD-10207,Kommissionierung gestartet,2025-09-21 02:19:31,Lagerhalle A
+ORD-10207,Kommissionierung beendet,2025-09-21 02:56:31,Lagerhalle A
+ORD-10207,Verpacken und Labeldruck,2025-09-21 03:25:31,Packtisch 3
+ORD-10207,Versandübergabe,2025-09-21 05:25:31,Rampe 1
+ORD-10208,Wareneingang im LVS,2025-09-21 10:21:46,Server
+ORD-10208,Kommissionierung gestartet,2025-09-23 00:21:46,Lagerhalle A
+ORD-10208,Kommissionierung beendet,2025-09-23 00:50:46,Lagerhalle A
+ORD-10208,Verpacken und Labeldruck,2025-09-23 01:05:46,Packtisch 3
+ORD-10208,Versandübergabe,2025-09-23 02:05:46,Rampe 1
+ORD-10209,Wareneingang im LVS,2025-10-02 03:41:59,Server
+ORD-10209,Kommissionierung gestartet,2025-10-03 09:41:59,Lagerhalle A
+ORD-10209,Kommissionierung beendet,2025-10-03 10:10:59,Lagerhalle A
+ORD-10209,Verpacken und Labeldruck,2025-10-03 11:02:59,Packtisch 3
+ORD-10209,Versandübergabe,2025-10-03 15:02:59,Rampe 1
+ORD-10210,Wareneingang im LVS,2025-09-06 15:45:48,Server
+ORD-10210,Kommissionierung gestartet,2025-09-07 23:45:48,Lagerhalle A
+ORD-10210,Kommissionierung beendet,2025-09-08 00:11:48,Lagerhalle A
+ORD-10210,Verpacken und Labeldruck,2025-09-08 01:54:48,Packtisch 3
+ORD-10210,Versandübergabe,2025-09-08 04:54:48,Rampe 1
+ORD-10211,Wareneingang im LVS,2025-10-24 14:05:44,Server
+ORD-10211,Kommissionierung gestartet,2025-10-25 08:05:44,Lagerhalle A
+ORD-10211,Kommissionierung beendet,2025-10-25 08:50:44,Lagerhalle A
+ORD-10211,Verpacken und Labeldruck,2025-10-25 09:16:44,Packtisch 3
+ORD-10211,Versandübergabe,2025-10-25 12:16:44,Rampe 1
+ORD-10212,Wareneingang im LVS,2025-10-30 14:44:33,Server
+ORD-10212,Kommissionierung gestartet,2025-11-01 14:44:33,Lagerhalle A
+ORD-10212,Kommissionierung beendet,2025-11-01 15:12:33,Lagerhalle A
+ORD-10212,Verpacken und Labeldruck,2025-11-01 16:19:33,Packtisch 3
+ORD-10212,Versandübergabe,2025-11-01 18:19:33,Rampe 1
+ORD-10213,Wareneingang im LVS,2025-10-17 18:46:33,Server
+ORD-10213,Kommissionierung gestartet,2025-10-19 15:46:33,Lagerhalle A
+ORD-10213,Kommissionierung beendet,2025-10-19 16:18:33,Lagerhalle A
+ORD-10213,Verpacken und Labeldruck,2025-10-19 18:14:33,Packtisch 3
+ORD-10213,Versandübergabe,2025-10-19 20:14:33,Rampe 1
+ORD-10214,Wareneingang im LVS,2025-10-15 15:32:49,Server
+ORD-10214,Kommissionierung gestartet,2025-10-17 03:32:49,Lagerhalle A
+ORD-10214,Kommissionierung beendet,2025-10-17 04:12:49,Lagerhalle A
+ORD-10214,Verpacken und Labeldruck,2025-10-17 05:20:49,Packtisch 3
+ORD-10214,Versandübergabe,2025-10-17 09:20:49,Rampe 1
+ORD-10215,Wareneingang im LVS,2025-09-15 09:09:12,Server
+ORD-10215,Kommissionierung gestartet,2025-09-17 02:09:12,Lagerhalle A
+ORD-10215,Kommissionierung beendet,2025-09-17 02:35:12,Lagerhalle A
+ORD-10215,Verpacken und Labeldruck,2025-09-17 03:46:12,Packtisch 3
+ORD-10215,Versandübergabe,2025-09-17 06:46:12,Rampe 1
+ORD-10216,Wareneingang im LVS,2025-10-22 17:25:51,Server
+ORD-10216,Kommissionierung gestartet,2025-10-23 20:25:51,Lagerhalle A
+ORD-10216,Kommissionierung beendet,2025-10-23 20:57:51,Lagerhalle A
+ORD-10216,Verpacken und Labeldruck,2025-10-23 22:00:51,Packtisch 3
+ORD-10216,Versandübergabe,2025-10-23 23:00:51,Rampe 1
+ORD-10217,Wareneingang im LVS,2025-09-22 19:04:32,Server
+ORD-10217,Kommissionierung gestartet,2025-09-24 17:04:32,Lagerhalle A
+ORD-10217,Kommissionierung beendet,2025-09-24 17:44:32,Lagerhalle A
+ORD-10217,Verpacken und Labeldruck,2025-09-24 19:35:32,Packtisch 3
+ORD-10217,Versandübergabe,2025-09-24 22:35:32,Rampe 1
+ORD-10218,Wareneingang im LVS,2025-10-22 09:20:18,Server
+ORD-10218,Kommissionierung gestartet,2025-10-23 06:20:18,Lagerhalle A
+ORD-10218,Kommissionierung beendet,2025-10-23 06:42:18,Lagerhalle A
+ORD-10218,Verpacken und Labeldruck,2025-10-23 08:01:18,Packtisch 3
+ORD-10218,Versandübergabe,2025-10-23 11:01:18,Rampe 1
+ORD-10219,Wareneingang im LVS,2025-10-23 09:00:36,Server
+ORD-10219,Kommissionierung gestartet,2025-10-24 05:00:36,Lagerhalle A
+ORD-10219,Kommissionierung beendet,2025-10-24 05:44:36,Lagerhalle A
+ORD-10219,Verpacken und Labeldruck,2025-10-24 05:56:36,Packtisch 3
+ORD-10219,Versandübergabe,2025-10-24 09:56:36,Rampe 1
+ORD-10220,Wareneingang im LVS,2025-10-29 10:33:50,Server
+ORD-10220,Kommissionierung gestartet,2025-10-30 23:33:50,Lagerhalle A
+ORD-10220,Kommissionierung beendet,2025-10-30 23:53:50,Lagerhalle A
+ORD-10220,Verpacken und Labeldruck,2025-10-31 01:27:50,Packtisch 3
+ORD-10220,Versandübergabe,2025-10-31 02:27:50,Rampe 1
+ORD-10221,Wareneingang im LVS,2025-09-26 08:59:44,Server
+ORD-10221,Kommissionierung gestartet,2025-09-27 17:59:44,Lagerhalle A
+ORD-10221,Kommissionierung beendet,2025-09-27 18:28:44,Lagerhalle A
+ORD-10221,Verpacken und Labeldruck,2025-09-27 18:41:44,Packtisch 3
+ORD-10221,Versandübergabe,2025-09-27 20:41:44,Rampe 1
+ORD-10222,Wareneingang im LVS,2025-09-29 09:34:46,Server
+ORD-10222,Kommissionierung gestartet,2025-10-01 07:34:46,Lagerhalle A
+ORD-10222,Kommissionierung beendet,2025-10-01 08:04:46,Lagerhalle A
+ORD-10222,Verpacken und Labeldruck,2025-10-01 09:58:46,Packtisch 3
+ORD-10222,Versandübergabe,2025-10-01 10:58:46,Rampe 1
+ORD-10223,Wareneingang im LVS,2025-10-21 17:44:58,Server
+ORD-10223,Kommissionierung gestartet,2025-10-23 13:44:58,Lagerhalle A
+ORD-10223,Kommissionierung beendet,2025-10-23 14:02:58,Lagerhalle A
+ORD-10223,Verpacken und Labeldruck,2025-10-23 14:53:58,Packtisch 3
+ORD-10223,Versandübergabe,2025-10-23 17:53:58,Rampe 1
+ORD-10224,Wareneingang im LVS,2025-09-09 12:48:06,Server
+ORD-10224,Kommissionierung gestartet,2025-09-09 18:48:06,Lagerhalle A
+ORD-10224,Kommissionierung beendet,2025-09-09 19:12:06,Lagerhalle A
+ORD-10224,Verpacken und Labeldruck,2025-09-09 19:44:06,Packtisch 3
+ORD-10224,Versandübergabe,2025-09-09 23:44:06,Rampe 1
+ORD-10225,Wareneingang im LVS,2025-10-05 10:03:41,Server
+ORD-10225,Kommissionierung gestartet,2025-10-06 11:03:41,Lagerhalle A
+ORD-10225,Kommissionierung beendet,2025-10-06 11:46:41,Lagerhalle A
+ORD-10225,Verpacken und Labeldruck,2025-10-06 12:29:41,Packtisch 3
+ORD-10225,Versandübergabe,2025-10-06 14:29:41,Rampe 1
+ORD-10226,Wareneingang im LVS,2025-09-27 09:17:58,Server
+ORD-10226,Kommissionierung gestartet,2025-09-28 09:17:58,Lagerhalle A
+ORD-10226,Kommissionierung beendet,2025-09-28 09:59:58,Lagerhalle A
+ORD-10226,Verpacken und Labeldruck,2025-09-28 10:19:58,Packtisch 3
+ORD-10226,Versandübergabe,2025-09-28 12:19:58,Rampe 1
+ORD-10227,Wareneingang im LVS,2025-09-13 14:26:12,Server
+ORD-10227,Kommissionierung gestartet,2025-09-14 11:26:12,Lagerhalle A
+ORD-10227,Kommissionierung beendet,2025-09-14 12:02:12,Lagerhalle A
+ORD-10227,Verpacken und Labeldruck,2025-09-14 13:47:12,Packtisch 3
+ORD-10227,Versandübergabe,2025-09-14 14:47:12,Rampe 1
+ORD-10228,Wareneingang im LVS,2025-10-31 19:49:53,Server
+ORD-10228,Kommissionierung gestartet,2025-11-01 15:49:53,Lagerhalle A
+ORD-10228,Kommissionierung beendet,2025-11-01 16:26:53,Lagerhalle A
+ORD-10228,Verpacken und Labeldruck,2025-11-01 17:26:53,Packtisch 3
+ORD-10228,Versandübergabe,2025-11-01 19:26:53,Rampe 1
+ORD-10229,Wareneingang im LVS,2025-09-15 15:50:24,Server
+ORD-10229,Kommissionierung gestartet,2025-09-17 05:50:24,Lagerhalle A
+ORD-10229,Kommissionierung beendet,2025-09-17 06:18:24,Lagerhalle A
+ORD-10229,Verpacken und Labeldruck,2025-09-17 07:59:24,Packtisch 3
+ORD-10229,Versandübergabe,2025-09-17 08:59:24,Rampe 1
+ORD-10230,Wareneingang im LVS,2025-09-26 15:23:38,Server
+ORD-10230,Kommissionierung gestartet,2025-09-27 06:23:38,Lagerhalle A
+ORD-10230,Kommissionierung beendet,2025-09-27 07:04:38,Lagerhalle A
+ORD-10230,Verpacken und Labeldruck,2025-09-27 07:23:38,Packtisch 3
+ORD-10230,Versandübergabe,2025-09-27 10:23:38,Rampe 1
+ORD-10231,Wareneingang im LVS,2025-09-09 16:01:54,Server
+ORD-10231,Kommissionierung gestartet,2025-09-10 04:01:54,Lagerhalle A
+ORD-10231,Kommissionierung beendet,2025-09-10 04:41:54,Lagerhalle A
+ORD-10231,Verpacken und Labeldruck,2025-09-10 06:06:54,Packtisch 3
+ORD-10231,Versandübergabe,2025-09-10 10:06:54,Rampe 1
+ORD-10232,Wareneingang im LVS,2025-09-26 21:38:03,Server
+ORD-10232,Kommissionierung gestartet,2025-09-28 08:38:03,Lagerhalle A
+ORD-10232,Kommissionierung beendet,2025-09-28 08:56:03,Lagerhalle A
+ORD-10232,Verpacken und Labeldruck,2025-09-28 09:23:03,Packtisch 3
+ORD-10232,Versandübergabe,2025-09-28 13:23:03,Rampe 1
+ORD-10233,Wareneingang im LVS,2025-10-01 11:31:21,Server
+ORD-10233,Kommissionierung gestartet,2025-10-02 04:31:21,Lagerhalle A
+ORD-10233,Kommissionierung beendet,2025-10-02 04:50:21,Lagerhalle A
+ORD-10233,Verpacken und Labeldruck,2025-10-02 05:05:21,Packtisch 3
+ORD-10233,Versandübergabe,2025-10-02 08:05:21,Rampe 1
+ORD-10234,Wareneingang im LVS,2025-10-09 19:12:25,Server
+ORD-10234,Kommissionierung gestartet,2025-10-11 04:12:25,Lagerhalle A
+ORD-10234,Kommissionierung beendet,2025-10-11 04:41:25,Lagerhalle A
+ORD-10234,Verpacken und Labeldruck,2025-10-11 05:40:25,Packtisch 3
+ORD-10234,Versandübergabe,2025-10-11 08:40:25,Rampe 1
+ORD-10235,Wareneingang im LVS,2025-10-21 19:15:34,Server
+ORD-10235,Kommissionierung gestartet,2025-10-23 05:15:34,Lagerhalle A
+ORD-10235,Kommissionierung beendet,2025-10-23 05:41:34,Lagerhalle A
+ORD-10235,Verpacken und Labeldruck,2025-10-23 07:25:34,Packtisch 3
+ORD-10235,Versandübergabe,2025-10-23 11:25:34,Rampe 1
+ORD-10236,Wareneingang im LVS,2025-10-13 14:44:30,Server
+ORD-10236,Kommissionierung gestartet,2025-10-14 23:44:30,Lagerhalle A
+ORD-10236,Kommissionierung beendet,2025-10-15 00:26:30,Lagerhalle A
+ORD-10236,Verpacken und Labeldruck,2025-10-15 01:29:30,Packtisch 3
+ORD-10236,Versandübergabe,2025-10-15 04:29:30,Rampe 1
+ORD-10237,Wareneingang im LVS,2025-10-23 17:06:13,Server
+ORD-10237,Kommissionierung gestartet,2025-10-24 03:06:13,Lagerhalle A
+ORD-10237,Kommissionierung beendet,2025-10-24 03:48:13,Lagerhalle A
+ORD-10237,Verpacken und Labeldruck,2025-10-24 04:41:13,Packtisch 3
+ORD-10237,Versandübergabe,2025-10-24 05:41:13,Rampe 1
+ORD-10238,Wareneingang im LVS,2025-10-13 04:37:05,Server
+ORD-10238,Kommissionierung gestartet,2025-10-14 01:37:05,Lagerhalle A
+ORD-10238,Kommissionierung beendet,2025-10-14 01:53:05,Lagerhalle A
+ORD-10238,Verpacken und Labeldruck,2025-10-14 03:12:05,Packtisch 3
+ORD-10238,Versandübergabe,2025-10-14 07:12:05,Rampe 1
+ORD-10239,Wareneingang im LVS,2025-09-17 04:18:23,Server
+ORD-10239,Kommissionierung gestartet,2025-09-17 11:18:23,Lagerhalle A
+ORD-10239,Kommissionierung beendet,2025-09-17 11:39:23,Lagerhalle A
+ORD-10239,Verpacken und Labeldruck,2025-09-17 12:57:23,Packtisch 3
+ORD-10239,Versandübergabe,2025-09-17 14:57:23,Rampe 1
+ORD-10240,Wareneingang im LVS,2025-10-26 14:15:51,Server
+ORD-10240,Kommissionierung gestartet,2025-10-28 04:15:51,Lagerhalle A
+ORD-10240,Kommissionierung beendet,2025-10-28 04:58:51,Lagerhalle A
+ORD-10240,Verpacken und Labeldruck,2025-10-28 05:11:51,Packtisch 3
+ORD-10240,Versandübergabe,2025-10-28 08:11:51,Rampe 1
+ORD-10241,Wareneingang im LVS,2025-10-12 04:49:42,Server
+ORD-10241,Kommissionierung gestartet,2025-10-12 08:49:42,Lagerhalle A
+ORD-10241,Kommissionierung beendet,2025-10-12 09:04:42,Lagerhalle A
+ORD-10241,Verpacken und Labeldruck,2025-10-12 09:52:42,Packtisch 3
+ORD-10241,Versandübergabe,2025-10-12 13:52:42,Rampe 1
+ORD-10242,Wareneingang im LVS,2025-09-19 11:19:42,Server
+ORD-10242,Kommissionierung gestartet,2025-09-19 16:19:42,Lagerhalle A
+ORD-10242,Kommissionierung beendet,2025-09-19 16:44:42,Lagerhalle A
+ORD-10242,Verpacken und Labeldruck,2025-09-19 18:20:42,Packtisch 3
+ORD-10242,Versandübergabe,2025-09-19 19:20:42,Rampe 1
+ORD-10243,Wareneingang im LVS,2025-10-02 10:01:18,Server
+ORD-10243,Kommissionierung gestartet,2025-10-04 10:01:18,Lagerhalle A
+ORD-10243,Kommissionierung beendet,2025-10-04 10:32:18,Lagerhalle A
+ORD-10243,Verpacken und Labeldruck,2025-10-04 11:45:18,Packtisch 3
+ORD-10243,Versandübergabe,2025-10-04 12:45:18,Rampe 1
+ORD-10244,Wareneingang im LVS,2025-09-18 11:07:12,Server
+ORD-10244,Kommissionierung gestartet,2025-09-20 09:07:12,Lagerhalle A
+ORD-10244,Kommissionierung beendet,2025-09-20 09:51:12,Lagerhalle A
+ORD-10244,Verpacken und Labeldruck,2025-09-20 11:40:12,Packtisch 3
+ORD-10244,Versandübergabe,2025-09-20 14:40:12,Rampe 1
+ORD-10245,Wareneingang im LVS,2025-09-06 11:46:07,Server
+ORD-10245,Kommissionierung gestartet,2025-09-06 20:46:07,Lagerhalle A
+ORD-10245,Kommissionierung beendet,2025-09-06 21:18:07,Lagerhalle A
+ORD-10245,Verpacken und Labeldruck,2025-09-06 22:14:07,Packtisch 3
+ORD-10245,Versandübergabe,2025-09-07 00:14:07,Rampe 1
+ORD-10246,Wareneingang im LVS,2025-09-22 05:01:53,Server
+ORD-10246,Kommissionierung gestartet,2025-09-22 07:01:53,Lagerhalle A
+ORD-10246,Kommissionierung beendet,2025-09-22 07:23:53,Lagerhalle A
+ORD-10246,Verpacken und Labeldruck,2025-09-22 07:58:53,Packtisch 3
+ORD-10246,Versandübergabe,2025-09-22 11:58:53,Rampe 1
+ORD-10247,Wareneingang im LVS,2025-09-11 09:26:13,Server
+ORD-10247,Kommissionierung gestartet,2025-09-11 15:26:13,Lagerhalle A
+ORD-10247,Kommissionierung beendet,2025-09-11 15:56:13,Lagerhalle A
+ORD-10247,Verpacken und Labeldruck,2025-09-11 16:46:13,Packtisch 3
+ORD-10247,Versandübergabe,2025-09-11 17:46:13,Rampe 1
+ORD-10248,Wareneingang im LVS,2025-10-31 12:20:55,Server
+ORD-10248,Kommissionierung gestartet,2025-11-01 16:20:55,Lagerhalle A
+ORD-10248,Kommissionierung beendet,2025-11-01 16:42:55,Lagerhalle A
+ORD-10248,Verpacken und Labeldruck,2025-11-01 17:34:55,Packtisch 3
+ORD-10248,Versandübergabe,2025-11-01 21:34:55,Rampe 1
+ORD-10249,Wareneingang im LVS,2025-10-24 18:58:23,Server
+ORD-10249,Kommissionierung gestartet,2025-10-26 10:58:23,Lagerhalle A
+ORD-10249,Kommissionierung beendet,2025-10-26 11:21:23,Lagerhalle A
+ORD-10249,Verpacken und Labeldruck,2025-10-26 11:44:23,Packtisch 3
+ORD-10249,Versandübergabe,2025-10-26 14:44:23,Rampe 1
+ORD-10250,Wareneingang im LVS,2025-10-15 17:10:13,Server
+ORD-10250,Kommissionierung gestartet,2025-10-17 11:10:13,Lagerhalle A
+ORD-10250,Kommissionierung beendet,2025-10-17 11:53:13,Lagerhalle A
+ORD-10250,Verpacken und Labeldruck,2025-10-17 12:51:13,Packtisch 3
+ORD-10250,Versandübergabe,2025-10-17 16:51:13,Rampe 1
+ORD-10251,Wareneingang im LVS,2025-10-24 18:15:07,Server
+ORD-10251,Kommissionierung gestartet,2025-10-25 17:15:07,Lagerhalle A
+ORD-10251,Kommissionierung beendet,2025-10-25 17:52:07,Lagerhalle A
+ORD-10251,Verpacken und Labeldruck,2025-10-25 19:05:07,Packtisch 3
+ORD-10251,Versandübergabe,2025-10-25 23:05:07,Rampe 1
+ORD-10252,Wareneingang im LVS,2025-09-14 14:06:25,Server
+ORD-10252,Kommissionierung gestartet,2025-09-15 08:06:25,Lagerhalle A
+ORD-10252,Kommissionierung beendet,2025-09-15 08:25:25,Lagerhalle A
+ORD-10252,Verpacken und Labeldruck,2025-09-15 09:09:25,Packtisch 3
+ORD-10252,Versandübergabe,2025-09-15 12:09:25,Rampe 1
+ORD-10253,Wareneingang im LVS,2025-09-18 16:12:19,Server
+ORD-10253,Kommissionierung gestartet,2025-09-19 19:12:19,Lagerhalle A
+ORD-10253,Kommissionierung beendet,2025-09-19 19:52:19,Lagerhalle A
+ORD-10253,Verpacken und Labeldruck,2025-09-19 21:23:19,Packtisch 3
+ORD-10253,Versandübergabe,2025-09-20 01:23:19,Rampe 1
+ORD-10254,Wareneingang im LVS,2025-09-17 12:03:48,Server
+ORD-10254,Kommissionierung gestartet,2025-09-18 15:03:48,Lagerhalle A
+ORD-10254,Kommissionierung beendet,2025-09-18 15:18:48,Lagerhalle A
+ORD-10254,Verpacken und Labeldruck,2025-09-18 16:07:48,Packtisch 3
+ORD-10254,Versandübergabe,2025-09-18 18:07:48,Rampe 1
+ORD-10255,Wareneingang im LVS,2025-10-22 11:39:19,Server
+ORD-10255,Kommissionierung gestartet,2025-10-23 00:39:19,Lagerhalle A
+ORD-10255,Kommissionierung beendet,2025-10-23 01:00:19,Lagerhalle A
+ORD-10255,Verpacken und Labeldruck,2025-10-23 01:30:19,Packtisch 3
+ORD-10255,Versandübergabe,2025-10-23 04:30:19,Rampe 1
+ORD-10256,Wareneingang im LVS,2025-10-03 10:02:52,Server
+ORD-10256,Kommissionierung gestartet,2025-10-04 10:02:52,Lagerhalle A
+ORD-10256,Kommissionierung beendet,2025-10-04 10:26:52,Lagerhalle A
+ORD-10256,Verpacken und Labeldruck,2025-10-04 11:00:52,Packtisch 3
+ORD-10256,Versandübergabe,2025-10-04 13:00:52,Rampe 1
+ORD-10257,Wareneingang im LVS,2025-10-28 13:02:32,Server
+ORD-10257,Kommissionierung gestartet,2025-10-30 09:02:32,Lagerhalle A
+ORD-10257,Kommissionierung beendet,2025-10-30 09:17:32,Lagerhalle A
+ORD-10257,Verpacken und Labeldruck,2025-10-30 09:30:32,Packtisch 3
+ORD-10257,Versandübergabe,2025-10-30 13:30:32,Rampe 1
+ORD-10258,Wareneingang im LVS,2025-09-21 18:47:34,Server
+ORD-10258,Kommissionierung gestartet,2025-09-22 10:47:34,Lagerhalle A
+ORD-10258,Kommissionierung beendet,2025-09-22 11:28:34,Lagerhalle A
+ORD-10258,Verpacken und Labeldruck,2025-09-22 12:13:34,Packtisch 3
+ORD-10258,Versandübergabe,2025-09-22 16:13:34,Rampe 1
+ORD-10259,Wareneingang im LVS,2025-10-25 15:56:18,Server
+ORD-10259,Kommissionierung gestartet,2025-10-25 19:56:18,Lagerhalle A
+ORD-10259,Kommissionierung beendet,2025-10-25 20:32:18,Lagerhalle A
+ORD-10259,Verpacken und Labeldruck,2025-10-25 21:56:18,Packtisch 3
+ORD-10259,Versandübergabe,2025-10-25 23:56:18,Rampe 1
+ORD-10260,Wareneingang im LVS,2025-10-14 18:58:47,Server
+ORD-10260,Kommissionierung gestartet,2025-10-15 11:58:47,Lagerhalle A
+ORD-10260,Kommissionierung beendet,2025-10-15 12:26:47,Lagerhalle A
+ORD-10260,Verpacken und Labeldruck,2025-10-15 12:37:47,Packtisch 3
+ORD-10260,Versandübergabe,2025-10-15 14:37:47,Rampe 1
+ORD-10261,Wareneingang im LVS,2025-10-14 12:58:37,Server
+ORD-10261,Kommissionierung gestartet,2025-10-16 11:58:37,Lagerhalle A
+ORD-10261,Kommissionierung beendet,2025-10-16 12:37:37,Lagerhalle A
+ORD-10261,Verpacken und Labeldruck,2025-10-16 13:26:37,Packtisch 3
+ORD-10261,Versandübergabe,2025-10-16 14:26:37,Rampe 1
+ORD-10262,Wareneingang im LVS,2025-09-03 09:58:36,Server
+ORD-10262,Kommissionierung gestartet,2025-09-04 05:58:36,Lagerhalle A
+ORD-10262,Kommissionierung beendet,2025-09-04 06:34:36,Lagerhalle A
+ORD-10262,Verpacken und Labeldruck,2025-09-04 08:14:36,Packtisch 3
+ORD-10262,Versandübergabe,2025-09-04 10:14:36,Rampe 1
+ORD-10263,Wareneingang im LVS,2025-09-01 14:44:15,Server
+ORD-10263,Kommissionierung gestartet,2025-09-02 08:44:15,Lagerhalle A
+ORD-10263,Kommissionierung beendet,2025-09-02 09:06:15,Lagerhalle A
+ORD-10263,Verpacken und Labeldruck,2025-09-02 09:50:15,Packtisch 3
+ORD-10263,Versandübergabe,2025-09-02 13:50:15,Rampe 1
+ORD-10264,Wareneingang im LVS,2025-10-16 17:57:44,Server
+ORD-10264,Kommissionierung gestartet,2025-10-17 12:57:44,Lagerhalle A
+ORD-10264,Kommissionierung beendet,2025-10-17 13:16:44,Lagerhalle A
+ORD-10264,Verpacken und Labeldruck,2025-10-17 13:29:44,Packtisch 3
+ORD-10264,Versandübergabe,2025-10-17 17:29:44,Rampe 1
+ORD-10265,Wareneingang im LVS,2025-10-24 18:34:40,Server
+ORD-10265,Kommissionierung gestartet,2025-10-26 11:34:40,Lagerhalle A
+ORD-10265,Kommissionierung beendet,2025-10-26 12:13:40,Lagerhalle A
+ORD-10265,Verpacken und Labeldruck,2025-10-26 12:24:40,Packtisch 3
+ORD-10265,Versandübergabe,2025-10-26 14:24:40,Rampe 1
+ORD-10266,Wareneingang im LVS,2025-09-15 15:55:28,Server
+ORD-10266,Kommissionierung gestartet,2025-09-15 17:55:28,Lagerhalle A
+ORD-10266,Kommissionierung beendet,2025-09-15 18:39:28,Lagerhalle A
+ORD-10266,Verpacken und Labeldruck,2025-09-15 19:13:28,Packtisch 3
+ORD-10266,Versandübergabe,2025-09-15 22:13:28,Rampe 1
+ORD-10267,Wareneingang im LVS,2025-09-13 10:18:44,Server
+ORD-10267,Kommissionierung gestartet,2025-09-14 13:18:44,Lagerhalle A
+ORD-10267,Kommissionierung beendet,2025-09-14 13:59:44,Lagerhalle A
+ORD-10267,Verpacken und Labeldruck,2025-09-14 15:59:44,Packtisch 3
+ORD-10267,Versandübergabe,2025-09-14 19:59:44,Rampe 1
+ORD-10268,Wareneingang im LVS,2025-09-05 18:03:44,Server
+ORD-10268,Kommissionierung gestartet,2025-09-07 13:03:44,Lagerhalle A
+ORD-10268,Kommissionierung beendet,2025-09-07 13:34:44,Lagerhalle A
+ORD-10268,Verpacken und Labeldruck,2025-09-07 14:03:44,Packtisch 3
+ORD-10268,Versandübergabe,2025-09-07 18:03:44,Rampe 1
+ORD-10269,Wareneingang im LVS,2025-10-22 13:56:49,Server
+ORD-10269,Kommissionierung gestartet,2025-10-24 12:56:49,Lagerhalle A
+ORD-10269,Kommissionierung beendet,2025-10-24 13:27:49,Lagerhalle A
+ORD-10269,Verpacken und Labeldruck,2025-10-24 14:45:49,Packtisch 3
+ORD-10269,Versandübergabe,2025-10-24 17:45:49,Rampe 1
+ORD-10270,Wareneingang im LVS,2025-09-19 12:05:20,Server
+ORD-10270,Kommissionierung gestartet,2025-09-19 16:05:20,Lagerhalle A
+ORD-10270,Kommissionierung beendet,2025-09-19 16:34:20,Lagerhalle A
+ORD-10270,Verpacken und Labeldruck,2025-09-19 18:06:20,Packtisch 3
+ORD-10270,Versandübergabe,2025-09-19 20:06:20,Rampe 1
+ORD-10271,Wareneingang im LVS,2025-10-28 11:15:38,Server
+ORD-10271,Kommissionierung gestartet,2025-10-30 10:15:38,Lagerhalle A
+ORD-10271,Kommissionierung beendet,2025-10-30 10:40:38,Lagerhalle A
+ORD-10271,Verpacken und Labeldruck,2025-10-30 11:34:38,Packtisch 3
+ORD-10271,Versandübergabe,2025-10-30 13:34:38,Rampe 1
+ORD-10272,Wareneingang im LVS,2025-10-13 10:19:55,Server
+ORD-10272,Kommissionierung gestartet,2025-10-14 20:19:55,Lagerhalle A
+ORD-10272,Kommissionierung beendet,2025-10-14 20:40:55,Lagerhalle A
+ORD-10272,Verpacken und Labeldruck,2025-10-14 22:24:55,Packtisch 3
+ORD-10272,Versandübergabe,2025-10-15 02:24:55,Rampe 1
+ORD-10273,Wareneingang im LVS,2025-10-13 09:46:06,Server
+ORD-10273,Kommissionierung gestartet,2025-10-14 17:46:06,Lagerhalle A
+ORD-10273,Kommissionierung beendet,2025-10-14 18:01:06,Lagerhalle A
+ORD-10273,Verpacken und Labeldruck,2025-10-14 19:50:06,Packtisch 3
+ORD-10273,Versandübergabe,2025-10-14 23:50:06,Rampe 1
+ORD-10274,Wareneingang im LVS,2025-09-22 12:01:38,Server
+ORD-10274,Kommissionierung gestartet,2025-09-22 20:01:38,Lagerhalle A
+ORD-10274,Kommissionierung beendet,2025-09-22 20:46:38,Lagerhalle A
+ORD-10274,Verpacken und Labeldruck,2025-09-22 22:00:38,Packtisch 3
+ORD-10274,Versandübergabe,2025-09-23 02:00:38,Rampe 1
+ORD-10275,Wareneingang im LVS,2025-09-09 13:26:41,Server
+ORD-10275,Kommissionierung gestartet,2025-09-10 05:26:41,Lagerhalle A
+ORD-10275,Kommissionierung beendet,2025-09-10 06:11:41,Lagerhalle A
+ORD-10275,Verpacken und Labeldruck,2025-09-10 06:36:41,Packtisch 3
+ORD-10275,Versandübergabe,2025-09-10 09:36:41,Rampe 1
+ORD-10276,Wareneingang im LVS,2025-10-02 20:30:20,Server
+ORD-10276,Kommissionierung gestartet,2025-10-03 18:30:20,Lagerhalle A
+ORD-10276,Kommissionierung beendet,2025-10-03 18:50:20,Lagerhalle A
+ORD-10276,Verpacken und Labeldruck,2025-10-03 20:20:20,Packtisch 3
+ORD-10276,Versandübergabe,2025-10-03 21:20:20,Rampe 1
+ORD-10277,Wareneingang im LVS,2025-09-13 12:59:49,Server
+ORD-10277,Kommissionierung gestartet,2025-09-14 10:59:49,Lagerhalle A
+ORD-10277,Kommissionierung beendet,2025-09-14 11:25:49,Lagerhalle A
+ORD-10277,Verpacken und Labeldruck,2025-09-14 13:08:49,Packtisch 3
+ORD-10277,Versandübergabe,2025-09-14 17:08:49,Rampe 1
+ORD-10278,Wareneingang im LVS,2025-09-30 12:38:14,Server
+ORD-10278,Kommissionierung gestartet,2025-10-01 04:38:14,Lagerhalle A
+ORD-10278,Kommissionierung beendet,2025-10-01 05:09:14,Lagerhalle A
+ORD-10278,Verpacken und Labeldruck,2025-10-01 05:24:14,Packtisch 3
+ORD-10278,Versandübergabe,2025-10-01 07:24:14,Rampe 1
+ORD-10279,Wareneingang im LVS,2025-10-06 17:18:14,Server
+ORD-10279,Kommissionierung gestartet,2025-10-08 16:18:14,Lagerhalle A
+ORD-10279,Kommissionierung beendet,2025-10-08 16:59:14,Lagerhalle A
+ORD-10279,Verpacken und Labeldruck,2025-10-08 18:28:14,Packtisch 3
+ORD-10279,Versandübergabe,2025-10-08 22:28:14,Rampe 1
+ORD-10280,Wareneingang im LVS,2025-09-22 17:42:37,Server
+ORD-10280,Kommissionierung gestartet,2025-09-24 09:42:37,Lagerhalle A
+ORD-10280,Kommissionierung beendet,2025-09-24 10:17:37,Lagerhalle A
+ORD-10280,Verpacken und Labeldruck,2025-09-24 12:05:37,Packtisch 3
+ORD-10280,Versandübergabe,2025-09-24 13:05:37,Rampe 1
+ORD-10281,Wareneingang im LVS,2025-09-02 15:57:24,Server
+ORD-10281,Kommissionierung gestartet,2025-09-03 11:57:24,Lagerhalle A
+ORD-10281,Kommissionierung beendet,2025-09-03 12:32:24,Lagerhalle A
+ORD-10281,Verpacken und Labeldruck,2025-09-03 13:47:24,Packtisch 3
+ORD-10281,Versandübergabe,2025-09-03 16:47:24,Rampe 1
+ORD-10282,Wareneingang im LVS,2025-09-10 10:06:24,Server
+ORD-10282,Kommissionierung gestartet,2025-09-10 15:06:24,Lagerhalle A
+ORD-10282,Kommissionierung beendet,2025-09-10 15:41:24,Lagerhalle A
+ORD-10282,Verpacken und Labeldruck,2025-09-10 16:00:24,Packtisch 3
+ORD-10282,Versandübergabe,2025-09-10 19:00:24,Rampe 1
+ORD-10283,Wareneingang im LVS,2025-10-05 17:49:22,Server
+ORD-10283,Kommissionierung gestartet,2025-10-06 13:49:22,Lagerhalle A
+ORD-10283,Kommissionierung beendet,2025-10-06 14:23:22,Lagerhalle A
+ORD-10283,Verpacken und Labeldruck,2025-10-06 15:33:22,Packtisch 3
+ORD-10283,Versandübergabe,2025-10-06 19:33:22,Rampe 1
+ORD-10284,Wareneingang im LVS,2025-10-20 23:54:06,Server
+ORD-10284,Kommissionierung gestartet,2025-10-21 09:54:06,Lagerhalle A
+ORD-10284,Kommissionierung beendet,2025-10-21 10:19:06,Lagerhalle A
+ORD-10284,Verpacken und Labeldruck,2025-10-21 10:55:06,Packtisch 3
+ORD-10284,Versandübergabe,2025-10-21 13:55:06,Rampe 1
+ORD-10285,Wareneingang im LVS,2025-09-08 19:28:02,Server
+ORD-10285,Kommissionierung gestartet,2025-09-09 11:28:02,Lagerhalle A
+ORD-10285,Kommissionierung beendet,2025-09-09 12:05:02,Lagerhalle A
+ORD-10285,Verpacken und Labeldruck,2025-09-09 13:00:02,Packtisch 3
+ORD-10285,Versandübergabe,2025-09-09 16:00:02,Rampe 1
+ORD-10286,Wareneingang im LVS,2025-10-22 14:33:45,Server
+ORD-10286,Kommissionierung gestartet,2025-10-23 23:33:45,Lagerhalle A
+ORD-10286,Kommissionierung beendet,2025-10-23 23:56:45,Lagerhalle A
+ORD-10286,Verpacken und Labeldruck,2025-10-24 00:45:45,Packtisch 3
+ORD-10286,Versandübergabe,2025-10-24 02:45:45,Rampe 1
+ORD-10287,Wareneingang im LVS,2025-10-07 15:15:47,Server
+ORD-10287,Kommissionierung gestartet,2025-10-08 10:15:47,Lagerhalle A
+ORD-10287,Kommissionierung beendet,2025-10-08 10:51:47,Lagerhalle A
+ORD-10287,Verpacken und Labeldruck,2025-10-08 11:13:47,Packtisch 3
+ORD-10287,Versandübergabe,2025-10-08 15:13:47,Rampe 1
+ORD-10288,Wareneingang im LVS,2025-09-30 14:42:47,Server
+ORD-10288,Kommissionierung gestartet,2025-10-01 02:42:47,Lagerhalle A
+ORD-10288,Kommissionierung beendet,2025-10-01 03:07:47,Lagerhalle A
+ORD-10288,Verpacken und Labeldruck,2025-10-01 04:23:47,Packtisch 3
+ORD-10288,Versandübergabe,2025-10-01 06:23:47,Rampe 1
+ORD-10289,Wareneingang im LVS,2025-09-27 18:23:24,Server
+ORD-10289,Kommissionierung gestartet,2025-09-29 04:23:24,Lagerhalle A
+ORD-10289,Kommissionierung beendet,2025-09-29 04:55:24,Lagerhalle A
+ORD-10289,Verpacken und Labeldruck,2025-09-29 05:42:24,Packtisch 3
+ORD-10289,Versandübergabe,2025-09-29 09:42:24,Rampe 1
+ORD-10290,Wareneingang im LVS,2025-10-07 13:07:16,Server
+ORD-10290,Kommissionierung gestartet,2025-10-07 17:07:16,Lagerhalle A
+ORD-10290,Kommissionierung beendet,2025-10-07 17:27:16,Lagerhalle A
+ORD-10290,Verpacken und Labeldruck,2025-10-07 19:17:16,Packtisch 3
+ORD-10290,Versandübergabe,2025-10-07 22:17:16,Rampe 1
+ORD-10291,Wareneingang im LVS,2025-10-16 16:22:45,Server
+ORD-10291,Kommissionierung gestartet,2025-10-17 15:22:45,Lagerhalle A
+ORD-10291,Kommissionierung beendet,2025-10-17 15:49:45,Lagerhalle A
+ORD-10291,Verpacken und Labeldruck,2025-10-17 16:10:45,Packtisch 3
+ORD-10291,Versandübergabe,2025-10-17 19:10:45,Rampe 1
+ORD-10292,Wareneingang im LVS,2025-09-10 09:03:40,Server
+ORD-10292,Kommissionierung gestartet,2025-09-11 02:03:40,Lagerhalle A
+ORD-10292,Kommissionierung beendet,2025-09-11 02:30:40,Lagerhalle A
+ORD-10292,Verpacken und Labeldruck,2025-09-11 03:30:40,Packtisch 3
+ORD-10292,Versandübergabe,2025-09-11 06:30:40,Rampe 1
+ORD-10293,Wareneingang im LVS,2025-10-10 17:07:12,Server
+ORD-10293,Kommissionierung gestartet,2025-10-12 08:07:12,Lagerhalle A
+ORD-10293,Kommissionierung beendet,2025-10-12 08:29:12,Lagerhalle A
+ORD-10293,Verpacken und Labeldruck,2025-10-12 09:02:12,Packtisch 3
+ORD-10293,Versandübergabe,2025-10-12 13:02:12,Rampe 1
+ORD-10294,Wareneingang im LVS,2025-10-13 12:42:46,Server
+ORD-10294,Kommissionierung gestartet,2025-10-13 21:42:46,Lagerhalle A
+ORD-10294,Kommissionierung beendet,2025-10-13 22:17:46,Lagerhalle A
+ORD-10294,Verpacken und Labeldruck,2025-10-13 23:04:46,Packtisch 3
+ORD-10294,Versandübergabe,2025-10-14 01:04:46,Rampe 1
+ORD-10295,Wareneingang im LVS,2025-09-22 11:07:45,Server
+ORD-10295,Kommissionierung gestartet,2025-09-23 14:07:45,Lagerhalle A
+ORD-10295,Kommissionierung beendet,2025-09-23 14:31:45,Lagerhalle A
+ORD-10295,Verpacken und Labeldruck,2025-09-23 16:06:45,Packtisch 3
+ORD-10295,Versandübergabe,2025-09-23 19:06:45,Rampe 1
+ORD-10296,Wareneingang im LVS,2025-10-01 12:23:58,Server
+ORD-10296,Kommissionierung gestartet,2025-10-01 14:23:58,Lagerhalle A
+ORD-10296,Kommissionierung beendet,2025-10-01 14:53:58,Lagerhalle A
+ORD-10296,Verpacken und Labeldruck,2025-10-01 16:29:58,Packtisch 3
+ORD-10296,Versandübergabe,2025-10-01 18:29:58,Rampe 1
+ORD-10297,Wareneingang im LVS,2025-10-26 13:28:18,Server
+ORD-10297,Kommissionierung gestartet,2025-10-28 02:28:18,Lagerhalle A
+ORD-10297,Kommissionierung beendet,2025-10-28 03:08:18,Lagerhalle A
+ORD-10297,Verpacken und Labeldruck,2025-10-28 05:04:18,Packtisch 3
+ORD-10297,Versandübergabe,2025-10-28 08:04:18,Rampe 1
+ORD-10298,Wareneingang im LVS,2025-10-06 19:09:38,Server
+ORD-10298,Kommissionierung gestartet,2025-10-07 01:09:38,Lagerhalle A
+ORD-10298,Kommissionierung beendet,2025-10-07 01:51:38,Lagerhalle A
+ORD-10298,Verpacken und Labeldruck,2025-10-07 02:12:38,Packtisch 3
+ORD-10298,Versandübergabe,2025-10-07 04:12:38,Rampe 1
+ORD-10299,Wareneingang im LVS,2025-10-05 13:27:57,Server
+ORD-10299,Kommissionierung gestartet,2025-10-06 17:27:57,Lagerhalle A
+ORD-10299,Kommissionierung beendet,2025-10-06 17:55:57,Lagerhalle A
+ORD-10299,Verpacken und Labeldruck,2025-10-06 19:24:57,Packtisch 3
+ORD-10299,Versandübergabe,2025-10-06 23:24:57,Rampe 1
+ORD-10300,Wareneingang im LVS,2025-09-30 16:16:03,Server
+ORD-10300,Kommissionierung gestartet,2025-10-02 15:16:03,Lagerhalle A
+ORD-10300,Kommissionierung beendet,2025-10-02 15:31:03,Lagerhalle A
+ORD-10300,Verpacken und Labeldruck,2025-10-02 16:02:03,Packtisch 3
+ORD-10300,Versandübergabe,2025-10-02 17:02:03,Rampe 1
+ORD-10301,Wareneingang im LVS,2025-09-13 15:41:51,Server
+ORD-10301,Kommissionierung gestartet,2025-09-15 04:41:51,Lagerhalle A
+ORD-10301,Kommissionierung beendet,2025-09-15 05:01:51,Lagerhalle A
+ORD-10301,Verpacken und Labeldruck,2025-09-15 06:19:51,Packtisch 3
+ORD-10301,Versandübergabe,2025-09-15 09:19:51,Rampe 1
+ORD-10302,Wareneingang im LVS,2025-10-04 17:58:25,Server
+ORD-10302,Kommissionierung gestartet,2025-10-05 05:58:25,Lagerhalle A
+ORD-10302,Kommissionierung beendet,2025-10-05 06:26:25,Lagerhalle A
+ORD-10302,Verpacken und Labeldruck,2025-10-05 07:48:25,Packtisch 3
+ORD-10302,Versandübergabe,2025-10-05 08:48:25,Rampe 1
+ORD-10303,Wareneingang im LVS,2025-10-28 02:47:22,Server
+ORD-10303,Kommissionierung gestartet,2025-10-28 20:47:22,Lagerhalle A
+ORD-10303,Kommissionierung beendet,2025-10-28 21:10:22,Lagerhalle A
+ORD-10303,Verpacken und Labeldruck,2025-10-28 21:52:22,Packtisch 3
+ORD-10303,Versandübergabe,2025-10-28 22:52:22,Rampe 1
+ORD-10304,Wareneingang im LVS,2025-10-21 13:29:05,Server
+ORD-10304,Kommissionierung gestartet,2025-10-23 08:29:05,Lagerhalle A
+ORD-10304,Kommissionierung beendet,2025-10-23 09:07:05,Lagerhalle A
+ORD-10304,Verpacken und Labeldruck,2025-10-23 09:20:05,Packtisch 3
+ORD-10304,Versandübergabe,2025-10-23 12:20:05,Rampe 1
+ORD-10305,Wareneingang im LVS,2025-10-13 00:00:29,Server
+ORD-10305,Kommissionierung gestartet,2025-10-14 03:00:29,Lagerhalle A
+ORD-10305,Kommissionierung beendet,2025-10-14 03:15:29,Lagerhalle A
+ORD-10305,Verpacken und Labeldruck,2025-10-14 04:42:29,Packtisch 3
+ORD-10305,Versandübergabe,2025-10-14 06:42:29,Rampe 1
+ORD-10306,Wareneingang im LVS,2025-10-28 23:42:49,Server
+ORD-10306,Kommissionierung gestartet,2025-10-30 23:42:49,Lagerhalle A
+ORD-10306,Kommissionierung beendet,2025-10-31 00:26:49,Lagerhalle A
+ORD-10306,Verpacken und Labeldruck,2025-10-31 00:48:49,Packtisch 3
+ORD-10306,Versandübergabe,2025-10-31 03:48:49,Rampe 1
+ORD-10307,Wareneingang im LVS,2025-10-23 03:34:37,Server
+ORD-10307,Kommissionierung gestartet,2025-10-24 12:34:37,Lagerhalle A
+ORD-10307,Kommissionierung beendet,2025-10-24 12:51:37,Lagerhalle A
+ORD-10307,Verpacken und Labeldruck,2025-10-24 13:31:37,Packtisch 3
+ORD-10307,Versandübergabe,2025-10-24 15:31:37,Rampe 1
+ORD-10308,Wareneingang im LVS,2025-09-07 10:20:54,Server
+ORD-10308,Kommissionierung gestartet,2025-09-07 16:20:54,Lagerhalle A
+ORD-10308,Kommissionierung beendet,2025-09-07 16:40:54,Lagerhalle A
+ORD-10308,Verpacken und Labeldruck,2025-09-07 18:38:54,Packtisch 3
+ORD-10308,Versandübergabe,2025-09-07 19:38:54,Rampe 1
+ORD-10309,Wareneingang im LVS,2025-09-15 12:33:43,Server
+ORD-10309,Kommissionierung gestartet,2025-09-17 06:33:43,Lagerhalle A
+ORD-10309,Kommissionierung beendet,2025-09-17 07:06:43,Lagerhalle A
+ORD-10309,Verpacken und Labeldruck,2025-09-17 08:27:43,Packtisch 3
+ORD-10309,Versandübergabe,2025-09-17 09:27:43,Rampe 1
+ORD-10310,Wareneingang im LVS,2025-09-13 09:54:19,Server
+ORD-10310,Kommissionierung gestartet,2025-09-15 05:54:19,Lagerhalle A
+ORD-10310,Kommissionierung beendet,2025-09-15 06:29:19,Lagerhalle A
+ORD-10310,Verpacken und Labeldruck,2025-09-15 08:24:19,Packtisch 3
+ORD-10310,Versandübergabe,2025-09-15 11:24:19,Rampe 1
+ORD-10311,Wareneingang im LVS,2025-10-22 12:19:35,Server
+ORD-10311,Kommissionierung gestartet,2025-10-23 08:19:35,Lagerhalle A
+ORD-10311,Kommissionierung beendet,2025-10-23 08:42:35,Lagerhalle A
+ORD-10311,Verpacken und Labeldruck,2025-10-23 10:03:35,Packtisch 3
+ORD-10311,Versandübergabe,2025-10-23 14:03:35,Rampe 1
+ORD-10312,Wareneingang im LVS,2025-10-24 17:46:26,Server
+ORD-10312,Kommissionierung gestartet,2025-10-26 00:46:26,Lagerhalle A
+ORD-10312,Kommissionierung beendet,2025-10-26 01:18:26,Lagerhalle A
+ORD-10312,Verpacken und Labeldruck,2025-10-26 02:35:26,Packtisch 3
+ORD-10312,Versandübergabe,2025-10-26 06:35:26,Rampe 1
+ORD-10313,Wareneingang im LVS,2025-10-26 12:33:57,Server
+ORD-10313,Kommissionierung gestartet,2025-10-27 21:33:57,Lagerhalle A
+ORD-10313,Kommissionierung beendet,2025-10-27 21:50:57,Lagerhalle A
+ORD-10313,Verpacken und Labeldruck,2025-10-27 23:08:57,Packtisch 3
+ORD-10313,Versandübergabe,2025-10-28 01:08:57,Rampe 1
+ORD-10314,Wareneingang im LVS,2025-10-19 23:33:22,Server
+ORD-10314,Kommissionierung gestartet,2025-10-20 15:33:22,Lagerhalle A
+ORD-10314,Kommissionierung beendet,2025-10-20 15:59:22,Lagerhalle A
+ORD-10314,Verpacken und Labeldruck,2025-10-20 17:04:22,Packtisch 3
+ORD-10314,Versandübergabe,2025-10-20 21:04:22,Rampe 1
+ORD-10315,Wareneingang im LVS,2025-09-12 18:14:24,Server
+ORD-10315,Kommissionierung gestartet,2025-09-14 13:14:24,Lagerhalle A
+ORD-10315,Kommissionierung beendet,2025-09-14 13:48:24,Lagerhalle A
+ORD-10315,Verpacken und Labeldruck,2025-09-14 14:24:24,Packtisch 3
+ORD-10315,Versandübergabe,2025-09-14 18:24:24,Rampe 1
+ORD-10316,Wareneingang im LVS,2025-09-21 16:10:30,Server
+ORD-10316,Kommissionierung gestartet,2025-09-23 03:10:30,Lagerhalle A
+ORD-10316,Kommissionierung beendet,2025-09-23 03:30:30,Lagerhalle A
+ORD-10316,Verpacken und Labeldruck,2025-09-23 04:54:30,Packtisch 3
+ORD-10316,Versandübergabe,2025-09-23 06:54:30,Rampe 1
+ORD-10317,Wareneingang im LVS,2025-09-21 12:14:36,Server
+ORD-10317,Kommissionierung gestartet,2025-09-22 23:14:36,Lagerhalle A
+ORD-10317,Kommissionierung beendet,2025-09-22 23:56:36,Lagerhalle A
+ORD-10317,Verpacken und Labeldruck,2025-09-23 00:17:36,Packtisch 3
+ORD-10317,Versandübergabe,2025-09-23 02:17:36,Rampe 1
+ORD-10318,Wareneingang im LVS,2025-09-04 16:36:10,Server
+ORD-10318,Kommissionierung gestartet,2025-09-04 19:36:10,Lagerhalle A
+ORD-10318,Kommissionierung beendet,2025-09-04 20:07:10,Lagerhalle A
+ORD-10318,Verpacken und Labeldruck,2025-09-04 20:40:10,Packtisch 3
+ORD-10318,Versandübergabe,2025-09-05 00:40:10,Rampe 1
+ORD-10319,Wareneingang im LVS,2025-09-13 17:50:48,Server
+ORD-10319,Kommissionierung gestartet,2025-09-15 00:50:48,Lagerhalle A
+ORD-10319,Kommissionierung beendet,2025-09-15 01:10:48,Lagerhalle A
+ORD-10319,Verpacken und Labeldruck,2025-09-15 01:46:48,Packtisch 3
+ORD-10319,Versandübergabe,2025-09-15 02:46:48,Rampe 1
+ORD-10320,Wareneingang im LVS,2025-10-11 19:26:48,Server
+ORD-10320,Kommissionierung gestartet,2025-10-13 06:26:48,Lagerhalle A
+ORD-10320,Kommissionierung beendet,2025-10-13 06:53:48,Lagerhalle A
+ORD-10320,Verpacken und Labeldruck,2025-10-13 07:10:48,Packtisch 3
+ORD-10320,Versandübergabe,2025-10-13 09:10:48,Rampe 1
+ORD-10321,Wareneingang im LVS,2025-10-15 14:29:59,Server
+ORD-10321,Kommissionierung gestartet,2025-10-16 19:29:59,Lagerhalle A
+ORD-10321,Kommissionierung beendet,2025-10-16 19:58:59,Lagerhalle A
+ORD-10321,Verpacken und Labeldruck,2025-10-16 21:22:59,Packtisch 3
+ORD-10321,Versandübergabe,2025-10-17 01:22:59,Rampe 1
+ORD-10322,Wareneingang im LVS,2025-10-21 09:37:20,Server
+ORD-10322,Kommissionierung gestartet,2025-10-21 14:37:20,Lagerhalle A
+ORD-10322,Kommissionierung beendet,2025-10-21 15:16:20,Lagerhalle A
+ORD-10322,Verpacken und Labeldruck,2025-10-21 16:28:20,Packtisch 3
+ORD-10322,Versandübergabe,2025-10-21 18:28:20,Rampe 1
+ORD-10323,Wareneingang im LVS,2025-10-29 18:19:19,Server
+ORD-10323,Kommissionierung gestartet,2025-10-31 04:19:19,Lagerhalle A
+ORD-10323,Kommissionierung beendet,2025-10-31 04:45:19,Lagerhalle A
+ORD-10323,Verpacken und Labeldruck,2025-10-31 05:45:19,Packtisch 3
+ORD-10323,Versandübergabe,2025-10-31 08:45:19,Rampe 1
+ORD-10324,Wareneingang im LVS,2025-10-10 10:36:35,Server
+ORD-10324,Kommissionierung gestartet,2025-10-11 21:36:35,Lagerhalle A
+ORD-10324,Kommissionierung beendet,2025-10-11 22:02:35,Lagerhalle A
+ORD-10324,Verpacken und Labeldruck,2025-10-11 22:18:35,Packtisch 3
+ORD-10324,Versandübergabe,2025-10-11 23:18:35,Rampe 1
+ORD-10325,Wareneingang im LVS,2025-10-14 08:57:21,Server
+ORD-10325,Kommissionierung gestartet,2025-10-15 14:57:21,Lagerhalle A
+ORD-10325,Kommissionierung beendet,2025-10-15 15:38:21,Lagerhalle A
+ORD-10325,Verpacken und Labeldruck,2025-10-15 15:50:21,Packtisch 3
+ORD-10325,Versandübergabe,2025-10-15 18:50:21,Rampe 1
+ORD-10326,Wareneingang im LVS,2025-09-07 08:45:29,Server
+ORD-10326,Kommissionierung gestartet,2025-09-07 17:45:29,Lagerhalle A
+ORD-10326,Kommissionierung beendet,2025-09-07 18:22:29,Lagerhalle A
+ORD-10326,Verpacken und Labeldruck,2025-09-07 20:05:29,Packtisch 3
+ORD-10326,Versandübergabe,2025-09-07 22:05:29,Rampe 1
+ORD-10327,Wareneingang im LVS,2025-09-15 16:30:40,Server
+ORD-10327,Kommissionierung gestartet,2025-09-16 04:30:40,Lagerhalle A
+ORD-10327,Kommissionierung beendet,2025-09-16 05:13:40,Lagerhalle A
+ORD-10327,Verpacken und Labeldruck,2025-09-16 05:25:40,Packtisch 3
+ORD-10327,Versandübergabe,2025-09-16 07:25:40,Rampe 1
+ORD-10328,Wareneingang im LVS,2025-09-24 11:53:02,Server
+ORD-10328,Kommissionierung gestartet,2025-09-25 18:53:02,Lagerhalle A
+ORD-10328,Kommissionierung beendet,2025-09-25 19:12:02,Lagerhalle A
+ORD-10328,Verpacken und Labeldruck,2025-09-25 21:06:02,Packtisch 3
+ORD-10328,Versandübergabe,2025-09-25 22:06:02,Rampe 1
+ORD-10329,Wareneingang im LVS,2025-10-04 17:42:40,Server
+ORD-10329,Kommissionierung gestartet,2025-10-06 07:42:40,Lagerhalle A
+ORD-10329,Kommissionierung beendet,2025-10-06 08:15:40,Lagerhalle A
+ORD-10329,Verpacken und Labeldruck,2025-10-06 09:45:40,Packtisch 3
+ORD-10329,Versandübergabe,2025-10-06 11:45:40,Rampe 1
+ORD-10330,Wareneingang im LVS,2025-09-15 11:23:48,Server
+ORD-10330,Kommissionierung gestartet,2025-09-17 02:23:48,Lagerhalle A
+ORD-10330,Kommissionierung beendet,2025-09-17 02:51:48,Lagerhalle A
+ORD-10330,Verpacken und Labeldruck,2025-09-17 03:04:48,Packtisch 3
+ORD-10330,Versandübergabe,2025-09-17 07:04:48,Rampe 1
+ORD-10331,Wareneingang im LVS,2025-09-21 15:17:34,Server
+ORD-10331,Kommissionierung gestartet,2025-09-23 11:17:34,Lagerhalle A
+ORD-10331,Kommissionierung beendet,2025-09-23 11:42:34,Lagerhalle A
+ORD-10331,Verpacken und Labeldruck,2025-09-23 12:33:34,Packtisch 3
+ORD-10331,Versandübergabe,2025-09-23 14:33:34,Rampe 1
+ORD-10332,Wareneingang im LVS,2025-10-20 19:21:58,Server
+ORD-10332,Kommissionierung gestartet,2025-10-22 03:21:58,Lagerhalle A
+ORD-10332,Kommissionierung beendet,2025-10-22 03:37:58,Lagerhalle A
+ORD-10332,Verpacken und Labeldruck,2025-10-22 03:52:58,Packtisch 3
+ORD-10332,Versandübergabe,2025-10-22 06:52:58,Rampe 1
+ORD-10333,Wareneingang im LVS,2025-10-26 18:51:29,Server
+ORD-10333,Kommissionierung gestartet,2025-10-26 21:51:29,Lagerhalle A
+ORD-10333,Kommissionierung beendet,2025-10-26 22:06:29,Lagerhalle A
+ORD-10333,Verpacken und Labeldruck,2025-10-26 22:54:29,Packtisch 3
+ORD-10333,Versandübergabe,2025-10-27 00:54:29,Rampe 1
+ORD-10334,Wareneingang im LVS,2025-09-01 12:16:40,Server
+ORD-10334,Kommissionierung gestartet,2025-09-01 19:16:40,Lagerhalle A
+ORD-10334,Kommissionierung beendet,2025-09-01 19:32:40,Lagerhalle A
+ORD-10334,Verpacken und Labeldruck,2025-09-01 20:47:40,Packtisch 3
+ORD-10334,Versandübergabe,2025-09-01 23:47:40,Rampe 1
+ORD-10335,Wareneingang im LVS,2025-10-07 17:12:57,Server
+ORD-10335,Kommissionierung gestartet,2025-10-09 04:12:57,Lagerhalle A
+ORD-10335,Kommissionierung beendet,2025-10-09 04:32:57,Lagerhalle A
+ORD-10335,Verpacken und Labeldruck,2025-10-09 04:42:57,Packtisch 3
+ORD-10335,Versandübergabe,2025-10-09 07:42:57,Rampe 1
+ORD-10336,Wareneingang im LVS,2025-10-14 18:09:16,Server
+ORD-10336,Kommissionierung gestartet,2025-10-15 20:09:16,Lagerhalle A
+ORD-10336,Kommissionierung beendet,2025-10-15 20:33:16,Lagerhalle A
+ORD-10336,Verpacken und Labeldruck,2025-10-15 21:04:16,Packtisch 3
+ORD-10336,Versandübergabe,2025-10-15 23:04:16,Rampe 1
+ORD-10337,Wareneingang im LVS,2025-09-13 13:59:52,Server
+ORD-10337,Kommissionierung gestartet,2025-09-14 06:59:52,Lagerhalle A
+ORD-10337,Kommissionierung beendet,2025-09-14 07:16:52,Lagerhalle A
+ORD-10337,Verpacken und Labeldruck,2025-09-14 08:36:52,Packtisch 3
+ORD-10337,Versandübergabe,2025-09-14 10:36:52,Rampe 1
+ORD-10338,Wareneingang im LVS,2025-09-24 12:03:32,Server
+ORD-10338,Kommissionierung gestartet,2025-09-25 08:03:32,Lagerhalle A
+ORD-10338,Kommissionierung beendet,2025-09-25 08:29:32,Lagerhalle A
+ORD-10338,Verpacken und Labeldruck,2025-09-25 08:54:32,Packtisch 3
+ORD-10338,Versandübergabe,2025-09-25 11:54:32,Rampe 1
+ORD-10339,Wareneingang im LVS,2025-09-09 12:55:29,Server
+ORD-10339,Kommissionierung gestartet,2025-09-11 10:55:29,Lagerhalle A
+ORD-10339,Kommissionierung beendet,2025-09-11 11:28:29,Lagerhalle A
+ORD-10339,Verpacken und Labeldruck,2025-09-11 13:28:29,Packtisch 3
+ORD-10339,Versandübergabe,2025-09-11 14:28:29,Rampe 1
+ORD-10340,Wareneingang im LVS,2025-10-11 09:01:00,Server
+ORD-10340,Kommissionierung gestartet,2025-10-13 08:01:00,Lagerhalle A
+ORD-10340,Kommissionierung beendet,2025-10-13 08:37:00,Lagerhalle A
+ORD-10340,Verpacken und Labeldruck,2025-10-13 10:12:00,Packtisch 3
+ORD-10340,Versandübergabe,2025-10-13 14:12:00,Rampe 1
+ORD-10341,Wareneingang im LVS,2025-10-05 13:06:02,Server
+ORD-10341,Kommissionierung gestartet,2025-10-06 23:06:02,Lagerhalle A
+ORD-10341,Kommissionierung beendet,2025-10-06 23:33:02,Lagerhalle A
+ORD-10341,Verpacken und Labeldruck,2025-10-07 01:10:02,Packtisch 3
+ORD-10341,Versandübergabe,2025-10-07 05:10:02,Rampe 1
+ORD-10342,Wareneingang im LVS,2025-10-23 09:14:33,Server
+ORD-10342,Kommissionierung gestartet,2025-10-24 09:14:33,Lagerhalle A
+ORD-10342,Kommissionierung beendet,2025-10-24 09:46:33,Lagerhalle A
+ORD-10342,Verpacken und Labeldruck,2025-10-24 11:45:33,Packtisch 3
+ORD-10342,Versandübergabe,2025-10-24 14:45:33,Rampe 1
+ORD-10343,Wareneingang im LVS,2025-09-23 10:47:49,Server
+ORD-10343,Kommissionierung gestartet,2025-09-24 05:47:49,Lagerhalle A
+ORD-10343,Kommissionierung beendet,2025-09-24 06:23:49,Lagerhalle A
+ORD-10343,Verpacken und Labeldruck,2025-09-24 07:10:49,Packtisch 3
+ORD-10343,Versandübergabe,2025-09-24 08:10:49,Rampe 1
+ORD-10344,Wareneingang im LVS,2025-09-19 18:35:51,Server
+ORD-10344,Kommissionierung gestartet,2025-09-19 21:35:51,Lagerhalle A
+ORD-10344,Kommissionierung beendet,2025-09-19 22:15:51,Lagerhalle A
+ORD-10344,Verpacken und Labeldruck,2025-09-19 23:42:51,Packtisch 3
+ORD-10344,Versandübergabe,2025-09-20 00:42:51,Rampe 1
+ORD-10345,Wareneingang im LVS,2025-10-16 12:21:38,Server
+ORD-10345,Kommissionierung gestartet,2025-10-17 13:21:38,Lagerhalle A
+ORD-10345,Kommissionierung beendet,2025-10-17 13:59:38,Lagerhalle A
+ORD-10345,Verpacken und Labeldruck,2025-10-17 15:53:38,Packtisch 3
+ORD-10345,Versandübergabe,2025-10-17 19:53:38,Rampe 1
+ORD-10346,Wareneingang im LVS,2025-09-01 18:45:57,Server
+ORD-10346,Kommissionierung gestartet,2025-09-02 03:45:57,Lagerhalle A
+ORD-10346,Kommissionierung beendet,2025-09-02 04:12:57,Lagerhalle A
+ORD-10346,Verpacken und Labeldruck,2025-09-02 05:43:57,Packtisch 3
+ORD-10346,Versandübergabe,2025-09-02 08:43:57,Rampe 1
+ORD-10347,Wareneingang im LVS,2025-09-20 14:24:02,Server
+ORD-10347,Kommissionierung gestartet,2025-09-22 09:24:02,Lagerhalle A
+ORD-10347,Kommissionierung beendet,2025-09-22 09:53:02,Lagerhalle A
+ORD-10347,Verpacken und Labeldruck,2025-09-22 10:18:02,Packtisch 3
+ORD-10347,Versandübergabe,2025-09-22 12:18:02,Rampe 1
+ORD-10348,Wareneingang im LVS,2025-09-20 10:55:50,Server
+ORD-10348,Kommissionierung gestartet,2025-09-21 08:55:50,Lagerhalle A
+ORD-10348,Kommissionierung beendet,2025-09-21 09:28:50,Lagerhalle A
+ORD-10348,Verpacken und Labeldruck,2025-09-21 09:56:50,Packtisch 3
+ORD-10348,Versandübergabe,2025-09-21 11:56:50,Rampe 1
+ORD-10349,Wareneingang im LVS,2025-09-15 14:05:16,Server
+ORD-10349,Kommissionierung gestartet,2025-09-16 03:05:16,Lagerhalle A
+ORD-10349,Kommissionierung beendet,2025-09-16 03:28:16,Lagerhalle A
+ORD-10349,Verpacken und Labeldruck,2025-09-16 04:15:16,Packtisch 3
+ORD-10349,Versandübergabe,2025-09-16 06:15:16,Rampe 1
+ORD-10350,Wareneingang im LVS,2025-09-27 15:09:54,Server
+ORD-10350,Kommissionierung gestartet,2025-09-28 01:09:54,Lagerhalle A
+ORD-10350,Kommissionierung beendet,2025-09-28 01:29:54,Lagerhalle A
+ORD-10350,Verpacken und Labeldruck,2025-09-28 02:41:54,Packtisch 3
+ORD-10350,Versandübergabe,2025-09-28 03:41:54,Rampe 1
+ORD-10351,Wareneingang im LVS,2025-09-29 18:57:20,Server
+ORD-10351,Kommissionierung gestartet,2025-10-01 18:57:20,Lagerhalle A
+ORD-10351,Kommissionierung beendet,2025-10-01 19:27:20,Lagerhalle A
+ORD-10351,Verpacken und Labeldruck,2025-10-01 19:42:20,Packtisch 3
+ORD-10351,Versandübergabe,2025-10-01 22:42:20,Rampe 1
+ORD-10352,Wareneingang im LVS,2025-09-28 13:51:58,Server
+ORD-10352,Kommissionierung gestartet,2025-09-29 14:51:58,Lagerhalle A
+ORD-10352,Kommissionierung beendet,2025-09-29 15:28:58,Lagerhalle A
+ORD-10352,Verpacken und Labeldruck,2025-09-29 17:21:58,Packtisch 3
+ORD-10352,Versandübergabe,2025-09-29 18:21:58,Rampe 1
+ORD-10353,Wareneingang im LVS,2025-10-15 15:59:24,Server
+ORD-10353,Kommissionierung gestartet,2025-10-16 06:59:24,Lagerhalle A
+ORD-10353,Kommissionierung beendet,2025-10-16 07:20:24,Lagerhalle A
+ORD-10353,Verpacken und Labeldruck,2025-10-16 07:42:24,Packtisch 3
+ORD-10353,Versandübergabe,2025-10-16 08:42:24,Rampe 1
+ORD-10354,Wareneingang im LVS,2025-10-18 09:44:02,Server
+ORD-10354,Kommissionierung gestartet,2025-10-19 22:44:02,Lagerhalle A
+ORD-10354,Kommissionierung beendet,2025-10-19 23:20:02,Lagerhalle A
+ORD-10354,Verpacken und Labeldruck,2025-10-20 01:19:02,Packtisch 3
+ORD-10354,Versandübergabe,2025-10-20 03:19:02,Rampe 1
+ORD-10355,Wareneingang im LVS,2025-10-16 06:20:10,Server
+ORD-10355,Kommissionierung gestartet,2025-10-18 00:20:10,Lagerhalle A
+ORD-10355,Kommissionierung beendet,2025-10-18 00:41:10,Lagerhalle A
+ORD-10355,Verpacken und Labeldruck,2025-10-18 02:33:10,Packtisch 3
+ORD-10355,Versandübergabe,2025-10-18 04:33:10,Rampe 1
+ORD-10356,Wareneingang im LVS,2025-09-13 14:31:27,Server
+ORD-10356,Kommissionierung gestartet,2025-09-15 03:31:27,Lagerhalle A
+ORD-10356,Kommissionierung beendet,2025-09-15 03:51:27,Lagerhalle A
+ORD-10356,Verpacken und Labeldruck,2025-09-15 05:20:27,Packtisch 3
+ORD-10356,Versandübergabe,2025-09-15 07:20:27,Rampe 1
+ORD-10357,Wareneingang im LVS,2025-09-04 10:29:16,Server
+ORD-10357,Kommissionierung gestartet,2025-09-05 13:29:16,Lagerhalle A
+ORD-10357,Kommissionierung beendet,2025-09-05 14:13:16,Lagerhalle A
+ORD-10357,Verpacken und Labeldruck,2025-09-05 15:13:16,Packtisch 3
+ORD-10357,Versandübergabe,2025-09-05 19:13:16,Rampe 1
+ORD-10358,Wareneingang im LVS,2025-10-10 10:14:02,Server
+ORD-10358,Kommissionierung gestartet,2025-10-12 00:14:02,Lagerhalle A
+ORD-10358,Kommissionierung beendet,2025-10-12 00:36:02,Lagerhalle A
+ORD-10358,Verpacken und Labeldruck,2025-10-12 00:51:02,Packtisch 3
+ORD-10358,Versandübergabe,2025-10-12 02:51:02,Rampe 1
+ORD-10359,Wareneingang im LVS,2025-09-08 19:26:58,Server
+ORD-10359,Kommissionierung gestartet,2025-09-10 06:26:58,Lagerhalle A
+ORD-10359,Kommissionierung beendet,2025-09-10 07:11:58,Lagerhalle A
+ORD-10359,Verpacken und Labeldruck,2025-09-10 08:20:58,Packtisch 3
+ORD-10359,Versandübergabe,2025-09-10 10:20:58,Rampe 1
+ORD-10360,Wareneingang im LVS,2025-10-16 09:50:52,Server
+ORD-10360,Kommissionierung gestartet,2025-10-17 11:50:52,Lagerhalle A
+ORD-10360,Kommissionierung beendet,2025-10-17 12:10:52,Lagerhalle A
+ORD-10360,Verpacken und Labeldruck,2025-10-17 12:22:52,Packtisch 3
+ORD-10360,Versandübergabe,2025-10-17 13:22:52,Rampe 1
+ORD-10361,Wareneingang im LVS,2025-10-18 15:23:57,Server
+ORD-10361,Kommissionierung gestartet,2025-10-19 03:23:57,Lagerhalle A
+ORD-10361,Kommissionierung beendet,2025-10-19 03:50:57,Lagerhalle A
+ORD-10361,Verpacken und Labeldruck,2025-10-19 04:49:57,Packtisch 3
+ORD-10361,Versandübergabe,2025-10-19 08:49:57,Rampe 1
+ORD-10362,Wareneingang im LVS,2025-10-01 13:39:08,Server
+ORD-10362,Kommissionierung gestartet,2025-10-01 21:39:08,Lagerhalle A
+ORD-10362,Kommissionierung beendet,2025-10-01 22:19:08,Lagerhalle A
+ORD-10362,Verpacken und Labeldruck,2025-10-02 00:15:08,Packtisch 3
+ORD-10362,Versandübergabe,2025-10-02 02:15:08,Rampe 1
+ORD-10363,Wareneingang im LVS,2025-10-25 11:34:32,Server
+ORD-10363,Kommissionierung gestartet,2025-10-26 10:34:32,Lagerhalle A
+ORD-10363,Kommissionierung beendet,2025-10-26 11:05:32,Lagerhalle A
+ORD-10363,Verpacken und Labeldruck,2025-10-26 11:21:32,Packtisch 3
+ORD-10363,Versandübergabe,2025-10-26 15:21:32,Rampe 1
+ORD-10364,Wareneingang im LVS,2025-09-07 13:48:44,Server
+ORD-10364,Kommissionierung gestartet,2025-09-07 15:48:44,Lagerhalle A
+ORD-10364,Kommissionierung beendet,2025-09-07 16:30:44,Lagerhalle A
+ORD-10364,Verpacken und Labeldruck,2025-09-07 17:07:44,Packtisch 3
+ORD-10364,Versandübergabe,2025-09-07 18:07:44,Rampe 1
+ORD-10365,Wareneingang im LVS,2025-09-05 12:41:15,Server
+ORD-10365,Kommissionierung gestartet,2025-09-05 14:41:15,Lagerhalle A
+ORD-10365,Kommissionierung beendet,2025-09-05 15:20:15,Lagerhalle A
+ORD-10365,Verpacken und Labeldruck,2025-09-05 15:54:15,Packtisch 3
+ORD-10365,Versandübergabe,2025-09-05 19:54:15,Rampe 1
+ORD-10366,Wareneingang im LVS,2025-09-04 13:20:13,Server
+ORD-10366,Kommissionierung gestartet,2025-09-04 16:20:13,Lagerhalle A
+ORD-10366,Kommissionierung beendet,2025-09-04 16:40:13,Lagerhalle A
+ORD-10366,Verpacken und Labeldruck,2025-09-04 18:18:13,Packtisch 3
+ORD-10366,Versandübergabe,2025-09-04 22:18:13,Rampe 1
+ORD-10367,Wareneingang im LVS,2025-09-07 15:47:50,Server
+ORD-10367,Kommissionierung gestartet,2025-09-09 12:47:50,Lagerhalle A
+ORD-10367,Kommissionierung beendet,2025-09-09 13:30:50,Lagerhalle A
+ORD-10367,Verpacken und Labeldruck,2025-09-09 15:30:50,Packtisch 3
+ORD-10367,Versandübergabe,2025-09-09 18:30:50,Rampe 1
+ORD-10368,Wareneingang im LVS,2025-10-06 15:41:33,Server
+ORD-10368,Kommissionierung gestartet,2025-10-07 21:41:33,Lagerhalle A
+ORD-10368,Kommissionierung beendet,2025-10-07 22:22:33,Lagerhalle A
+ORD-10368,Verpacken und Labeldruck,2025-10-07 22:37:33,Packtisch 3
+ORD-10368,Versandübergabe,2025-10-08 01:37:33,Rampe 1
+ORD-10369,Wareneingang im LVS,2025-10-31 15:52:33,Server
+ORD-10369,Kommissionierung gestartet,2025-11-02 02:52:33,Lagerhalle A
+ORD-10369,Kommissionierung beendet,2025-11-02 03:10:33,Lagerhalle A
+ORD-10369,Verpacken und Labeldruck,2025-11-02 03:34:33,Packtisch 3
+ORD-10369,Versandübergabe,2025-11-02 05:34:33,Rampe 1
+ORD-10370,Wareneingang im LVS,2025-10-07 10:53:38,Server
+ORD-10370,Kommissionierung gestartet,2025-10-08 01:53:38,Lagerhalle A
+ORD-10370,Kommissionierung beendet,2025-10-08 02:12:38,Lagerhalle A
+ORD-10370,Verpacken und Labeldruck,2025-10-08 04:08:38,Packtisch 3
+ORD-10370,Versandübergabe,2025-10-08 06:08:38,Rampe 1
+ORD-10371,Wareneingang im LVS,2025-09-22 20:41:27,Server
+ORD-10371,Kommissionierung gestartet,2025-09-24 19:41:27,Lagerhalle A
+ORD-10371,Kommissionierung beendet,2025-09-24 20:25:27,Lagerhalle A
+ORD-10371,Verpacken und Labeldruck,2025-09-24 21:04:27,Packtisch 3
+ORD-10371,Versandübergabe,2025-09-25 01:04:27,Rampe 1
+ORD-10372,Wareneingang im LVS,2025-10-18 12:55:07,Server
+ORD-10372,Kommissionierung gestartet,2025-10-19 06:55:07,Lagerhalle A
+ORD-10372,Kommissionierung beendet,2025-10-19 07:20:07,Lagerhalle A
+ORD-10372,Verpacken und Labeldruck,2025-10-19 08:15:07,Packtisch 3
+ORD-10372,Versandübergabe,2025-10-19 12:15:07,Rampe 1
+ORD-10373,Wareneingang im LVS,2025-09-04 05:04:41,Server
+ORD-10373,Kommissionierung gestartet,2025-09-05 07:04:41,Lagerhalle A
+ORD-10373,Kommissionierung beendet,2025-09-05 07:36:41,Lagerhalle A
+ORD-10373,Verpacken und Labeldruck,2025-09-05 08:42:41,Packtisch 3
+ORD-10373,Versandübergabe,2025-09-05 12:42:41,Rampe 1
+ORD-10374,Wareneingang im LVS,2025-09-20 15:09:59,Server
+ORD-10374,Kommissionierung gestartet,2025-09-21 12:09:59,Lagerhalle A
+ORD-10374,Kommissionierung beendet,2025-09-21 12:50:59,Lagerhalle A
+ORD-10374,Verpacken und Labeldruck,2025-09-21 14:43:59,Packtisch 3
+ORD-10374,Versandübergabe,2025-09-21 15:43:59,Rampe 1
+ORD-10375,Wareneingang im LVS,2025-09-16 12:12:40,Server
+ORD-10375,Kommissionierung gestartet,2025-09-17 11:12:40,Lagerhalle A
+ORD-10375,Kommissionierung beendet,2025-09-17 11:38:40,Lagerhalle A
+ORD-10375,Verpacken und Labeldruck,2025-09-17 13:20:40,Packtisch 3
+ORD-10375,Versandübergabe,2025-09-17 16:20:40,Rampe 1
+ORD-10376,Wareneingang im LVS,2025-09-10 12:56:22,Server
+ORD-10376,Kommissionierung gestartet,2025-09-11 09:56:22,Lagerhalle A
+ORD-10376,Kommissionierung beendet,2025-09-11 10:21:22,Lagerhalle A
+ORD-10376,Verpacken und Labeldruck,2025-09-11 12:17:22,Packtisch 3
+ORD-10376,Versandübergabe,2025-09-11 16:17:22,Rampe 1
+ORD-10377,Wareneingang im LVS,2025-10-26 12:00:31,Server
+ORD-10377,Kommissionierung gestartet,2025-10-28 10:00:31,Lagerhalle A
+ORD-10377,Kommissionierung beendet,2025-10-28 10:24:31,Lagerhalle A
+ORD-10377,Verpacken und Labeldruck,2025-10-28 11:41:31,Packtisch 3
+ORD-10377,Versandübergabe,2025-10-28 15:41:31,Rampe 1
+ORD-10378,Wareneingang im LVS,2025-09-20 09:24:04,Server
+ORD-10378,Kommissionierung gestartet,2025-09-21 00:24:04,Lagerhalle A
+ORD-10378,Kommissionierung beendet,2025-09-21 00:48:04,Lagerhalle A
+ORD-10378,Verpacken und Labeldruck,2025-09-21 01:12:04,Packtisch 3
+ORD-10378,Versandübergabe,2025-09-21 02:12:04,Rampe 1
+ORD-10379,Wareneingang im LVS,2025-09-30 10:15:13,Server
+ORD-10379,Kommissionierung gestartet,2025-10-01 09:15:13,Lagerhalle A
+ORD-10379,Kommissionierung beendet,2025-10-01 09:32:13,Lagerhalle A
+ORD-10379,Verpacken und Labeldruck,2025-10-01 10:08:13,Packtisch 3
+ORD-10379,Versandübergabe,2025-10-01 11:08:13,Rampe 1
+ORD-10380,Wareneingang im LVS,2025-09-25 17:55:15,Server
+ORD-10380,Kommissionierung gestartet,2025-09-26 04:55:15,Lagerhalle A
+ORD-10380,Kommissionierung beendet,2025-09-26 05:10:15,Lagerhalle A
+ORD-10380,Verpacken und Labeldruck,2025-09-26 07:07:15,Packtisch 3
+ORD-10380,Versandübergabe,2025-09-26 11:07:15,Rampe 1
+ORD-10381,Wareneingang im LVS,2025-10-07 09:12:32,Server
+ORD-10381,Kommissionierung gestartet,2025-10-07 22:12:32,Lagerhalle A
+ORD-10381,Kommissionierung beendet,2025-10-07 22:55:32,Lagerhalle A
+ORD-10381,Verpacken und Labeldruck,2025-10-07 23:30:32,Packtisch 3
+ORD-10381,Versandübergabe,2025-10-08 01:30:32,Rampe 1
+ORD-10382,Wareneingang im LVS,2025-10-03 10:31:28,Server
+ORD-10382,Kommissionierung gestartet,2025-10-03 15:31:28,Lagerhalle A
+ORD-10382,Kommissionierung beendet,2025-10-03 16:09:28,Lagerhalle A
+ORD-10382,Verpacken und Labeldruck,2025-10-03 17:45:28,Packtisch 3
+ORD-10382,Versandübergabe,2025-10-03 19:45:28,Rampe 1
+ORD-10383,Wareneingang im LVS,2025-09-08 10:17:10,Server
+ORD-10383,Kommissionierung gestartet,2025-09-08 18:17:10,Lagerhalle A
+ORD-10383,Kommissionierung beendet,2025-09-08 19:01:10,Lagerhalle A
+ORD-10383,Verpacken und Labeldruck,2025-09-08 19:35:10,Packtisch 3
+ORD-10383,Versandübergabe,2025-09-08 21:35:10,Rampe 1
+ORD-10384,Wareneingang im LVS,2025-10-30 19:17:49,Server
+ORD-10384,Kommissionierung gestartet,2025-10-31 16:17:49,Lagerhalle A
+ORD-10384,Kommissionierung beendet,2025-10-31 16:40:49,Lagerhalle A
+ORD-10384,Verpacken und Labeldruck,2025-10-31 18:07:49,Packtisch 3
+ORD-10384,Versandübergabe,2025-10-31 22:07:49,Rampe 1
+ORD-10385,Wareneingang im LVS,2025-09-20 14:08:32,Server
+ORD-10385,Kommissionierung gestartet,2025-09-21 20:08:32,Lagerhalle A
+ORD-10385,Kommissionierung beendet,2025-09-21 20:42:32,Lagerhalle A
+ORD-10385,Verpacken und Labeldruck,2025-09-21 22:34:32,Packtisch 3
+ORD-10385,Versandübergabe,2025-09-22 02:34:32,Rampe 1
+ORD-10386,Wareneingang im LVS,2025-09-29 15:24:51,Server
+ORD-10386,Kommissionierung gestartet,2025-10-01 13:24:51,Lagerhalle A
+ORD-10386,Kommissionierung beendet,2025-10-01 13:55:51,Lagerhalle A
+ORD-10386,Verpacken und Labeldruck,2025-10-01 15:52:51,Packtisch 3
+ORD-10386,Versandübergabe,2025-10-01 18:52:51,Rampe 1
+ORD-10387,Wareneingang im LVS,2025-10-17 15:30:30,Server
+ORD-10387,Kommissionierung gestartet,2025-10-19 06:30:30,Lagerhalle A
+ORD-10387,Kommissionierung beendet,2025-10-19 06:51:30,Lagerhalle A
+ORD-10387,Verpacken und Labeldruck,2025-10-19 07:45:30,Packtisch 3
+ORD-10387,Versandübergabe,2025-10-19 10:45:30,Rampe 1
+ORD-10388,Wareneingang im LVS,2025-10-02 14:27:19,Server
+ORD-10388,Kommissionierung gestartet,2025-10-02 22:27:19,Lagerhalle A
+ORD-10388,Kommissionierung beendet,2025-10-02 22:50:19,Lagerhalle A
+ORD-10388,Verpacken und Labeldruck,2025-10-03 00:14:19,Packtisch 3
+ORD-10388,Versandübergabe,2025-10-03 02:14:19,Rampe 1
+ORD-10389,Wareneingang im LVS,2025-10-17 13:24:26,Server
+ORD-10389,Kommissionierung gestartet,2025-10-18 10:24:26,Lagerhalle A
+ORD-10389,Kommissionierung beendet,2025-10-18 10:47:26,Lagerhalle A
+ORD-10389,Verpacken und Labeldruck,2025-10-18 11:53:26,Packtisch 3
+ORD-10389,Versandübergabe,2025-10-18 14:53:26,Rampe 1
+ORD-10390,Wareneingang im LVS,2025-09-20 17:18:56,Server
+ORD-10390,Kommissionierung gestartet,2025-09-22 13:18:56,Lagerhalle A
+ORD-10390,Kommissionierung beendet,2025-09-22 13:47:56,Lagerhalle A
+ORD-10390,Verpacken und Labeldruck,2025-09-22 15:07:56,Packtisch 3
+ORD-10390,Versandübergabe,2025-09-22 17:07:56,Rampe 1
+ORD-10391,Wareneingang im LVS,2025-09-26 16:07:11,Server
+ORD-10391,Kommissionierung gestartet,2025-09-27 16:07:11,Lagerhalle A
+ORD-10391,Kommissionierung beendet,2025-09-27 16:48:11,Lagerhalle A
+ORD-10391,Verpacken und Labeldruck,2025-09-27 18:15:11,Packtisch 3
+ORD-10391,Versandübergabe,2025-09-27 19:15:11,Rampe 1
+ORD-10392,Wareneingang im LVS,2025-09-19 18:49:53,Server
+ORD-10392,Kommissionierung gestartet,2025-09-21 14:49:53,Lagerhalle A
+ORD-10392,Kommissionierung beendet,2025-09-21 15:23:53,Lagerhalle A
+ORD-10392,Verpacken und Labeldruck,2025-09-21 16:40:53,Packtisch 3
+ORD-10392,Versandübergabe,2025-09-21 18:40:53,Rampe 1
+ORD-10393,Wareneingang im LVS,2025-10-04 17:37:28,Server
+ORD-10393,Kommissionierung gestartet,2025-10-06 04:37:28,Lagerhalle A
+ORD-10393,Kommissionierung beendet,2025-10-06 05:09:28,Lagerhalle A
+ORD-10393,Verpacken und Labeldruck,2025-10-06 06:14:28,Packtisch 3
+ORD-10393,Versandübergabe,2025-10-06 08:14:28,Rampe 1
+ORD-10394,Wareneingang im LVS,2025-10-11 17:36:28,Server
+ORD-10394,Kommissionierung gestartet,2025-10-12 22:36:28,Lagerhalle A
+ORD-10394,Kommissionierung beendet,2025-10-12 23:03:28,Lagerhalle A
+ORD-10394,Verpacken und Labeldruck,2025-10-12 23:50:28,Packtisch 3
+ORD-10394,Versandübergabe,2025-10-13 02:50:28,Rampe 1
+ORD-10395,Wareneingang im LVS,2025-10-30 19:29:44,Server
+ORD-10395,Kommissionierung gestartet,2025-11-01 13:29:44,Lagerhalle A
+ORD-10395,Kommissionierung beendet,2025-11-01 14:12:44,Lagerhalle A
+ORD-10395,Verpacken und Labeldruck,2025-11-01 15:30:44,Packtisch 3
+ORD-10395,Versandübergabe,2025-11-01 18:30:44,Rampe 1
+ORD-10396,Wareneingang im LVS,2025-10-14 09:18:51,Server
+ORD-10396,Kommissionierung gestartet,2025-10-14 17:18:51,Lagerhalle A
+ORD-10396,Kommissionierung beendet,2025-10-14 17:51:51,Lagerhalle A
+ORD-10396,Verpacken und Labeldruck,2025-10-14 18:40:51,Packtisch 3
+ORD-10396,Versandübergabe,2025-10-14 21:40:51,Rampe 1
+ORD-10397,Wareneingang im LVS,2025-10-09 11:37:51,Server
+ORD-10397,Kommissionierung gestartet,2025-10-10 17:37:51,Lagerhalle A
+ORD-10397,Kommissionierung beendet,2025-10-10 18:13:51,Lagerhalle A
+ORD-10397,Verpacken und Labeldruck,2025-10-10 19:59:51,Packtisch 3
+ORD-10397,Versandübergabe,2025-10-10 22:59:51,Rampe 1
+ORD-10398,Wareneingang im LVS,2025-10-01 13:17:14,Server
+ORD-10398,Kommissionierung gestartet,2025-10-03 00:17:14,Lagerhalle A
+ORD-10398,Kommissionierung beendet,2025-10-03 00:34:14,Lagerhalle A
+ORD-10398,Verpacken und Labeldruck,2025-10-03 01:49:14,Packtisch 3
+ORD-10398,Versandübergabe,2025-10-03 05:49:14,Rampe 1
+ORD-10399,Wareneingang im LVS,2025-09-25 10:33:55,Server
+ORD-10399,Kommissionierung gestartet,2025-09-26 16:33:55,Lagerhalle A
+ORD-10399,Kommissionierung beendet,2025-09-26 16:58:55,Lagerhalle A
+ORD-10399,Verpacken und Labeldruck,2025-09-26 18:19:55,Packtisch 3
+ORD-10399,Versandübergabe,2025-09-26 20:19:55,Rampe 1
+ORD-10400,Wareneingang im LVS,2025-09-24 12:37:52,Server
+ORD-10400,Kommissionierung gestartet,2025-09-24 20:37:52,Lagerhalle A
+ORD-10400,Kommissionierung beendet,2025-09-24 21:00:52,Lagerhalle A
+ORD-10400,Verpacken und Labeldruck,2025-09-24 22:42:52,Packtisch 3
+ORD-10400,Versandübergabe,2025-09-25 01:42:52,Rampe 1
+ORD-10401,Wareneingang im LVS,2025-09-21 11:10:35,Server
+ORD-10401,Kommissionierung gestartet,2025-09-22 05:10:35,Lagerhalle A
+ORD-10401,Kommissionierung beendet,2025-09-22 05:40:35,Lagerhalle A
+ORD-10401,Verpacken und Labeldruck,2025-09-22 05:50:35,Packtisch 3
+ORD-10401,Versandübergabe,2025-09-22 09:50:35,Rampe 1
+ORD-10402,Wareneingang im LVS,2025-10-03 17:05:33,Server
+ORD-10402,Kommissionierung gestartet,2025-10-04 12:05:33,Lagerhalle A
+ORD-10402,Kommissionierung beendet,2025-10-04 12:43:33,Lagerhalle A
+ORD-10402,Verpacken und Labeldruck,2025-10-04 13:33:33,Packtisch 3
+ORD-10402,Versandübergabe,2025-10-04 15:33:33,Rampe 1
+ORD-10403,Wareneingang im LVS,2025-09-19 12:59:44,Server
+ORD-10403,Kommissionierung gestartet,2025-09-19 17:59:44,Lagerhalle A
+ORD-10403,Kommissionierung beendet,2025-09-19 18:28:44,Lagerhalle A
+ORD-10403,Verpacken und Labeldruck,2025-09-19 19:06:44,Packtisch 3
+ORD-10403,Versandübergabe,2025-09-19 23:06:44,Rampe 1
+ORD-10404,Wareneingang im LVS,2025-10-26 16:43:04,Server
+ORD-10404,Kommissionierung gestartet,2025-10-26 21:43:04,Lagerhalle A
+ORD-10404,Kommissionierung beendet,2025-10-26 22:18:04,Lagerhalle A
+ORD-10404,Verpacken und Labeldruck,2025-10-26 22:31:04,Packtisch 3
+ORD-10404,Versandübergabe,2025-10-27 00:31:04,Rampe 1
+ORD-10405,Wareneingang im LVS,2025-10-25 09:05:11,Server
+ORD-10405,Kommissionierung gestartet,2025-10-27 04:05:11,Lagerhalle A
+ORD-10405,Kommissionierung beendet,2025-10-27 04:34:11,Lagerhalle A
+ORD-10405,Verpacken und Labeldruck,2025-10-27 06:07:11,Packtisch 3
+ORD-10405,Versandübergabe,2025-10-27 10:07:11,Rampe 1
+ORD-10406,Wareneingang im LVS,2025-10-11 09:01:18,Server
+ORD-10406,Kommissionierung gestartet,2025-10-11 15:01:18,Lagerhalle A
+ORD-10406,Kommissionierung beendet,2025-10-11 15:16:18,Lagerhalle A
+ORD-10406,Verpacken und Labeldruck,2025-10-11 16:20:18,Packtisch 3
+ORD-10406,Versandübergabe,2025-10-11 19:20:18,Rampe 1
+ORD-10407,Wareneingang im LVS,2025-09-07 16:23:44,Server
+ORD-10407,Kommissionierung gestartet,2025-09-08 22:23:44,Lagerhalle A
+ORD-10407,Kommissionierung beendet,2025-09-08 22:59:44,Lagerhalle A
+ORD-10407,Verpacken und Labeldruck,2025-09-09 00:07:44,Packtisch 3
+ORD-10407,Versandübergabe,2025-09-09 04:07:44,Rampe 1
+ORD-10408,Wareneingang im LVS,2025-10-23 16:34:32,Server
+ORD-10408,Kommissionierung gestartet,2025-10-25 05:34:32,Lagerhalle A
+ORD-10408,Kommissionierung beendet,2025-10-25 05:53:32,Lagerhalle A
+ORD-10408,Verpacken und Labeldruck,2025-10-25 06:06:32,Packtisch 3
+ORD-10408,Versandübergabe,2025-10-25 07:06:32,Rampe 1
+ORD-10409,Wareneingang im LVS,2025-09-08 19:25:53,Server
+ORD-10409,Kommissionierung gestartet,2025-09-10 09:25:53,Lagerhalle A
+ORD-10409,Kommissionierung beendet,2025-09-10 10:03:53,Lagerhalle A
+ORD-10409,Verpacken und Labeldruck,2025-09-10 11:43:53,Packtisch 3
+ORD-10409,Versandübergabe,2025-09-10 15:43:53,Rampe 1
+ORD-10410,Wareneingang im LVS,2025-10-12 09:56:19,Server
+ORD-10410,Kommissionierung gestartet,2025-10-12 15:56:19,Lagerhalle A
+ORD-10410,Kommissionierung beendet,2025-10-12 16:23:19,Lagerhalle A
+ORD-10410,Verpacken und Labeldruck,2025-10-12 17:19:19,Packtisch 3
+ORD-10410,Versandübergabe,2025-10-12 20:19:19,Rampe 1
+ORD-10411,Wareneingang im LVS,2025-09-26 18:40:44,Server
+ORD-10411,Kommissionierung gestartet,2025-09-28 18:40:44,Lagerhalle A
+ORD-10411,Kommissionierung beendet,2025-09-28 18:56:44,Lagerhalle A
+ORD-10411,Verpacken und Labeldruck,2025-09-28 19:19:44,Packtisch 3
+ORD-10411,Versandübergabe,2025-09-28 23:19:44,Rampe 1
+ORD-10412,Wareneingang im LVS,2025-10-18 11:10:17,Server
+ORD-10412,Kommissionierung gestartet,2025-10-20 00:10:17,Lagerhalle A
+ORD-10412,Kommissionierung beendet,2025-10-20 00:29:17,Lagerhalle A
+ORD-10412,Verpacken und Labeldruck,2025-10-20 01:51:17,Packtisch 3
+ORD-10412,Versandübergabe,2025-10-20 02:51:17,Rampe 1
+ORD-10413,Wareneingang im LVS,2025-09-15 01:44:54,Server
+ORD-10413,Kommissionierung gestartet,2025-09-15 06:44:54,Lagerhalle A
+ORD-10413,Kommissionierung beendet,2025-09-15 07:09:54,Lagerhalle A
+ORD-10413,Verpacken und Labeldruck,2025-09-15 09:04:54,Packtisch 3
+ORD-10413,Versandübergabe,2025-09-15 10:04:54,Rampe 1
+ORD-10414,Wareneingang im LVS,2025-09-13 17:15:48,Server
+ORD-10414,Kommissionierung gestartet,2025-09-14 12:15:48,Lagerhalle A
+ORD-10414,Kommissionierung beendet,2025-09-14 12:35:48,Lagerhalle A
+ORD-10414,Verpacken und Labeldruck,2025-09-14 13:31:48,Packtisch 3
+ORD-10414,Versandübergabe,2025-09-14 15:31:48,Rampe 1
+ORD-10415,Wareneingang im LVS,2025-09-26 16:28:12,Server
+ORD-10415,Kommissionierung gestartet,2025-09-27 22:28:12,Lagerhalle A
+ORD-10415,Kommissionierung beendet,2025-09-27 22:47:12,Lagerhalle A
+ORD-10415,Verpacken und Labeldruck,2025-09-27 23:23:12,Packtisch 3
+ORD-10415,Versandübergabe,2025-09-28 03:23:12,Rampe 1
+ORD-10416,Wareneingang im LVS,2025-09-03 08:43:46,Server
+ORD-10416,Kommissionierung gestartet,2025-09-04 17:43:46,Lagerhalle A
+ORD-10416,Kommissionierung beendet,2025-09-04 18:16:46,Lagerhalle A
+ORD-10416,Verpacken und Labeldruck,2025-09-04 19:53:46,Packtisch 3
+ORD-10416,Versandübergabe,2025-09-04 21:53:46,Rampe 1
+ORD-10417,Wareneingang im LVS,2025-09-09 10:20:21,Server
+ORD-10417,Kommissionierung gestartet,2025-09-11 00:20:21,Lagerhalle A
+ORD-10417,Kommissionierung beendet,2025-09-11 00:36:21,Lagerhalle A
+ORD-10417,Verpacken und Labeldruck,2025-09-11 02:16:21,Packtisch 3
+ORD-10417,Versandübergabe,2025-09-11 06:16:21,Rampe 1
+ORD-10418,Wareneingang im LVS,2025-10-21 13:59:33,Server
+ORD-10418,Kommissionierung gestartet,2025-10-23 07:59:33,Lagerhalle A
+ORD-10418,Kommissionierung beendet,2025-10-23 08:44:33,Lagerhalle A
+ORD-10418,Verpacken und Labeldruck,2025-10-23 09:23:33,Packtisch 3
+ORD-10418,Versandübergabe,2025-10-23 10:23:33,Rampe 1
+ORD-10419,Wareneingang im LVS,2025-09-18 17:02:51,Server
+ORD-10419,Kommissionierung gestartet,2025-09-20 02:02:51,Lagerhalle A
+ORD-10419,Kommissionierung beendet,2025-09-20 02:46:51,Lagerhalle A
+ORD-10419,Verpacken und Labeldruck,2025-09-20 03:22:51,Packtisch 3
+ORD-10419,Versandübergabe,2025-09-20 05:22:51,Rampe 1
+ORD-10420,Wareneingang im LVS,2025-09-29 13:23:28,Server
+ORD-10420,Kommissionierung gestartet,2025-09-30 22:23:28,Lagerhalle A
+ORD-10420,Kommissionierung beendet,2025-09-30 22:54:28,Lagerhalle A
+ORD-10420,Verpacken und Labeldruck,2025-10-01 00:38:28,Packtisch 3
+ORD-10420,Versandübergabe,2025-10-01 03:38:28,Rampe 1
+ORD-10421,Wareneingang im LVS,2025-09-03 15:42:28,Server
+ORD-10421,Kommissionierung gestartet,2025-09-05 01:42:28,Lagerhalle A
+ORD-10421,Kommissionierung beendet,2025-09-05 02:09:28,Lagerhalle A
+ORD-10421,Verpacken und Labeldruck,2025-09-05 02:23:28,Packtisch 3
+ORD-10421,Versandübergabe,2025-09-05 05:23:28,Rampe 1
+ORD-10422,Wareneingang im LVS,2025-09-30 11:06:39,Server
+ORD-10422,Kommissionierung gestartet,2025-10-02 08:06:39,Lagerhalle A
+ORD-10422,Kommissionierung beendet,2025-10-02 08:35:39,Lagerhalle A
+ORD-10422,Verpacken und Labeldruck,2025-10-02 09:05:39,Packtisch 3
+ORD-10422,Versandübergabe,2025-10-02 10:05:39,Rampe 1
+ORD-10423,Wareneingang im LVS,2025-10-24 14:23:12,Server
+ORD-10423,Kommissionierung gestartet,2025-10-26 08:23:12,Lagerhalle A
+ORD-10423,Kommissionierung beendet,2025-10-26 08:39:12,Lagerhalle A
+ORD-10423,Verpacken und Labeldruck,2025-10-26 09:18:12,Packtisch 3
+ORD-10423,Versandübergabe,2025-10-26 11:18:12,Rampe 1
+ORD-10424,Wareneingang im LVS,2025-10-01 16:05:24,Server
+ORD-10424,Kommissionierung gestartet,2025-10-03 07:05:24,Lagerhalle A
+ORD-10424,Kommissionierung beendet,2025-10-03 07:37:24,Lagerhalle A
+ORD-10424,Verpacken und Labeldruck,2025-10-03 09:34:24,Packtisch 3
+ORD-10424,Versandübergabe,2025-10-03 13:34:24,Rampe 1
+ORD-10425,Wareneingang im LVS,2025-10-10 14:29:19,Server
+ORD-10425,Kommissionierung gestartet,2025-10-11 05:29:19,Lagerhalle A
+ORD-10425,Kommissionierung beendet,2025-10-11 05:57:19,Lagerhalle A
+ORD-10425,Verpacken und Labeldruck,2025-10-11 06:29:19,Packtisch 3
+ORD-10425,Versandübergabe,2025-10-11 07:29:19,Rampe 1
+ORD-10426,Wareneingang im LVS,2025-09-01 09:13:30,Server
+ORD-10426,Kommissionierung gestartet,2025-09-02 21:13:30,Lagerhalle A
+ORD-10426,Kommissionierung beendet,2025-09-02 21:53:30,Lagerhalle A
+ORD-10426,Verpacken und Labeldruck,2025-09-02 23:37:30,Packtisch 3
+ORD-10426,Versandübergabe,2025-09-03 01:37:30,Rampe 1
+ORD-10427,Wareneingang im LVS,2025-09-01 14:16:24,Server
+ORD-10427,Kommissionierung gestartet,2025-09-03 14:16:24,Lagerhalle A
+ORD-10427,Kommissionierung beendet,2025-09-03 14:37:24,Lagerhalle A
+ORD-10427,Verpacken und Labeldruck,2025-09-03 16:35:24,Packtisch 3
+ORD-10427,Versandübergabe,2025-09-03 17:35:24,Rampe 1
+ORD-10428,Wareneingang im LVS,2025-10-11 16:10:48,Server
+ORD-10428,Kommissionierung gestartet,2025-10-12 06:10:48,Lagerhalle A
+ORD-10428,Kommissionierung beendet,2025-10-12 06:32:48,Lagerhalle A
+ORD-10428,Verpacken und Labeldruck,2025-10-12 08:30:48,Packtisch 3
+ORD-10428,Versandübergabe,2025-10-12 09:30:48,Rampe 1
+ORD-10429,Wareneingang im LVS,2025-10-29 08:22:07,Server
+ORD-10429,Kommissionierung gestartet,2025-10-31 02:22:07,Lagerhalle A
+ORD-10429,Kommissionierung beendet,2025-10-31 02:45:07,Lagerhalle A
+ORD-10429,Verpacken und Labeldruck,2025-10-31 03:00:07,Packtisch 3
+ORD-10429,Versandübergabe,2025-10-31 04:00:07,Rampe 1
+ORD-10430,Wareneingang im LVS,2025-09-10 13:55:21,Server
+ORD-10430,Kommissionierung gestartet,2025-09-10 22:55:21,Lagerhalle A
+ORD-10430,Kommissionierung beendet,2025-09-10 23:31:21,Lagerhalle A
+ORD-10430,Verpacken und Labeldruck,2025-09-11 00:25:21,Packtisch 3
+ORD-10430,Versandübergabe,2025-09-11 03:25:21,Rampe 1
+ORD-10431,Wareneingang im LVS,2025-09-24 14:03:24,Server
+ORD-10431,Kommissionierung gestartet,2025-09-24 22:03:24,Lagerhalle A
+ORD-10431,Kommissionierung beendet,2025-09-24 22:44:24,Lagerhalle A
+ORD-10431,Verpacken und Labeldruck,2025-09-24 23:48:24,Packtisch 3
+ORD-10431,Versandübergabe,2025-09-25 03:48:24,Rampe 1
+ORD-10432,Wareneingang im LVS,2025-10-30 17:09:13,Server
+ORD-10432,Kommissionierung gestartet,2025-11-01 15:09:13,Lagerhalle A
+ORD-10432,Kommissionierung beendet,2025-11-01 15:48:13,Lagerhalle A
+ORD-10432,Verpacken und Labeldruck,2025-11-01 16:03:13,Packtisch 3
+ORD-10432,Versandübergabe,2025-11-01 19:03:13,Rampe 1
+ORD-10433,Wareneingang im LVS,2025-10-06 09:57:10,Server
+ORD-10433,Kommissionierung gestartet,2025-10-07 03:57:10,Lagerhalle A
+ORD-10433,Kommissionierung beendet,2025-10-07 04:33:10,Lagerhalle A
+ORD-10433,Verpacken und Labeldruck,2025-10-07 05:36:10,Packtisch 3
+ORD-10433,Versandübergabe,2025-10-07 08:36:10,Rampe 1
+ORD-10434,Wareneingang im LVS,2025-09-05 14:31:26,Server
+ORD-10434,Kommissionierung gestartet,2025-09-07 11:31:26,Lagerhalle A
+ORD-10434,Kommissionierung beendet,2025-09-07 11:54:26,Lagerhalle A
+ORD-10434,Verpacken und Labeldruck,2025-09-07 13:30:26,Packtisch 3
+ORD-10434,Versandübergabe,2025-09-07 17:30:26,Rampe 1
+ORD-10435,Wareneingang im LVS,2025-09-14 08:56:51,Server
+ORD-10435,Kommissionierung gestartet,2025-09-16 03:56:51,Lagerhalle A
+ORD-10435,Kommissionierung beendet,2025-09-16 04:23:51,Lagerhalle A
+ORD-10435,Verpacken und Labeldruck,2025-09-16 05:31:51,Packtisch 3
+ORD-10435,Versandübergabe,2025-09-16 06:31:51,Rampe 1
+ORD-10436,Wareneingang im LVS,2025-09-06 17:28:45,Server
+ORD-10436,Kommissionierung gestartet,2025-09-08 13:28:45,Lagerhalle A
+ORD-10436,Kommissionierung beendet,2025-09-08 14:06:45,Lagerhalle A
+ORD-10436,Verpacken und Labeldruck,2025-09-08 14:37:45,Packtisch 3
+ORD-10436,Versandübergabe,2025-09-08 18:37:45,Rampe 1
+ORD-10437,Wareneingang im LVS,2025-10-04 11:13:34,Server
+ORD-10437,Kommissionierung gestartet,2025-10-05 11:13:34,Lagerhalle A
+ORD-10437,Kommissionierung beendet,2025-10-05 11:33:34,Lagerhalle A
+ORD-10437,Verpacken und Labeldruck,2025-10-05 12:27:34,Packtisch 3
+ORD-10437,Versandübergabe,2025-10-05 14:27:34,Rampe 1
+ORD-10438,Wareneingang im LVS,2025-10-20 10:02:22,Server
+ORD-10438,Kommissionierung gestartet,2025-10-22 04:02:22,Lagerhalle A
+ORD-10438,Kommissionierung beendet,2025-10-22 04:35:22,Lagerhalle A
+ORD-10438,Verpacken und Labeldruck,2025-10-22 04:48:22,Packtisch 3
+ORD-10438,Versandübergabe,2025-10-22 08:48:22,Rampe 1
+ORD-10439,Wareneingang im LVS,2025-10-26 19:55:33,Server
+ORD-10439,Kommissionierung gestartet,2025-10-28 11:55:33,Lagerhalle A
+ORD-10439,Kommissionierung beendet,2025-10-28 12:30:33,Lagerhalle A
+ORD-10439,Verpacken und Labeldruck,2025-10-28 12:52:33,Packtisch 3
+ORD-10439,Versandübergabe,2025-10-28 13:52:33,Rampe 1
+ORD-10440,Wareneingang im LVS,2025-10-04 23:06:54,Server
+ORD-10440,Kommissionierung gestartet,2025-10-06 14:06:54,Lagerhalle A
+ORD-10440,Kommissionierung beendet,2025-10-06 14:43:54,Lagerhalle A
+ORD-10440,Verpacken und Labeldruck,2025-10-06 16:03:54,Packtisch 3
+ORD-10440,Versandübergabe,2025-10-06 17:03:54,Rampe 1
+ORD-10441,Wareneingang im LVS,2025-10-22 16:27:06,Server
+ORD-10441,Kommissionierung gestartet,2025-10-23 15:27:06,Lagerhalle A
+ORD-10441,Kommissionierung beendet,2025-10-23 16:07:06,Lagerhalle A
+ORD-10441,Verpacken und Labeldruck,2025-10-23 17:11:06,Packtisch 3
+ORD-10441,Versandübergabe,2025-10-23 20:11:06,Rampe 1
+ORD-10442,Wareneingang im LVS,2025-10-30 17:08:15,Server
+ORD-10442,Kommissionierung gestartet,2025-11-01 02:08:15,Lagerhalle A
+ORD-10442,Kommissionierung beendet,2025-11-01 02:48:15,Lagerhalle A
+ORD-10442,Verpacken und Labeldruck,2025-11-01 04:40:15,Packtisch 3
+ORD-10442,Versandübergabe,2025-11-01 06:40:15,Rampe 1
+ORD-10443,Wareneingang im LVS,2025-10-02 17:16:40,Server
+ORD-10443,Kommissionierung gestartet,2025-10-03 09:16:40,Lagerhalle A
+ORD-10443,Kommissionierung beendet,2025-10-03 09:34:40,Lagerhalle A
+ORD-10443,Verpacken und Labeldruck,2025-10-03 11:06:40,Packtisch 3
+ORD-10443,Versandübergabe,2025-10-03 15:06:40,Rampe 1
+ORD-10444,Wareneingang im LVS,2025-09-27 18:10:11,Server
+ORD-10444,Kommissionierung gestartet,2025-09-28 02:10:11,Lagerhalle A
+ORD-10444,Kommissionierung beendet,2025-09-28 02:35:11,Lagerhalle A
+ORD-10444,Verpacken und Labeldruck,2025-09-28 03:20:11,Packtisch 3
+ORD-10444,Versandübergabe,2025-09-28 07:20:11,Rampe 1
+ORD-10445,Wareneingang im LVS,2025-10-18 10:58:44,Server
+ORD-10445,Kommissionierung gestartet,2025-10-20 08:58:44,Lagerhalle A
+ORD-10445,Kommissionierung beendet,2025-10-20 09:17:44,Lagerhalle A
+ORD-10445,Verpacken und Labeldruck,2025-10-20 09:51:44,Packtisch 3
+ORD-10445,Versandübergabe,2025-10-20 13:51:44,Rampe 1
+ORD-10446,Wareneingang im LVS,2025-10-13 13:06:14,Server
+ORD-10446,Kommissionierung gestartet,2025-10-14 23:06:14,Lagerhalle A
+ORD-10446,Kommissionierung beendet,2025-10-14 23:44:14,Lagerhalle A
+ORD-10446,Verpacken und Labeldruck,2025-10-15 01:11:14,Packtisch 3
+ORD-10446,Versandübergabe,2025-10-15 04:11:14,Rampe 1
+ORD-10447,Wareneingang im LVS,2025-09-14 04:28:57,Server
+ORD-10447,Kommissionierung gestartet,2025-09-15 14:28:57,Lagerhalle A
+ORD-10447,Kommissionierung beendet,2025-09-15 15:03:57,Lagerhalle A
+ORD-10447,Verpacken und Labeldruck,2025-09-15 16:14:57,Packtisch 3
+ORD-10447,Versandübergabe,2025-09-15 20:14:57,Rampe 1
+ORD-10448,Wareneingang im LVS,2025-10-17 11:16:26,Server
+ORD-10448,Kommissionierung gestartet,2025-10-19 06:16:26,Lagerhalle A
+ORD-10448,Kommissionierung beendet,2025-10-19 06:43:26,Lagerhalle A
+ORD-10448,Verpacken und Labeldruck,2025-10-19 08:36:26,Packtisch 3
+ORD-10448,Versandübergabe,2025-10-19 09:36:26,Rampe 1
+ORD-10449,Wareneingang im LVS,2025-09-02 14:31:44,Server
+ORD-10449,Kommissionierung gestartet,2025-09-04 07:31:44,Lagerhalle A
+ORD-10449,Kommissionierung beendet,2025-09-04 08:10:44,Lagerhalle A
+ORD-10449,Verpacken und Labeldruck,2025-09-04 09:59:44,Packtisch 3
+ORD-10449,Versandübergabe,2025-09-04 11:59:44,Rampe 1
+ORD-10450,Wareneingang im LVS,2025-10-05 14:23:47,Server
+ORD-10450,Kommissionierung gestartet,2025-10-07 05:23:47,Lagerhalle A
+ORD-10450,Kommissionierung beendet,2025-10-07 05:51:47,Lagerhalle A
+ORD-10450,Verpacken und Labeldruck,2025-10-07 06:48:47,Packtisch 3
+ORD-10450,Versandübergabe,2025-10-07 07:48:47,Rampe 1
+ORD-10451,Wareneingang im LVS,2025-09-16 17:26:35,Server
+ORD-10451,Kommissionierung gestartet,2025-09-17 20:26:35,Lagerhalle A
+ORD-10451,Kommissionierung beendet,2025-09-17 21:03:35,Lagerhalle A
+ORD-10451,Verpacken und Labeldruck,2025-09-17 22:38:35,Packtisch 3
+ORD-10451,Versandübergabe,2025-09-18 01:38:35,Rampe 1
+ORD-10452,Wareneingang im LVS,2025-09-30 13:07:20,Server
+ORD-10452,Kommissionierung gestartet,2025-10-02 12:07:20,Lagerhalle A
+ORD-10452,Kommissionierung beendet,2025-10-02 12:38:20,Lagerhalle A
+ORD-10452,Verpacken und Labeldruck,2025-10-02 14:27:20,Packtisch 3
+ORD-10452,Versandübergabe,2025-10-02 16:27:20,Rampe 1
+ORD-10453,Wareneingang im LVS,2025-09-21 16:46:23,Server
+ORD-10453,Kommissionierung gestartet,2025-09-21 20:46:23,Lagerhalle A
+ORD-10453,Kommissionierung beendet,2025-09-21 21:15:23,Lagerhalle A
+ORD-10453,Verpacken und Labeldruck,2025-09-21 21:33:23,Packtisch 3
+ORD-10453,Versandübergabe,2025-09-22 00:33:23,Rampe 1
+ORD-10454,Wareneingang im LVS,2025-10-21 10:04:02,Server
+ORD-10454,Kommissionierung gestartet,2025-10-23 09:04:02,Lagerhalle A
+ORD-10454,Kommissionierung beendet,2025-10-23 09:35:02,Lagerhalle A
+ORD-10454,Verpacken und Labeldruck,2025-10-23 10:15:02,Packtisch 3
+ORD-10454,Versandübergabe,2025-10-23 11:15:02,Rampe 1
+ORD-10455,Wareneingang im LVS,2025-10-13 11:02:30,Server
+ORD-10455,Kommissionierung gestartet,2025-10-15 09:02:30,Lagerhalle A
+ORD-10455,Kommissionierung beendet,2025-10-15 09:31:30,Lagerhalle A
+ORD-10455,Verpacken und Labeldruck,2025-10-15 11:14:30,Packtisch 3
+ORD-10455,Versandübergabe,2025-10-15 13:14:30,Rampe 1
+ORD-10456,Wareneingang im LVS,2025-09-20 18:42:05,Server
+ORD-10456,Kommissionierung gestartet,2025-09-22 09:42:05,Lagerhalle A
+ORD-10456,Kommissionierung beendet,2025-09-22 09:57:05,Lagerhalle A
+ORD-10456,Verpacken und Labeldruck,2025-09-22 11:55:05,Packtisch 3
+ORD-10456,Versandübergabe,2025-09-22 14:55:05,Rampe 1
+ORD-10457,Wareneingang im LVS,2025-10-23 17:12:41,Server
+ORD-10457,Kommissionierung gestartet,2025-10-24 06:12:41,Lagerhalle A
+ORD-10457,Kommissionierung beendet,2025-10-24 06:37:41,Lagerhalle A
+ORD-10457,Verpacken und Labeldruck,2025-10-24 07:46:41,Packtisch 3
+ORD-10457,Versandübergabe,2025-10-24 10:46:41,Rampe 1
+ORD-10458,Wareneingang im LVS,2025-09-13 18:59:44,Server
+ORD-10458,Kommissionierung gestartet,2025-09-14 01:59:44,Lagerhalle A
+ORD-10458,Kommissionierung beendet,2025-09-14 02:37:44,Lagerhalle A
+ORD-10458,Verpacken und Labeldruck,2025-09-14 03:14:44,Packtisch 3
+ORD-10458,Versandübergabe,2025-09-14 04:14:44,Rampe 1
+ORD-10459,Wareneingang im LVS,2025-10-04 09:51:43,Server
+ORD-10459,Kommissionierung gestartet,2025-10-04 13:51:43,Lagerhalle A
+ORD-10459,Kommissionierung beendet,2025-10-04 14:32:43,Lagerhalle A
+ORD-10459,Verpacken und Labeldruck,2025-10-04 15:46:43,Packtisch 3
+ORD-10459,Versandübergabe,2025-10-04 16:46:43,Rampe 1
+ORD-10460,Wareneingang im LVS,2025-09-13 10:29:43,Server
+ORD-10460,Kommissionierung gestartet,2025-09-13 19:29:43,Lagerhalle A
+ORD-10460,Kommissionierung beendet,2025-09-13 20:10:43,Lagerhalle A
+ORD-10460,Verpacken und Labeldruck,2025-09-13 21:05:43,Packtisch 3
+ORD-10460,Versandübergabe,2025-09-13 23:05:43,Rampe 1
+ORD-10461,Wareneingang im LVS,2025-10-29 15:05:24,Server
+ORD-10461,Kommissionierung gestartet,2025-10-31 05:05:24,Lagerhalle A
+ORD-10461,Kommissionierung beendet,2025-10-31 05:21:24,Lagerhalle A
+ORD-10461,Verpacken und Labeldruck,2025-10-31 05:45:24,Packtisch 3
+ORD-10461,Versandübergabe,2025-10-31 06:45:24,Rampe 1
+ORD-10462,Wareneingang im LVS,2025-09-15 19:11:15,Server
+ORD-10462,Kommissionierung gestartet,2025-09-17 01:11:15,Lagerhalle A
+ORD-10462,Kommissionierung beendet,2025-09-17 01:33:15,Lagerhalle A
+ORD-10462,Verpacken und Labeldruck,2025-09-17 03:16:15,Packtisch 3
+ORD-10462,Versandübergabe,2025-09-17 04:16:15,Rampe 1
+ORD-10463,Wareneingang im LVS,2025-10-28 23:33:47,Server
+ORD-10463,Kommissionierung gestartet,2025-10-30 04:33:47,Lagerhalle A
+ORD-10463,Kommissionierung beendet,2025-10-30 04:51:47,Lagerhalle A
+ORD-10463,Verpacken und Labeldruck,2025-10-30 05:39:47,Packtisch 3
+ORD-10463,Versandübergabe,2025-10-30 09:39:47,Rampe 1
+ORD-10464,Wareneingang im LVS,2025-10-10 15:40:10,Server
+ORD-10464,Kommissionierung gestartet,2025-10-11 12:40:10,Lagerhalle A
+ORD-10464,Kommissionierung beendet,2025-10-11 13:11:10,Lagerhalle A
+ORD-10464,Verpacken und Labeldruck,2025-10-11 13:33:10,Packtisch 3
+ORD-10464,Versandübergabe,2025-10-11 17:33:10,Rampe 1
+ORD-10465,Wareneingang im LVS,2025-09-04 17:06:33,Server
+ORD-10465,Kommissionierung gestartet,2025-09-05 04:06:33,Lagerhalle A
+ORD-10465,Kommissionierung beendet,2025-09-05 04:23:33,Lagerhalle A
+ORD-10465,Verpacken und Labeldruck,2025-09-05 04:53:33,Packtisch 3
+ORD-10465,Versandübergabe,2025-09-05 05:53:33,Rampe 1
+ORD-10466,Wareneingang im LVS,2025-09-30 11:22:30,Server
+ORD-10466,Kommissionierung gestartet,2025-10-01 19:22:30,Lagerhalle A
+ORD-10466,Kommissionierung beendet,2025-10-01 19:57:30,Lagerhalle A
+ORD-10466,Verpacken und Labeldruck,2025-10-01 20:32:30,Packtisch 3
+ORD-10466,Versandübergabe,2025-10-01 23:32:30,Rampe 1
+ORD-10467,Wareneingang im LVS,2025-10-04 19:05:02,Server
+ORD-10467,Kommissionierung gestartet,2025-10-05 20:05:02,Lagerhalle A
+ORD-10467,Kommissionierung beendet,2025-10-05 20:40:02,Lagerhalle A
+ORD-10467,Verpacken und Labeldruck,2025-10-05 21:11:02,Packtisch 3
+ORD-10467,Versandübergabe,2025-10-05 22:11:02,Rampe 1
+ORD-10468,Wareneingang im LVS,2025-10-14 11:15:40,Server
+ORD-10468,Kommissionierung gestartet,2025-10-15 18:15:40,Lagerhalle A
+ORD-10468,Kommissionierung beendet,2025-10-15 18:42:40,Lagerhalle A
+ORD-10468,Verpacken und Labeldruck,2025-10-15 18:54:40,Packtisch 3
+ORD-10468,Versandübergabe,2025-10-15 20:54:40,Rampe 1
+ORD-10469,Wareneingang im LVS,2025-09-16 08:24:21,Server
+ORD-10469,Kommissionierung gestartet,2025-09-17 16:24:21,Lagerhalle A
+ORD-10469,Kommissionierung beendet,2025-09-17 16:43:21,Lagerhalle A
+ORD-10469,Verpacken und Labeldruck,2025-09-17 18:13:21,Packtisch 3
+ORD-10469,Versandübergabe,2025-09-17 19:13:21,Rampe 1
+ORD-10470,Wareneingang im LVS,2025-09-05 17:41:23,Server
+ORD-10470,Kommissionierung gestartet,2025-09-06 10:41:23,Lagerhalle A
+ORD-10470,Kommissionierung beendet,2025-09-06 11:11:23,Lagerhalle A
+ORD-10470,Verpacken und Labeldruck,2025-09-06 12:07:23,Packtisch 3
+ORD-10470,Versandübergabe,2025-09-06 15:07:23,Rampe 1
+ORD-10471,Wareneingang im LVS,2025-10-19 10:04:15,Server
+ORD-10471,Kommissionierung gestartet,2025-10-21 07:04:15,Lagerhalle A
+ORD-10471,Kommissionierung beendet,2025-10-21 07:36:15,Lagerhalle A
+ORD-10471,Verpacken und Labeldruck,2025-10-21 09:15:15,Packtisch 3
+ORD-10471,Versandübergabe,2025-10-21 10:15:15,Rampe 1
+ORD-10472,Wareneingang im LVS,2025-09-12 09:59:33,Server
+ORD-10472,Kommissionierung gestartet,2025-09-13 14:59:33,Lagerhalle A
+ORD-10472,Kommissionierung beendet,2025-09-13 15:14:33,Lagerhalle A
+ORD-10472,Verpacken und Labeldruck,2025-09-13 16:17:33,Packtisch 3
+ORD-10472,Versandübergabe,2025-09-13 17:17:33,Rampe 1
+ORD-10473,Wareneingang im LVS,2025-10-27 09:08:04,Server
+ORD-10473,Kommissionierung gestartet,2025-10-28 11:08:04,Lagerhalle A
+ORD-10473,Kommissionierung beendet,2025-10-28 11:51:04,Lagerhalle A
+ORD-10473,Verpacken und Labeldruck,2025-10-28 12:02:04,Packtisch 3
+ORD-10473,Versandübergabe,2025-10-28 14:02:04,Rampe 1
+ORD-10474,Wareneingang im LVS,2025-09-09 10:40:39,Server
+ORD-10474,Kommissionierung gestartet,2025-09-09 23:40:39,Lagerhalle A
+ORD-10474,Kommissionierung beendet,2025-09-10 00:07:39,Lagerhalle A
+ORD-10474,Verpacken und Labeldruck,2025-09-10 00:24:39,Packtisch 3
+ORD-10474,Versandübergabe,2025-09-10 04:24:39,Rampe 1
+ORD-10475,Wareneingang im LVS,2025-10-02 23:00:49,Server
+ORD-10475,Kommissionierung gestartet,2025-10-04 12:00:49,Lagerhalle A
+ORD-10475,Kommissionierung beendet,2025-10-04 12:45:49,Lagerhalle A
+ORD-10475,Verpacken und Labeldruck,2025-10-04 14:17:49,Packtisch 3
+ORD-10475,Versandübergabe,2025-10-04 16:17:49,Rampe 1
+ORD-10476,Wareneingang im LVS,2025-09-15 14:50:00,Server
+ORD-10476,Kommissionierung gestartet,2025-09-15 22:50:00,Lagerhalle A
+ORD-10476,Kommissionierung beendet,2025-09-15 23:14:00,Lagerhalle A
+ORD-10476,Verpacken und Labeldruck,2025-09-16 00:13:00,Packtisch 3
+ORD-10476,Versandübergabe,2025-09-16 01:13:00,Rampe 1
+ORD-10477,Wareneingang im LVS,2025-09-04 23:35:53,Server
+ORD-10477,Kommissionierung gestartet,2025-09-06 11:35:53,Lagerhalle A
+ORD-10477,Kommissionierung beendet,2025-09-06 11:53:53,Lagerhalle A
+ORD-10477,Verpacken und Labeldruck,2025-09-06 13:40:53,Packtisch 3
+ORD-10477,Versandübergabe,2025-09-06 14:40:53,Rampe 1
+ORD-10478,Wareneingang im LVS,2025-09-09 14:38:00,Server
+ORD-10478,Kommissionierung gestartet,2025-09-10 00:38:00,Lagerhalle A
+ORD-10478,Kommissionierung beendet,2025-09-10 01:10:00,Lagerhalle A
+ORD-10478,Verpacken und Labeldruck,2025-09-10 02:13:00,Packtisch 3
+ORD-10478,Versandübergabe,2025-09-10 03:13:00,Rampe 1
+ORD-10479,Wareneingang im LVS,2025-09-17 15:15:12,Server
+ORD-10479,Kommissionierung gestartet,2025-09-19 11:15:12,Lagerhalle A
+ORD-10479,Kommissionierung beendet,2025-09-19 11:33:12,Lagerhalle A
+ORD-10479,Verpacken und Labeldruck,2025-09-19 13:31:12,Packtisch 3
+ORD-10479,Versandübergabe,2025-09-19 17:31:12,Rampe 1
+ORD-10480,Wareneingang im LVS,2025-09-05 13:53:09,Server
+ORD-10480,Kommissionierung gestartet,2025-09-06 17:53:09,Lagerhalle A
+ORD-10480,Kommissionierung beendet,2025-09-06 18:20:09,Lagerhalle A
+ORD-10480,Verpacken und Labeldruck,2025-09-06 19:28:09,Packtisch 3
+ORD-10480,Versandübergabe,2025-09-06 21:28:09,Rampe 1
+ORD-10481,Wareneingang im LVS,2025-10-08 18:31:59,Server
+ORD-10481,Kommissionierung gestartet,2025-10-09 01:31:59,Lagerhalle A
+ORD-10481,Kommissionierung beendet,2025-10-09 01:58:59,Lagerhalle A
+ORD-10481,Verpacken und Labeldruck,2025-10-09 02:56:59,Packtisch 3
+ORD-10481,Versandübergabe,2025-10-09 04:56:59,Rampe 1
+ORD-10482,Wareneingang im LVS,2025-09-04 16:27:38,Server
+ORD-10482,Kommissionierung gestartet,2025-09-06 06:27:38,Lagerhalle A
+ORD-10482,Kommissionierung beendet,2025-09-06 06:43:38,Lagerhalle A
+ORD-10482,Verpacken und Labeldruck,2025-09-06 07:23:38,Packtisch 3
+ORD-10482,Versandübergabe,2025-09-06 09:23:38,Rampe 1
+ORD-10483,Wareneingang im LVS,2025-10-18 17:08:38,Server
+ORD-10483,Kommissionierung gestartet,2025-10-19 22:08:38,Lagerhalle A
+ORD-10483,Kommissionierung beendet,2025-10-19 22:32:38,Lagerhalle A
+ORD-10483,Verpacken und Labeldruck,2025-10-20 00:18:38,Packtisch 3
+ORD-10483,Versandübergabe,2025-10-20 03:18:38,Rampe 1
+ORD-10484,Wareneingang im LVS,2025-09-26 19:26:02,Server
+ORD-10484,Kommissionierung gestartet,2025-09-27 20:26:02,Lagerhalle A
+ORD-10484,Kommissionierung beendet,2025-09-27 20:58:02,Lagerhalle A
+ORD-10484,Verpacken und Labeldruck,2025-09-27 21:25:02,Packtisch 3
+ORD-10484,Versandübergabe,2025-09-27 23:25:02,Rampe 1
+ORD-10485,Wareneingang im LVS,2025-09-07 13:40:32,Server
+ORD-10485,Kommissionierung gestartet,2025-09-08 17:40:32,Lagerhalle A
+ORD-10485,Kommissionierung beendet,2025-09-08 18:10:32,Lagerhalle A
+ORD-10485,Verpacken und Labeldruck,2025-09-08 20:05:32,Packtisch 3
+ORD-10485,Versandübergabe,2025-09-08 21:05:32,Rampe 1
+ORD-10486,Wareneingang im LVS,2025-10-26 17:26:21,Server
+ORD-10486,Kommissionierung gestartet,2025-10-26 22:26:21,Lagerhalle A
+ORD-10486,Kommissionierung beendet,2025-10-26 22:46:21,Lagerhalle A
+ORD-10486,Verpacken und Labeldruck,2025-10-26 23:08:21,Packtisch 3
+ORD-10486,Versandübergabe,2025-10-27 02:08:21,Rampe 1
+ORD-10487,Wareneingang im LVS,2025-09-14 17:18:14,Server
+ORD-10487,Kommissionierung gestartet,2025-09-15 04:18:14,Lagerhalle A
+ORD-10487,Kommissionierung beendet,2025-09-15 05:03:14,Lagerhalle A
+ORD-10487,Verpacken und Labeldruck,2025-09-15 06:17:14,Packtisch 3
+ORD-10487,Versandübergabe,2025-09-15 09:17:14,Rampe 1
+ORD-10488,Wareneingang im LVS,2025-09-16 12:21:07,Server
+ORD-10488,Kommissionierung gestartet,2025-09-17 12:21:07,Lagerhalle A
+ORD-10488,Kommissionierung beendet,2025-09-17 13:00:07,Lagerhalle A
+ORD-10488,Verpacken und Labeldruck,2025-09-17 14:09:07,Packtisch 3
+ORD-10488,Versandübergabe,2025-09-17 17:09:07,Rampe 1
+ORD-10489,Wareneingang im LVS,2025-09-24 09:03:03,Server
+ORD-10489,Kommissionierung gestartet,2025-09-25 19:03:03,Lagerhalle A
+ORD-10489,Kommissionierung beendet,2025-09-25 19:18:03,Lagerhalle A
+ORD-10489,Verpacken und Labeldruck,2025-09-25 20:37:03,Packtisch 3
+ORD-10489,Versandübergabe,2025-09-25 22:37:03,Rampe 1
+ORD-10490,Wareneingang im LVS,2025-10-25 08:06:29,Server
+ORD-10490,Kommissionierung gestartet,2025-10-26 14:06:29,Lagerhalle A
+ORD-10490,Kommissionierung beendet,2025-10-26 14:43:29,Lagerhalle A
+ORD-10490,Verpacken und Labeldruck,2025-10-26 16:28:29,Packtisch 3
+ORD-10490,Versandübergabe,2025-10-26 19:28:29,Rampe 1
+ORD-10491,Wareneingang im LVS,2025-09-16 18:58:52,Server
+ORD-10491,Kommissionierung gestartet,2025-09-16 21:58:52,Lagerhalle A
+ORD-10491,Kommissionierung beendet,2025-09-16 22:17:52,Lagerhalle A
+ORD-10491,Verpacken und Labeldruck,2025-09-16 23:28:52,Packtisch 3
+ORD-10491,Versandübergabe,2025-09-17 03:28:52,Rampe 1
+ORD-10492,Wareneingang im LVS,2025-10-20 18:45:43,Server
+ORD-10492,Kommissionierung gestartet,2025-10-22 05:45:43,Lagerhalle A
+ORD-10492,Kommissionierung beendet,2025-10-22 06:15:43,Lagerhalle A
+ORD-10492,Verpacken und Labeldruck,2025-10-22 07:40:43,Packtisch 3
+ORD-10492,Versandübergabe,2025-10-22 09:40:43,Rampe 1
+ORD-10493,Wareneingang im LVS,2025-09-20 09:21:09,Server
+ORD-10493,Kommissionierung gestartet,2025-09-21 06:21:09,Lagerhalle A
+ORD-10493,Kommissionierung beendet,2025-09-21 07:04:09,Lagerhalle A
+ORD-10493,Verpacken und Labeldruck,2025-09-21 07:30:09,Packtisch 3
+ORD-10493,Versandübergabe,2025-09-21 11:30:09,Rampe 1
+ORD-10494,Wareneingang im LVS,2025-10-18 19:11:52,Server
+ORD-10494,Kommissionierung gestartet,2025-10-18 23:11:52,Lagerhalle A
+ORD-10494,Kommissionierung beendet,2025-10-18 23:55:52,Lagerhalle A
+ORD-10494,Verpacken und Labeldruck,2025-10-19 01:08:52,Packtisch 3
+ORD-10494,Versandübergabe,2025-10-19 05:08:52,Rampe 1
+ORD-10495,Wareneingang im LVS,2025-10-21 08:38:43,Server
+ORD-10495,Kommissionierung gestartet,2025-10-21 23:38:43,Lagerhalle A
+ORD-10495,Kommissionierung beendet,2025-10-22 00:20:43,Lagerhalle A
+ORD-10495,Verpacken und Labeldruck,2025-10-22 01:48:43,Packtisch 3
+ORD-10495,Versandübergabe,2025-10-22 05:48:43,Rampe 1
+ORD-10496,Wareneingang im LVS,2025-10-18 18:45:14,Server
+ORD-10496,Kommissionierung gestartet,2025-10-18 23:45:14,Lagerhalle A
+ORD-10496,Kommissionierung beendet,2025-10-19 00:08:14,Lagerhalle A
+ORD-10496,Verpacken und Labeldruck,2025-10-19 01:25:14,Packtisch 3
+ORD-10496,Versandübergabe,2025-10-19 02:25:14,Rampe 1
+ORD-10497,Wareneingang im LVS,2025-09-28 10:09:22,Server
+ORD-10497,Kommissionierung gestartet,2025-09-29 09:09:22,Lagerhalle A
+ORD-10497,Kommissionierung beendet,2025-09-29 09:52:22,Lagerhalle A
+ORD-10497,Verpacken und Labeldruck,2025-09-29 10:39:22,Packtisch 3
+ORD-10497,Versandübergabe,2025-09-29 12:39:22,Rampe 1
+ORD-10498,Wareneingang im LVS,2025-10-14 09:17:22,Server
+ORD-10498,Kommissionierung gestartet,2025-10-14 22:17:22,Lagerhalle A
+ORD-10498,Kommissionierung beendet,2025-10-14 22:35:22,Lagerhalle A
+ORD-10498,Verpacken und Labeldruck,2025-10-14 23:40:22,Packtisch 3
+ORD-10498,Versandübergabe,2025-10-15 02:40:22,Rampe 1
+ORD-10499,Wareneingang im LVS,2025-10-20 08:18:22,Server
+ORD-10499,Kommissionierung gestartet,2025-10-20 16:18:22,Lagerhalle A
+ORD-10499,Kommissionierung beendet,2025-10-20 16:45:22,Lagerhalle A
+ORD-10499,Verpacken und Labeldruck,2025-10-20 17:52:22,Packtisch 3
+ORD-10499,Versandübergabe,2025-10-20 19:52:22,Rampe 1
+ORD-10500,Wareneingang im LVS,2025-10-31 13:56:55,Server
+ORD-10500,Kommissionierung gestartet,2025-11-01 15:56:55,Lagerhalle A
+ORD-10500,Kommissionierung beendet,2025-11-01 16:28:55,Lagerhalle A
+ORD-10500,Verpacken und Labeldruck,2025-11-01 16:45:55,Packtisch 3
+ORD-10500,Versandübergabe,2025-11-01 20:45:55,Rampe 1
