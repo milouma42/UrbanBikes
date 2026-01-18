@@ -1,11 +1,11 @@
-Aktivitaet,Dauer_bis_nächster_Schritt
-Wareneingang im LVS,1 days 01:28:04.800000
-Verpacken und Labeldruck,0 days 02:34:19.200000
-Bonitätsprüfung automatisch,0 days 02:18:50.760000
-Kommissionierung beendet,0 days 01:04:32.640000
-Bestellung freigegeben,0 days 00:33:37.297297297
-Kommissionierung gestartet,0 days 00:29:29.880000
-Bonitätsprüfung manuell,0 days 00:19:47.837837837
-Bestellung eingegangen,0 days 00:05:38.640000
-Übermittlung an Lager,0 days 00:01:05.776000
-Versandübergabe,
+Aktivitaet,Dauer_Objekt,Dauer_in_Stunden
+Bestellung eingegangen,0 days 00:05:38.640000,0.09406666666666666
+Bestellung freigegeben,0 days 00:33:37.297297297,0.5603603603602777
+Bonitätsprüfung automatisch,0 days 02:18:50.760000,2.3141000000000003
+Bonitätsprüfung manuell,0 days 00:19:47.837837837,0.3299549549547222
+Kommissionierung beendet,0 days 01:04:32.640000,1.0757333333333332
+Kommissionierung gestartet,0 days 00:29:29.880000,0.49163333333333337
+Verpacken und Labeldruck,0 days 02:34:19.200000,2.572
+Versandübergabe,,
+Wareneingang im LVS,1 days 01:28:04.800000,25.468
+Übermittlung an Lager,0 days 00:01:05.776000,0.01827111111111111
